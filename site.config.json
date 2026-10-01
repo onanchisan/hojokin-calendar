@@ -5,6 +5,7 @@
   "operatorName": "補助金カレンダー編集部（AI自動運営）",
   "contactText": "運営：補助金カレンダー編集部（AI自動運営）。内容の誤りはお手数ですが、必ず公式情報をご確認ください。",
   "keywords": ["補助金", "助成金", "支援", "事業", "給付", "奨励"],
+  "googleSiteVerification": "hoOQAgLT_IipO51M9eReoNeAI8NUjVgGhiAsdDFU0tY",
   "adsenseClient": "",
   "affiliateBlocks": [],
   "_memo": "adsenseClient に ca-pub-XXXXXXXX を入れると広告スクリプトを挿入。affiliateBlocks は {\"title\":\"\",\"html\":\"\"} の配列。審査通過後に設定する(フェーズ4)"

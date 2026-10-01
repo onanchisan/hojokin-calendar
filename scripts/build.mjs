@@ -59,7 +59,7 @@ const adsScript = cfg.adsenseClient ? `<script async src="https://pagead2.google
 const affiliates = (cfg.affiliateBlocks || []).map((b) => `<div class="card"><strong>${esc(b.title)}</strong><div>${b.html}</div></div>`).join('');
 
 const page = ({ title, desc, path: p, body }) => `<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${esc(title)}｜${esc(cfg.siteName)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${BASE}${p}"><link rel="stylesheet" href="${BASE}/style.css">${adsScript}</head>
+<title>${esc(title)}｜${esc(cfg.siteName)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${BASE}${p}"><link rel="stylesheet" href="${BASE}/style.css">${cfg.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(cfg.googleSiteVerification)}">` : ''}${adsScript}</head>
 <body><header><div class="w"><strong><a href="${BASE}/" style="text-decoration:none">${esc(cfg.siteName)}</a></strong> <span class="meta">${esc(cfg.tagline)}</span><nav><a href="${BASE}/">締切順</a><a href="${BASE}/areas.html">地域から探す</a><a href="${BASE}/about.html">このサイトについて</a></nav></div></header>
 <main class="w">${body}</main><footer><div class="w">${esc(cfg.contactText)}<br>出典：<a href="https://www.jgrants-portal.go.jp/">Jグランツ</a>。このコンテンツは、政府公式の補助金申請システム jGrants の Web-API 機能を利用して取得した情報をもとに${esc(cfg.operatorName)}にて編集・加工して作成されたものです。コンテンツの内容は日本国政府及び自治体によって保証されたものではありません。最終取得日：${fetchedStr}。<a href="${BASE}/about.html">免責・プライバシー</a></div></footer></body></html>`;
 
