@@ -1,6 +1,7 @@
 // data/subsidies.json から静的サイトを docs/ に生成する
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -60,7 +61,7 @@ const affiliates = (cfg.affiliateBlocks || []).map((b) => `<div class="card"><st
 
 const page = ({ title, desc, path: p, body }) => `<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${esc(title)}｜${esc(cfg.siteName)}</title><meta name="description" content="${esc(desc)}"><link rel="canonical" href="${BASE}${p}"><link rel="stylesheet" href="${BASE}/style.css">${cfg.googleSiteVerification ? `<meta name="google-site-verification" content="${esc(cfg.googleSiteVerification)}">` : ''}${adsScript}</head>
-<body><header><div class="w"><strong><a href="${BASE}/" style="text-decoration:none">${esc(cfg.siteName)}</a></strong> <span class="meta">${esc(cfg.tagline)}</span><nav><a href="${BASE}/">締切順</a><a href="${BASE}/areas.html">地域から探す</a><a href="${BASE}/about.html">このサイトについて</a></nav></div></header>
+<body><header><div class="w"><strong><a href="${BASE}/" style="text-decoration:none">${esc(cfg.siteName)}</a></strong> <span class="meta">${esc(cfg.tagline)}</span><nav><a href="${BASE}/">締切順</a><a href="${BASE}/areas.html">地域</a><a href="${BASE}/industries.html">業種</a><a href="${BASE}/deadline.html">月別締切</a><a href="${BASE}/ranking.html">上限額順</a><a href="${BASE}/guide.html">ガイド</a><a href="${BASE}/about.html">このサイトについて</a></nav></div></header>
 <main class="w">${body}</main><footer><div class="w">${esc(cfg.contactText)}<br>出典：<a href="https://www.jgrants-portal.go.jp/">Jグランツ</a>。このコンテンツは、政府公式の補助金申請システム jGrants の Web-API 機能を利用して取得した情報をもとに${esc(cfg.operatorName)}にて編集・加工して作成されたものです。コンテンツの内容は日本国政府及び自治体によって保証されたものではありません。最終取得日：${fetchedStr}。<a href="${BASE}/about.html">免責・プライバシー</a></div></footer></body></html>`;
 
 const card = (x) => `<div class="card"><h3><a href="${BASE}/p/${x.id}.html">${esc(x.title)}</a></h3><div class="meta">${x.daysLeft <= 14 ? '<span class="badge hot">締切まで' + x.daysLeft + '日</span>' : ''}<span class="badge">${esc(x.area)}</span>締切：${ymd(x.end)}　上限：${yen(x.max)}</div>${x.summary ? `<p>${esc(x.summary)}…</p>` : ''}</div>`;
@@ -95,6 +96,47 @@ for (const [s, a] of byArea) {
 }
 write('areas.html', page({ title: '地域から探す', desc: '都道府県別の補助金・助成金一覧', path: '/areas.html', body: `<h1>地域から探す</h1><ul>${[...byArea].sort().map(([s, a]) => `<li><a href="${BASE}/area/${s}.html">${esc(a.name)}</a>（${a.list.length}件）</li>`).join('')}</ul>` }));
 
+// 月別締切
+fs.mkdirSync(path.join(out, 'deadline'), { recursive: true });
+const byMonth = new Map();
+for (const x of items) {
+  const k = `${x.end.getUTCFullYear()}-${String(x.end.getUTCMonth() + 1).padStart(2, '0')}`;
+  if (!byMonth.has(k)) byMonth.set(k, []);
+  byMonth.get(k).push(x);
+}
+const months = [...byMonth.keys()].sort();
+for (const k of months) {
+  const [y, m] = k.split('-');
+  const l = byMonth.get(k);
+  write(`deadline/${k}.html`, page({ title: `${y}年${+m}月が締切の補助金・助成金（${l.length}件）`, desc: `${y}年${+m}月に公募が締め切られる補助金・助成金${l.length}件を、締切日順に掲載。最終取得日${fetchedStr}。`, path: `/deadline/${k}.html`, body: `<h1>${y}年${+m}月が締切の補助金・助成金</h1>${disclaimer}<p>${l.length}件</p>${l.map(card).join('')}` }));
+}
+write('deadline.html', page({ title: '月別の締切カレンダー', desc: '補助金・助成金の締切を月ごとに確認', path: '/deadline.html', body: `<h1>月別の締切カレンダー</h1><ul>${months.map((k) => `<li><a href="${BASE}/deadline/${k}.html">${k.replace('-', '年')}月</a>（${byMonth.get(k).length}件）</li>`).join('')}</ul>` }));
+
+// 業種別
+fs.mkdirSync(path.join(out, 'industry'), { recursive: true });
+const slugOf = (s) => crypto.createHash('sha1').update(s).digest('hex').slice(0, 8);
+const byInd = new Map();
+for (const x of items) for (const n of x.industry.split('/').map((s) => s.trim()).filter(Boolean)) {
+  if (!byInd.has(n)) byInd.set(n, []);
+  byInd.get(n).push(x);
+}
+for (const [n, l] of byInd) {
+  write(`industry/${slugOf(n)}.html`, page({ title: `${n}向けの補助金・助成金（公募中${l.length}件）`, desc: `${n}が対象に含まれる公募中の補助金・助成金${l.length}件を締切順に掲載。最終取得日${fetchedStr}。`, path: `/industry/${slugOf(n)}.html`, body: `<h1>${esc(n)}向けの補助金・助成金</h1>${disclaimer}${l.map(card).join('')}` }));
+}
+write('industries.html', page({ title: '業種から探す', desc: '業種別の補助金・助成金一覧', path: '/industries.html', body: `<h1>業種から探す</h1><ul>${[...byInd].sort((a, b) => b[1].length - a[1].length).map(([n, l]) => `<li><a href="${BASE}/industry/${slugOf(n)}.html">${esc(n)}</a>（${l.length}件）</li>`).join('')}</ul>` }));
+
+// 上限額ランキング
+const top = items.filter((x) => x.max > 0).sort((a, b) => b.max - a.max).slice(0, 50);
+write('ranking.html', page({ title: '補助上限額が大きい補助金ランキング', desc: `公募中の補助金を上限額の大きい順に${top.length}件掲載。最終取得日${fetchedStr}。`, path: '/ranking.html', body: `<h1>補助上限額が大きい補助金ランキング</h1>${disclaimer}<p>上限額は最大値です。実際の交付額は審査・補助率・対象経費で決まります。</p>${top.map(card).join('')}` }));
+
+// ガイド記事
+fs.mkdirSync(path.join(out, 'guide'), { recursive: true });
+const guides = JSON.parse(fs.readFileSync(path.join(root, 'content', 'guides.json'), 'utf8'));
+for (const g of guides) {
+  write(`guide/${g.slug}.html`, page({ title: g.title, desc: g.desc, path: `/guide/${g.slug}.html`, body: `<h1>${esc(g.title)}</h1>${g.html.replaceAll('{{BASE}}', BASE)}` }));
+}
+write('guide.html', page({ title: '補助金ガイド', desc: '補助金・助成金の基礎知識と申請の流れ', path: '/guide.html', body: `<h1>補助金ガイド</h1>${guides.map((g) => `<div class="card"><h3><a href="${BASE}/guide/${g.slug}.html">${esc(g.title)}</a></h3><div class="meta">${esc(g.desc)}</div></div>`).join('')}` }));
+
 // 固定ページ
 write('about.html', page({
   title: 'このサイトについて・免責・プライバシー', desc: '運営方針、免責事項、プライバシーポリシー', path: '/about.html',
@@ -102,7 +144,7 @@ write('about.html', page({
 }));
 
 // サイトマップ
-const urls = ['/', '/areas.html', '/about.html', ...[...byArea.keys()].map((s) => `/area/${s}.html`), ...items.map((x) => `/p/${x.id}.html`)];
+const urls = ['/', '/areas.html', '/about.html', '/deadline.html', '/industries.html', '/ranking.html', '/guide.html', ...months.map((k) => `/deadline/${k}.html`), ...[...byInd.keys()].map((n) => `/industry/${slugOf(n)}.html`), ...guides.map((g) => `/guide/${g.slug}.html`),...[...byArea.keys()].map((s) => `/area/${s}.html`), ...items.map((x) => `/p/${x.id}.html`)];
 const lastmod = data.fetchedAt.slice(0, 10);
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${BASE}${u}</loc><lastmod>${lastmod}</lastmod></url>`).join('')}</urlset>`);
 console.log(`生成完了: 公募中${items.length}件 / ページ${urls.length}件`);
