@@ -26,6 +26,10 @@ for (const f of pages) {
   if (/undefined|NaN|>null</.test(h.replace(/<style[\s\S]*?<\/style>/g, ''))) errors.push(`${f}: 不正な値(undefined/NaN/null)`);
   for (const b of BAN) if (h.includes(b)) errors.push(`${f}: 禁止表現「${b}」`);
 }
+for (const f of ['index.html', 'about.html', ...pages.map((x) => 'p/' + x)]) {
+  const h = fs.readFileSync(path.join(docs, f), 'utf8');
+  if (!h.includes('出典：') || !h.includes('保証されたものではありません')) errors.push(`${f}: Jグランツ規約が求める出典・加工の表示がない`);
+}
 for (const f of ['index.html', 'about.html', 'sitemap.xml', 'robots.txt']) {
   if (!fs.existsSync(path.join(docs, f))) errors.push(`${f}がない`);
 }

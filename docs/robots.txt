@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://onanchisan.github.io/hojokin-calendar/sitemap.xml
+Sitemap: https://YOUR-USER.github.io/YOUR-REPO/sitemap.xml
