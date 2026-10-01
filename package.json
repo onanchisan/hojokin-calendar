@@ -1,0 +1,13 @@
+{
+  "name": "hojokin-calendar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "補助金カレンダー自動運営サイト(依存パッケージなし / Node.js 18以上)",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "build": "node scripts/build.mjs",
+    "verify": "node scripts/verify.mjs",
+    "daily": "node scripts/daily.mjs"
+  }
+}

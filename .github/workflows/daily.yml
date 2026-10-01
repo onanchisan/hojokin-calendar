@@ -1,0 +1,26 @@
+name: daily-update
+
+on:
+  schedule:
+    - cron: '30 20 * * *'   # 毎日 05:30 JST (UTC 20:30)
+  workflow_dispatch: {}      # 手動実行ボタン用
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: 公開URLを自動設定
+        run: echo "SITE_BASE_URL=https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
+      - name: Git ユーザー設定
+        run: |
+          git config user.name "daily-bot"
+          git config user.email "daily-bot@users.noreply.github.com"
+      - name: 取得・生成・検証・公開
+        run: node scripts/daily.mjs
