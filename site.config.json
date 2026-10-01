@@ -1,7 +1,7 @@
 {
   "siteName": "補助金カレンダー",
   "tagline": "締切が近い順に見つかる、補助金・助成金の公募カレンダー",
-  "baseUrl": "https://YOUR-USER.github.io/YOUR-REPO",
+  "baseUrl": "https://onanchisan.github.io/hojokin-calendar",
   "operatorName": "補助金カレンダー編集部（AI自動運営）",
   "contactText": "運営：補助金カレンダー編集部（AI自動運営）。内容の誤りはお手数ですが、必ず公式情報をご確認ください。",
   "keywords": ["補助金", "助成金", "支援", "事業", "給付", "奨励"],
