@@ -131,7 +131,8 @@ write('ranking.html', page({ title: '補助上限額が大きい補助金ラン�
 
 // ガイド記事
 fs.mkdirSync(path.join(out, 'guide'), { recursive: true });
-const guides = JSON.parse(fs.readFileSync(path.join(root, 'content', 'guides.json'), 'utf8'));
+const guides = fs.readdirSync(path.join(root, 'content')).filter((f) => /^guides.*\.json$/.test(f)).sort()
+  .flatMap((f) => JSON.parse(fs.readFileSync(path.join(root, 'content', f), 'utf8')));
 for (const g of guides) {
   write(`guide/${g.slug}.html`, page({ title: g.title, desc: g.desc, path: `/guide/${g.slug}.html`, body: `<h1>${esc(g.title)}</h1>${g.html.replaceAll('{{BASE}}', BASE)}` }));
 }
