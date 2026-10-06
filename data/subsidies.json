@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-04T21:29:30.340Z",
+ "fetchedAt": "2026-10-06T20:46:57.854Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -221,6 +221,23 @@
    "acceptance_end_datetime": "2030-03-31T11:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDJWIMA5",
    "institution_name": "申請練習用制度【補助金の支払いはありません】"
+  },
+  {
+   "id": "a0WJ200000CDK76MAH",
+   "name": "S-00006080",
+   "title": "東京都民間事業者に係る低公害・低燃費車導入促進補助金（補助金申請）",
+   "subsidy_catch_phrase": "圧縮天然ガス自動車（ＣＮＧ自動車）導入補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><br></p><p>圧縮天然ガス自動車の導入に対して補助します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p><br></p><p>・中小企業者（個人事業者を含む）</p><p><br></p><p>・上記の事業者へリースをするリース事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象</strong></p><p><br></p><p>圧縮天然ガス自動車（ＣＮＧ自動車）</p><p><br></p><p>（都内に使用の本拠を置く車両。車両総重量３．５トン以下の車両を除く。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助要件</strong></p><p><br></p><p>・補助金交付決定を受けた日以降に購入（車検登録）する車両であること。</p><p><br></p><p>・令和9年2月28日までに車両を購入し、都に実績報告書を提出すること。（最終報告期限　令和9年3月31日）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額</strong></p><p><br></p><p>車両総重量3.5t超8t以下 100，000円/台</p><p><br></p><p>車両総重量8t超 200，000円/台</p>",
+   "use_purpose": "設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 200000,
+   "acceptance_start_datetime": "2026-03-31T15:00Z",
+   "acceptance_end_datetime": "2027-02-26T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK76MAH",
+   "institution_name": "東京都民間所業者に係る低公害・低燃費車導入促進補助金"
   },
   {
    "id": "a0WJ200000CDWZ9MAP",
@@ -1039,23 +1056,6 @@
    "institution_name": "SDS電子化補助金事業"
   },
   {
-   "id": "a0WJ200000CDK76MAH",
-   "name": "S-00006080",
-   "title": "東京都民間事業者に係る低公害・低燃費車導入促進補助金（補助金申請）",
-   "subsidy_catch_phrase": "圧縮天然ガス自動車（ＣＮＧ自動車）導入補助金",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><br></p><p>圧縮天然ガス自動車の導入に対して補助します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p><br></p><p>・中小企業者（個人事業者を含む）</p><p><br></p><p>・上記の事業者へリースをするリース事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象</strong></p><p><br></p><p>圧縮天然ガス自動車（ＣＮＧ自動車）</p><p><br></p><p>（都内に使用の本拠を置く車両。車両総重量３．５トン以下の車両を除く。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助要件</strong></p><p><br></p><p>・補助金交付決定を受けた日以降に購入（車検登録）する車両であること。</p><p><br></p><p>・令和9年2月28日までに車両を購入し、都に実績報告書を提出すること。（最終報告期限　令和9年3月31日）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額</strong></p><p><br></p><p>車両総重量3.5t超8t以下 100，000円/台</p><p><br></p><p>車両総重量8t超 200，000円/台</p>",
-   "use_purpose": "設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 200000,
-   "acceptance_start_datetime": "2026-03-31T15:00Z",
-   "acceptance_end_datetime": "2027-02-26T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK76MAH",
-   "institution_name": "東京都民間所業者に係る低公害・低燃費車導入促進補助金"
-  },
-  {
    "id": "a0WJ200000CDYuhMAH",
    "name": "S-00009127",
    "title": "休廃止鉱山鉱害防止等工事費補助金（令和８年度当初）【中国監督部】",
@@ -1685,6 +1685,23 @@
    "institution_name": "令和８年度　産業車両等の脱炭素化促進事業のうち、港湾における脱炭素化促進事業（二酸化炭素排出抑制対策事業費等補助金）"
   },
   {
+   "id": "a0WJ200000CDYkiMAH",
+   "name": "S-00009019",
+   "title": "令和８年度外国人患者受入れ体制整備支援事業補助金",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>外国人が言葉や文化の隔てなく、症状に応じて安心して医療機関を受診できるよう、医療機関が外国人患者を受入れるに当たり必要な整備への補助を行います。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>東京都外国人患者受入れ体制整備支援事業補助金交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>東京都外国人患者受入れ体制整備支援事業補助金交付要綱第2のとおり</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>申請に当たっては、補助金事務手続きの手引きを必ずご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都保健医療局医療政策部医療政策課医療改革推進担当</p><p>（住 所） 〒１６３－８００１ 東京都新宿区西新宿二丁目８番１号</p><p>（電 話） ０３（５３２０）４４４８</p><p>（メールアドレス）S1150401@section.metro.tokyo.jp</p><p>　<span style=\"font-size: 12.8px;\">※メールの件名に「外国人患者受入れ体制整備支援事業補助金について」と記載し、本文に御担当者名及び御連絡先を記載し</span><span style=\"font-size: 0.8rem;\">てください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.hokeniryo.metro.tokyo.lg.jp/iryo/iryo_hoken/gaikokujin/ukeiretaisei/taiseiseibi.html</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請時のご協力について（「手続きサクサク　プロジェクト」への参加のお願い）</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>本申請においてご提供いただいた法人情報等について、都によるデータ収集にご同意いただき、今後、都の他の補助金等の申請手続の際にデータ入力を省略可能とする取組を行っています（｢手続サクサクプロジェクト｣）。</p><p>都によるデータ収集に関する同意につき、ご理解ご協力のほど、よろしくお願いします。</p>",
+   "use_purpose": "設備整備・IT導入をしたい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "1/2",
+   "subsidy_max_limit": 1300000,
+   "acceptance_start_datetime": "2026-05-19T15:00Z",
+   "acceptance_end_datetime": "2026-11-10T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYkiMAH",
+   "institution_name": "令和８年度外国人患者受入れ体制整備支援事業補助金"
+  },
+  {
    "id": "a0WJ200000CDYsRMAX",
    "name": "S-00009100",
    "title": "森・川・海ごみ削減実践活動支援事業補助金",
@@ -1903,23 +1920,6 @@
    "acceptance_start_datetime": "2026-08-24T01:00Z",
    "acceptance_end_datetime": "2026-10-23T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I7R7UAK",
-   "institution_name": "中小企業等海外展開支援事業費補助金（海外出願支援事業）"
-  },
-  {
-   "id": "a0WfQ000003I7irUAC",
-   "name": "S-00009859",
-   "title": "【青森県】令和8年度中小企業等海外展開支援事業費補助金（海外出願支援事業）２次公募",
-   "subsidy_catch_phrase": "【青森県】令和8年度第2回外国出願補助金",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 13px;\">中小企業の戦略的な外国出願を促進するため、外国への事業展開等を計画している中小企業等に対して、外国出願にかかる費用の半額を助成する。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成金額</strong></p><p>1.助成率</p><p class=\"ql-indent-1\">助成対象経費の１／２以内</p><p>2.上限額</p><p class=\"ql-indent-1\">①１企業に対する助成金の上限額</p><p class=\"ql-indent-1\">３００万円</p><p class=\"ql-indent-1\">②１申請案件あたりの助成上限額</p><p class=\"ql-indent-1\">特許：１５０万円</p><p class=\"ql-indent-1\">実用新案・意匠・商標：それぞれ６０万円</p><p class=\"ql-indent-1\">抜け駆け対策商標 ：３０万円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象費用</strong></p><p><span style=\"font-size: 13px;\">①外国特許庁への出願手数料</span></p><p><span style=\"font-size: 13px;\">②①に要する国内代理人・現地代理人費用</span></p><p><span style=\"font-size: 13px;\">③①に要する翻訳費用</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12.8px;\">■応募資格</strong></p><p><span style=\"font-size: 13px;\">交付申請時に以下の要件を満たすこと。</span></p><p><span style=\"font-size: 13px;\">・中小企業者又は中小企業者で構成されるグループ（構成員のうち中小企業者が２/３以上占めるもの）。ただし、みなし大企業（※）を除く。</span></p><p><span style=\"font-size: 13px;\">（※）みなし大企業とは、以下（ア）～（オ）に該当する企業をいう。</span></p><p><span style=\"font-size: 13px;\">（ア）発行済株式の総数又は出資価格の総額の２分の１以上を同一の大企業が所有している中小企業者等</span></p><p><span style=\"font-size: 13px;\">（イ）発行済株式の総数又は出資価格の総額の３分の２以上を複数の大企業が所有している中小企業者等</span></p><p><span style=\"font-size: 13px;\">（ウ）大企業の役員又は職員を兼ねている者が、役員総数の２分の１以上を占めている中小企業者等</span></p><p><span style=\"font-size: 13px;\">（エ）資本金又は出資の総額が５億円以上の法人に直接又は間接に１００％の株式を保有される中小企業者等</span></p><p><span style=\"font-size: 13px;\">（オ）間接補助金申請時において、確定している（申告済みの）直近過去３年分の各年又は各事業年度の課税所得の年平均額が１５億円を超える中小企業者等</span></p><p><span style=\"font-size: 12px;\"> </span></p><p><span style=\"font-size: 13px;\">・地域団体商標の外国出願については商工会議所、商工会、NPO法人等が対象。</span></p><p><span style=\"font-size: 12px;\"> </span></p><p>・以下（１）～（４）を満たすこと。</p><p>（１）応募時に既に日本国特許庁に対して特許、実用新案、意匠又は商標出願済みであり、採択後にその出願を基礎に優先権主張をして外国出願を年度内に行う予定であること</p><p>※商標出願については優先権がない外国出願も可とします。</p><p>※日本の特許出願を優先権主張の基礎にしない PCT 出願（ダイレクト PCT 出願を含む。）については、日本への国内移行予定のものに限ります。</p><p>※優先権がないハーグ出願については、出願時に日本国を指定締約国に含むものに限ります。</p><p>（２）先行技術調査等の結果からみて、外国での権利取得の可能性が明らかに否定されないこと。</p><p>（３）外国で権利が成立した場合等において「当該権利を活用した事業展開を計画している」又は「商標出願に関し、外国における抜け駆け商標出願対策の意思を有している」こと。</p><p>※抜け駆け商標とは、日本国において既に出願又は登録済みの商標が、海外において第三者により無断で出願・登録された商標のこと。</p><p>（４）外国出願に必要な資金能力及び資金計画を有していること。</p><p><br></p><p>・経済産業省におけるＥＢＰＭ※に関する取組に協力すること。</p><p>（※）ＥＢＰＭ（Evidence-Based Policy Making：証拠に基づく政策立案）とは、政策の企画をその場限りのエピソードに頼るのではなく、政策目的を明確化したうえで合理的根拠（エビデンス）に基づくものとすることです。</p><p>限られた予算・資源のもと、各種の統計を正確に分析して効果的な政策を選択していくEBPM の推進は、2017 年以降毎年、政府の経済財政運営と改革の基本方針（骨太の方針）にも掲げられており、今後もますます重要性が増していくことが予想されます。</p><p><br></p><p><span style=\"font-size: 13px;\">※本公募や本事業における各種申請（本応募申請書、交付要綱による交付申請書、実績報告書、各種届出等）について、その作成等を行政書士又は行政書士法人以外の者が、他人の依頼を受け報酬を得て代理することは行政書士法第 19 条のとおり行うことはできません。 </span></p><p><span style=\"font-size: 13px;\">※採択された場合は、企業名・所在地等について公表いたします。</span></p><p><span style=\"font-size: 13px;\">※採択された場合は、事業完了後５年間の状況調査（フォローアップ調査、ヒアリング等）を行います。</span></p><p><br></p><p><strong style=\"font-size:",
-   "use_purpose": "販路拡大・海外展開をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "青森県",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "1/2",
-   "subsidy_max_limit": 3000000,
-   "acceptance_start_datetime": "2026-09-07T01:00Z",
-   "acceptance_end_datetime": "2026-10-05T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003I7irUAC",
    "institution_name": "中小企業等海外展開支援事業費補助金（海外出願支援事業）"
   },
   {
@@ -2280,6 +2280,23 @@
    "institution_name": "天然ガス利用設備による強靱性向上対策事業費補助金"
   },
   {
+   "id": "a0WfQ000003cAFxUAM",
+   "name": "S-00009905",
+   "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）（三次公募）",
+   "subsidy_catch_phrase": "鉄道（回生電力・車両省エネ・先進省エネ）",
+   "detail": "<p><span style=\"font-size: 13px; color: rgb(51, 51, 51);\">一般社団法人地域循環共生社会連携協会では、二酸化炭素排出抑制対策事業費等補助金（</span><span style=\"font-size: 13px;\">地域の公共交通×脱炭素化移行促進事業</span><span style=\"font-size: 13px; color: rgb(51, 51, 51);\">）に係る環境省からの交付決定を受け、交通システムの省CO2化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）の補助事業者を公募します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■目的・概要</strong></p><p><span style=\"font-size: 13px;\">（目的）</span></p><p><span style=\"font-size: 13px;\">車両の省エネ化や鉄道車両が減速時に発生させる回生電力の有効活用をバランス良く組み合わせることにより、鉄道システムの省CO2化を推進することを目的としています。</span></p><p><span style=\"color: rgb(13, 13, 13); font-size: 13px;\">﻿事業の実施により、エネルギー起源二酸化炭素の排出量が確実に削減されることが重要です。</span></p><p><span style=\"font-size: 13px;\">（概要）</span></p><p><span style=\"font-size: 13px; color: rgb(62, 62, 60);\">鉄軌道分野における省エネ・省CO2化を図るために必要な設備等の整備を行うための事業</span></p><p><span style=\"font-size: 13px; color: black;\">１．車両の省エネ化に資する設備導入促進事業</span></p><p><span style=\"font-size: 13px; color: black;\">　②車両への省エネ設備の導入により４０％以上のCO2削減効果が見込まれる車両の改修　【車両省エネ】</span></p><p><span style=\"font-size: 13px; color: black;\">２．回生電力の有効活用に資する設備等の省CO2効果の高い先進的な設備・システムの導入を実施する事業</span></p><p><span style=\"font-size: 13px; color: black;\">　①回生電力の有効活用に資する設備の導入【回生電力】</span></p><p><span style=\"font-size: 13px; color: black;\">　②省CO2効果の高い先進的な設備・システムの導入【</span><span style=\"font-size: 13px;\">先進省エネ】</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■応募資格</strong></p><p><span style=\"color: black; font-size: 13px;\">ａ．鉄道事業法（昭和６１年法律第９２号）第３条に基づく許可を有する事業者</span></p><p><span style=\"color: black; font-size: 13px;\">ｂ．軌道法（大正１０年法律第７６号）第３条に基づく事業の特許を有する事業者</span></p><p><span style=\"color: black; font-size: 13px;\">ｃ．導入する設備等をａ又はｂの者に対し、リース等により提供する事業者</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■補助上限額</strong></p><p><span style=\"font-size: 13px; color: black;\">公募要領を参照</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■補助事業期間</strong></p><p><span style=\"font-size: 13px; color: black;\">原則として２年度以内</span></p><p><span style=\"font-size: 13px;\">※ただし、複数年度申請をする場合、応募時に年度ごとの事業経費を明確に区分した経費内訳書及び実施計画書が提出されることを前提とします。この場合、補助金の交付申請等は、年度ごとに行っていただく必要があります。</span><span style=\"font-size: 13px; color: black;\">今年度の事業については、交付決定の日から令和９年２月２８日までに完了する必要があります。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 13px;\">■問合せ先</strong></p><p><span style=\"font-size: 13px;\">一般社団法人地域循環共生社会連携協会　事業部</span></p><p><span style=\"font-size: 13px;\">担当：花田、中島</span></p><p><span style=\"font-size: 13px;\">問合せ用メールアドレス：koutsu08@rcespa.jp</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■参考URL　</strong><span style=\"font-size: 13px; color: rgb(24, 24, 24);\">※申請様式は下記よりダウンロードをお願いいたします。</span></p><p><a href=\"https://rcespa.jp/r08-kotsu/r08-kotsu-no3\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 18px;\">https://rcespa.jp/r08-kotsu/r08-kotsu-no3</a></p>",
+   "use_purpose": "安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+   "industry": "公務（他に分類されるものを除く） / 運輸業、郵便業 / 不動産業、物品賃貸業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "公募要領を参照",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-10-05T01:00Z",
+   "acceptance_end_datetime": "2026-12-23T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cAFxUAM",
+   "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
+  },
+  {
    "id": "a0WfQ000003a9flUAA",
    "name": "S-00009899",
    "title": "【鳥取県】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（三次公募）",
@@ -2312,23 +2329,6 @@
    "acceptance_end_datetime": "2027-03-31T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZz6MAH",
    "institution_name": "大府市カーボンニュートラル推進生産設備導入支援補助金"
-  },
-  {
-   "id": "a0WfQ000003cYWnUAM",
-   "name": "S-00009907",
-   "title": "情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」三次公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>「先進的設備等を活用した放送コンテンツ製作促進事業」は、我が国の放送コンテンツの海外流通の促進を目的として、国内の放送事業者又は番組製作会社等に対し、海外での放送・配信を前提とした実写コンテンツの制作において、４Ｋ、VFX、３DCG、AI技術等の先進的な設備又は放送機材を取得又は使用する際に要する経費、先進的設備等を活用する制作に要する経費の一部を支援（間接補助金交付）するもの。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>本事業は、本公募要領の定めによるほか、補助金等に係る予算の執行の適正化に関する法律（昭和30年法律第179号）、補助金等に係る予算の執行の適正化に関する法律施行令（昭和30年政令第255号）、総務省所管補助金等交付規則（平成12年総理府・郵政省・自治省令第６号）、情報通信利用促進支援事業費補助金交付要綱（平成20年４月１日総情促第28号）、情報通信利用促進支援事業費間接補助金交付規程（先進的設備等を活用した放送コンテンツ製作促進事業）（以下「交付規程」という。）及びその他の法令の定めにより実施する。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12.8px;\">単独で応募する場合は、以下の①～⑤の全てを満たす者であること。（なお、①及び②を満たすものを以下「日本法人」という。）</span></p><p><span style=\"font-size: 12.8px;\">①本店所在地が日本国内にあること。</span></p><p><span style=\"font-size: 12.8px;\">②実質的支配者が、日本国内に本店所在地を有する者又は日本国籍を有する者であること。</span></p><p><span style=\"font-size: 12.8px;\">③本事業で制作する実写コンテンツの著作者人格権の保有者又は代行者であること。</span></p><p><span style=\"font-size: 12.8px;\">④本事業で制作する実写コンテンツの著作権（財産権）の主たる保有者であり、かつ海外への展開窓口を有すること。</span></p><p><span style=\"font-size: 12.8px;\">⑤本事業で制作する実写コンテンツの制作費を自ら負担（一部負担を含む。）すること。</span></p><p><span style=\"font-size: 12.8px;\">複数事業者連携のコンソーシアム形式（以下「コンソーシアム」という。）で応募する場合、以下の⑥～⑩のすべてを満たすこと。</span></p><p><span style=\"font-size: 12.8px;\">⑥代表する１つの日本法人が応募主体となり、事業全体の遂行・経費管理などに関する責任を持ち、間接補助金の交付を受けるものとすること。ただし、コンソーシアムの一部（代表する１つの日本法人以外）に外国法人が含まれることは可能。</span></p><p><span style=\"font-size: 12.8px;\">⑦本事業で制作する実写コンテンツの著作者人格権の保有者又は代行者がコンソーシアムに含まれていること。</span></p><p><span style=\"font-size: 12.8px;\">⑧著作権（財産権）について、コンソーシアムを構成するすべての日本法人の持ち分総計において主たる保有者とみなせる状況であること。</span></p><p><span style=\"font-size: 12.8px;\">⑨本事業で制作する実写コンテンツの海外への展開窓口について、代表する１つの日本法人（応募主体）が有すること。</span></p><p><span style=\"font-size: 12.8px;\">⑩本事業で制作する実写コンテンツの制作費を、代表する１つの日本法人が自ら負担（一部負担を含む。）すること。</span></p><p><span style=\"font-size: 12.8px;\">＜以下に該当する者は応募主体の対象外とする＞</span></p><p><span style=\"font-size: 12.8px;\">・個人</span></p><p><span style=\"font-size: 12.8px;\">・日本放送協会</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■支援対象、補助率等</strong></p><p>・タイプA：４Ｋを活用した実写コンテンツ制作　補助率：1/2、上限額：3,000万円</p><p>※<span style=\"font-size: 12.8px;\">上記のうち、４K機材及びシステムの購入・リース等を行わなかった場合</span>は2,000万円</p><p><span style=\"font-size: 12.8px;\">・タイプB：高度特殊効果技術（</span>VFX、３DCG、AI技術等）を活用した実写コンテンツ制作　<span style=\"font-size: 12.8px;\">補助率：1/2、上限額：1.5億円</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>＜メール＞</p><p><span style=\"font-size: 12.8px;\">■宛先：令和８年総務省補助事業「先進的設備等を活用した放送コンテンツ製作促進事業」事務局</span></p><p><span style=\"font-size: 12.8px;\">■メールアドレス：r8_contents_info@project-office.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://soumu-contents.jp/oe-grant-2026/</span></p>",
-   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 設備整備・IT導入をしたい",
-   "industry": "情報通信業 / サービス業（他に分類されないもの）",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "補助率は1/2。上記補助金上限額はタイプBの場合。タイプAの場合は上限額は3,000万円。ただし、４K機材及びシステムの購入・リース等を行わなかった場合は2,000万円。",
-   "subsidy_max_limit": 150000000,
-   "acceptance_start_datetime": "2026-09-27T15:00Z",
-   "acceptance_end_datetime": "2026-10-05T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003cYWnUAM",
-   "institution_name": "情報通信利用促進支援事業費補助金「先進的設備等を活用した放送コンテンツ製作促進事業」"
   },
   {
    "id": "a0WJ200000CDa1gMAD",
