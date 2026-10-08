@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-07T20:46:48.281Z",
+ "fetchedAt": "2026-10-08T20:49:23.191Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -34,6 +34,23 @@
    "acceptance_end_datetime": "2026-12-28T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CStEEAW",
    "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
+  },
+  {
+   "id": "a0W2x000007CStOEAW",
+   "name": "S-00002267",
+   "title": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">公益財団法人東京都農林水産振興財団では、持続可能性に配慮した漁業等を推進するため、水産認証取得に要する経費を補助します。</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">【認証の種類】</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・ＭＥＬＶ２ (Marine Ecolabel Japan)：マリン・エコラベル・ジャパン協議会</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・ＭＳＣ (Marine Stewardship Council)：海洋管理協議会</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">【対象経費】</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> ＜事業区分＞　　　 ＜対象経費＞　　　　 ＜助成率＞</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・取得（初回審査） 　初回審査料 　　　年間公示料 2/3以内</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・定期審査　　　　　 定期審査料　　　 年間公示料 2/3以内</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・更新審査　　　　　 更新審査料　　　 年間公示料 2/3以内</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">※消費税については、対象経費に含まないものとする。</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">　流通加工段階認証は、生産段階認証事業対象者以外の者が申請する場合は、</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">　取得、定期審査・更新審査の区分を問わず、初回限り補助対象とし、</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">　１事業対象者につき３０万円以内とする。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">＜生産段階認証＞</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">東京都漁業協同組合連合会及び、東京都内に所在する漁業者で、東京都内に所在する漁業協同組合に</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">所属している者</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">＜流通加工段階認証＞</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">１．上記生産段階認証を取得した漁業で漁獲された水産物を取り扱う水産物流事業者</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">２．上記生産段階認証を取得した漁業で漁獲された水産物を取り扱う水産物加工事業者等</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">（公財）東京都農林水産振興財団</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">地産地消推進課　認証支援係</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">〒190-0013　東京都立川市富士見町3-8-1　Tel:　042-528-0510</span></p><p> </p>",
+   "use_purpose": "販路拡大・海外展開をしたい",
+   "industry": "漁業",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "2/3以内",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2022-04-01T01:00Z",
+   "acceptance_end_datetime": "2026-12-28T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CStOEAW",
+   "institution_name": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金"
   },
   {
    "id": "a0W2x000007Cos5EAC",
@@ -527,23 +544,6 @@
    "acceptance_end_datetime": "2027-03-31T09:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY9BMAX",
    "institution_name": "休廃止鉱山鉱害防止等工事費補助金"
-  },
-  {
-   "id": "a0W2x000007CStOEAW",
-   "name": "S-00002267",
-   "title": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">公益財団法人東京都農林水産振興財団では、持続可能性に配慮した漁業等を推進するため、水産認証取得に要する経費を補助します。</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">【認証の種類】</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・ＭＥＬＶ２ (Marine Ecolabel Japan)：マリン・エコラベル・ジャパン協議会</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・ＭＳＣ (Marine Stewardship Council)：海洋管理協議会</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">【対象経費】</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> ＜事業区分＞　　　 ＜対象経費＞　　　　 ＜助成率＞</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・取得（初回審査） 　初回審査料 　　　年間公示料 2/3以内</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・定期審査　　　　　 定期審査料　　　 年間公示料 2/3以内</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">・更新審査　　　　　 更新審査料　　　 年間公示料 2/3以内</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">※消費税については、対象経費に含まないものとする。</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">　流通加工段階認証は、生産段階認証事業対象者以外の者が申請する場合は、</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">　取得、定期審査・更新審査の区分を問わず、初回限り補助対象とし、</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">　１事業対象者につき３０万円以内とする。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">＜生産段階認証＞</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">東京都漁業協同組合連合会及び、東京都内に所在する漁業者で、東京都内に所在する漁業協同組合に</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">所属している者</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\"> </span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">＜流通加工段階認証＞</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">１．上記生産段階認証を取得した漁業で漁獲された水産物を取り扱う水産物流事業者</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">２．上記生産段階認証を取得した漁業で漁獲された水産物を取り扱う水産物加工事業者等</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">（公財）東京都農林水産振興財団</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">地産地消推進課　認証支援係</span></p><p><span style=\"font-size: 10.5pt; color: rgb(8, 7, 7);\">〒190-0013　東京都立川市富士見町3-8-1　Tel:　042-528-0510</span></p><p> </p>",
-   "use_purpose": "販路拡大・海外展開をしたい",
-   "industry": "漁業",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "2/3以内",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2022-04-01T01:00Z",
-   "acceptance_end_datetime": "2026-12-28T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W2x000007CStOEAW",
-   "institution_name": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金"
   },
   {
    "id": "a0WJ200000CDYTvMAP",
@@ -1719,6 +1719,23 @@
    "institution_name": "INPIT事業再編計画支援事業補助金"
   },
   {
+   "id": "a0WJ200000CDXscMAH",
+   "name": "S-00008284",
+   "title": "IP360 海外展開支援（ローカライズ支援）",
+   "subsidy_catch_phrase": "海外展開支援（ローカライズ支援）",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">本補助金は、「令和７年度補正コンテンツ産業成長投資支援事業」を活用し、映像産業振興機構の補助金事業部が事務局となって実施するものです。</span></p><p><br></p><p><span style=\"font-size: 14px;\">海外向けコンテンツの供給量や外国ユーザーのファンの拡大に向けて、コンテンツIPの権利者が主体となって、個社で行うローカライズを支援します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■実施期間</strong></p><p><span style=\"font-size: 14px;\">この補助金の実施期間は2026年3月10日より2027年3月31日までとなっています。</span></p><p><br></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■公募関連スケジュール</strong></p><p><span style=\"font-size: 14px;\">《第3回公募受付》2026年10月8日（木）　～　10月29日（木）17時</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■応募資格</strong></p><p><span style=\"font-size: 14px;\">【申請主体に関する共通要件】</span></p><p><span style=\"font-size: 14px;\">●対象法人</span></p><p><span style=\"font-size: 14px;\">下記の３つの要件を全て満たしている法人である必要があります。</span></p><ul><li><span style=\"font-size: 14px;\">日本の法令に基づいて設立された法人</span></li><li><span style=\"font-size: 14px;\">間接補助事業を円滑に遂行するために必要な組織人員等を融資、かつ資金等についての十分な管理能力を有している法人</span></li><li><span style=\"font-size: 14px;\">本補助金の交付を受けようとする法人</span></li></ul><p><br></p><p><span style=\"font-size: 14px;\">●対象外法人</span></p><ul><li><span style=\"font-size: 14px;\">法人格を有さないコンソーシアム、製作委員会、実行委員会等は対象外となります。ただし、組織を構成する法人の１つが、同法人の責任の下で申請することは可能です。</span></li></ul><p><br></p><p><span style=\"font-size: 14px;\">●企業グループ</span></p><ul><li><span style=\"font-size: 14px;\">親会社が直接又は間接的に議決権株式の過半数を有する企業群を企業グループといいます。企業グループ内の各法人は同一の法人とみなします。そのため、企業グループ内の複数の法人が同じ分野の事業で同一の支援メニューに申請した場合は、１つの法人が申請したものとみなします。</span></li><li><span style=\"font-size: 14px;\">なお、企業グループ内の複数法人又は同一の法人が、異なる分野の事業で同一の支援メニューに申請する場合は、異なる法人として補助金上限額が設定されます。例えば、企業グループ内のアニメ製作事業及びゲーム開発事業で大規模作品製作支援に申請する場合、それぞれで補助上限額が設定されます。</span></li></ul><p><br></p><p><span style=\"font-size: 14px;\">【申請主体に関する支援メニュー別の要件】</span></p><ul><li><span style=\"font-size: 14px;\">外国の法令に基づいて設立された法人は、原則として、申請主体になれません。しかし、親会社たる国内法人が直接又は間接的に議決権株式の過半数を有する海外現地法人子会社、かつ親会社たる国内法人が連帯保証する海外現地法人子会社であって、審査委員会が適切と認めた海外現地法人は、例外的に流通プラットフォーム拡大支援及び海外展開支援に申請できます。</span></li><li><span style=\"font-size: 14px;\">ただし、事務局との連絡は親会社である国内法人が日本語で担っていただきます。また、証憑類・証拠書類の検査は国内で実施します。承認に際しては、事務局が指定する書類に捺印して提出する必要があります。また、国内親会社も基礎情報等に関する一部書類を提出する必要があります。</span></li></ul><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■主な審査基準</strong></p><ul><li><strong style=\"font-size: 14px;\">権利</strong><ul><li><span style=\"font-size: 14px;\">自らが全部又は一部の権利を保有するIPをローカライズすること。</span></li></ul></li><li><strong style=\"font-size: 14px;\">ローカライズ量</strong><ul><li><span style=\"font-size: 14px;\">ローカライズするIPの数</span></li><li><span style=\"font-size: 14px;\">ローカライズする作品×言語の数</span></li></ul></li><li><strong style=\"font-size: 14px;\">海外展開</strong><ul><li><span style=\"font-size: 14px;\">ユーザー：想定海外購買者数</span></li><li><span style=\"font-size: 14px;\">売上：想定年間海外売上高</span><ul><li><span style=\"font-size: 11px;\">質的な側面は事業計画書より審査されます。</span></li></ul></li></ul></li></ul><p><br></p><p><strong s",
+   "use_purpose": "販路拡大・海外展開をしたい / イベント・事業運営支援がほしい",
+   "industry": "生活関連サービス業、娯楽業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "対象経費の2分の1",
+   "subsidy_max_limit": 40000000,
+   "acceptance_start_datetime": "2026-10-08T06:00Z",
+   "acceptance_end_datetime": "2026-10-29T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXscMAH",
+   "institution_name": "IP360（令和７年度補正コンテンツ産業成長投資支援事業費補助金）"
+  },
+  {
    "id": "a0WJ200000CDYbNMAX",
    "name": "S-00008860",
    "title": "エイジフレンドリー補助金",
@@ -2790,6 +2807,23 @@
    "institution_name": "訪問介護員等補助者同行支援補助金"
   },
   {
+   "id": "a0WfQ000003iZLKUA2",
+   "name": "S-00009934",
+   "title": "令和８年度酒類業振興支援事業費補助金（第６期）",
+   "subsidy_catch_phrase": "酒類事業者向け支援",
+   "detail": "<p><strong style=\"color: rgb(18, 37, 231); font-size: 16px; font-family: sans-serif;\">■目的・概要</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">酒類事業者による、日本産酒類のブランディング、インバウンドによる海外需要の開拓などの海外展開に向けた取組及び国内外の新市場開拓などの意欲的な取組を支援することにより、日本産酒類の輸出拡大及び酒類業の経営改革・構造転換を図るとともに、酒類業の健全な発達を促進することを目的としています。 </span></p><p><br></p><p><strong style=\"font-family: sans-serif; font-size: 16px; color: rgb(18, 37, 231);\">■補助対象者</strong></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">酒類事業者（製造業者、卸売業者、小売業者）又は酒類事業者を１者以上含むグループ </span></p><p><br></p><p><strong style=\"color: rgb(9, 17, 234); font-size: 16px; font-family: sans-serif;\">■補助対象事業</strong></p><p><u style=\"color: rgb(0, 0, 0); font-size: 16px; font-family: sans-serif;\">海外展開支援枠</u></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（１）日本産酒類の海外販路拡大や商品等の高付加価値化に関する取組</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（２）酒蔵の観光化や地域における酒蔵ツーリズムプラン策定の取組</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（３）酒類事業者による酒米産地との連携を活かした新たな取組（海外展開又はインバウンド向け）</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">・補助率</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">補助対象経費の１／２ </span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">・補助金額</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">１件当たり １，０００万円上限、５０万円下限 </span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">ただし、複数の酒類事業者が集まって取組を推進する場合、上限額は増加し、最大１，５００万円（６者以上の場合）</span></p><p><br></p><p><u style=\"color: rgb(0, 0, 0); font-size: 16px; font-family: sans-serif;\">新市場開拓支援枠</u></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（１）商品の差別化による新たなニーズの獲得</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（２）販売手法の多様化による新たなニーズの獲得</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（３）ＩＣＴ技術を活用した、製造・流通の高度化・効率化</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（４）酒類事業者による酒米産地との連携を活かした新たな取組</span></p><p><span style=\"font-size: 16px; font-family: sans-serif;\">・補助率</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">補助対象経費の１／２又は２／３（従業員数が２０人以下（卸・小売業は５人以下）の小規模酒類事業者） </span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">・補助金額</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">１件当たり ５００万円上限、５０万円下限</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\"> ※ 給与支給の増加計画を達成できない等の場合において、補助金額の一部を返還</span></p><p><br></p><p><span style=\"font-size: 16px; font-family: sans-serif;\"> ※詳細は公募要領をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(17, 36, 238); font-family: sans-serif; font-size: 16px;\">■問い合わせ</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">各国税局（沖縄県においては沖縄国税事務所。）</span></p><p><br></p><p><strong style=\"color: rg",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / まちづくり・地域振興支援がほしい",
+   "industry": "製造業 / 分類不能の産業 / 卸売業、小売業",
+   "target_area_search": "茨城県/栃木県/群馬県/埼玉県/新潟県/長野県 / 千葉県/東京都/神奈川県/山梨県 / 富山県/石川県/福井県 / 岐阜県/静岡県/愛知県/三重県 / 滋賀県/京都府/大阪府/兵庫県/奈良県/和歌山県 / 鳥取県/島根県/岡山県/広島県/山口県 / 徳島県/香川県/愛媛県/高知県 / 福岡県/佐賀県/長崎県 / 北海道 / 青森県/岩手県/宮城県/秋田県/山形県/福島県 / 熊本県/大分県/宮崎県/鹿児島県 / 沖縄県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "1/2又は2/3",
+   "subsidy_max_limit": 15000000,
+   "acceptance_start_datetime": "2026-10-08T01:00Z",
+   "acceptance_end_datetime": "2026-10-28T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2",
+   "institution_name": "酒類業振興支援事業費補助金"
+  },
+  {
    "id": "a0WJ200000CDeUgMAL",
    "name": "S-00009792",
    "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
@@ -3827,23 +3861,6 @@
    "institution_name": "燃料電池フォークリフト実装支援事業助成金"
   },
   {
-   "id": "a0WfQ000003JPFVUA4",
-   "name": "S-00009873",
-   "title": "令和８年度第２回　創業助成事業",
-   "subsidy_catch_phrase": "都内創業（予定）者に対し、創業初期に必要な経費の一部を助成します。",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■申請受付期間</strong></p><p><strong style=\"font-size: 12px;\">令和８年９月２９日（火）１０時００分～令和８年１０月８日（木）２３時５９分</strong></p><p><span style=\"font-size: 12px; color: rgb(253, 0, 0);\">※申請期間の締切日はＪグランツへのアクセス集中が予想され、書類の提出に時間がかかる可能性があります。</span></p><p><span style=\"font-size: 12px; color: rgb(253, 0, 0);\">　締切を過ぎてしまうと書類は受理できませんので、早めに申請書類のご提出をお願いします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■目的・概要</strong></p><p><span style=\"font-size: 12px;\">都内開業率の向上を目標に掲げ、東京都及び公益財団法人東京都中小企業振興公社では、東京都内で創業予定の個人又は創業から間もない中小企業者等に対し、創業初期に必要な経費の一部を助成する「創業助成事業」を実施しています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■助成対象者</strong></p><p><span style=\"font-size: 12px;\">都内での創業を具体的に計画している個人又は創業後５年未満の中小企業者等のうち、一定の要件を満たす方</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■助成対象期間</strong></p><p><span style=\"font-size: 12px;\">交付決定日（令和９年３月１日予定）から６か月以上２年が経過する日までの間で事業に必要な期間</span></p><p><span style=\"font-size: 12px;\">【最短のケース(６か月)】令和９年３月１日～令和９年８月３１日</span></p><p><span style=\"font-size: 12px;\">【最長のケース(２年)】令和９年３月１日～令和１１年２月２８日</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■助成対象経費</strong></p><p><span style=\"font-size: 12px;\">【事業費】賃借料、広告費、器具備品購入費、産業財産権出願・導入費、専門家指導費</span></p><p><span style=\"font-size: 12px;\">【従業員人件費】従業員人件費</span></p><p><span style=\"font-size: 12px;\">【委託費】市場調査・分析費</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■申請要件</strong></p><p><span style=\"font-size: 12px;\">本助成事業に申請を行うためには、所定の申請要件を全て満たす必要があります。</span></p><p><span style=\"font-size: 12px;\">申請要件については、下方の参照URL内の募集要項をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■申請にあたっての注意事項</strong></p><p><span style=\"font-size: 12px;\">・申請にあたっては、募集要項、電子申請マニュアルを必ずご確認ください。</span></p><p><strong style=\"font-size: 12px;\">・<u>申請に利用したGビズIDは絶対に削除しないよう、ご注意ください。</u></strong></p><p><span style=\"font-size: 12px;\">・申請書は下方の参照URL内にございます。</span></p><p><br></p><p><strong style=\"font-size: 12px; color: rgb(0, 111, 173);\">■ご申請にあたっての注意事項（下記のような不備に該当する場合、原則として書類審査で不通過となります）</strong></p><p><strong style=\"font-size: 12px;\">【必要書類について不備が多いポイント】</strong></p><p><strong style=\"font-size: 12px;\">１．申請書（Excel）の一部のみをPDF化してしまっている</strong></p><p><span style=\"font-size: 12px;\">※PDF化する際、シートの漏れやページの見切れがないようご注意ください。</span></p><p><strong style=\"font-size: 12px;\">２．確定申告書の提出が必要な場合、貸借対照表や損益計算書等の一部の書類が不足している</strong></p><p><strong style=\"font-size: 12px;\">３．法人の場合、履歴事項全部証明書ではなくインターネットで取得した登記情報を提出してしまっている</strong></p><p><span style=\"font-size: 12px;\">※国内の法務局で発行した、発行後3か月以内の履歴事項全部証明書が必要となります。</span></p><p><strong style=\"font-size: 12px;\">４．納税証明書の提出が必要な場合、税金の種類や年度に間違いがある</strong></p><p><strong style=\"font-size: 12px;\">また、納税証明書ではなく領収証書等を提出してしまっている</strong></p><p><span style=\"font-size: 12px;\">※法人税や所得税等、国税の納税証明書をご提出いただくケースが多くなっております。</span></p><p><span style=\"font-size: 12px;\">税務署で取得する国税の納税証明書ではありませんので、ご注意ください。</span></p><p><stro",
-   "use_purpose": "新たな事業を行いたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "2/3以内",
-   "subsidy_max_limit": 4000000,
-   "acceptance_start_datetime": "2026-09-29T01:00Z",
-   "acceptance_end_datetime": "2026-10-08T15:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003JPFVUA4",
-   "institution_name": "創業助成事業"
-  },
-  {
    "id": "a0WfQ000003aN9KUAU",
    "name": "S-00009901",
    "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第６回申請受付）",
@@ -4352,23 +4369,6 @@
    "acceptance_end_datetime": "2026-12-25T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYUlMAP",
    "institution_name": "誰もが楽しめる自然体験型観光推進事業"
-  },
-  {
-   "id": "a0WJ200000CDaooMAD",
-   "name": "S-00009333",
-   "title": "「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関の募集",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「「海外研究者招へい事業（STeP JAPAN）」2027年度海外招へい研究者受入機関」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CA2_100537.html\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CA2_100537.html</a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-07-16T01:00Z",
-   "acceptance_end_datetime": "2026-10-08T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaooMAD",
-   "institution_name": "P01035_海外研究者招へい事業（ＳＴｅＰ　ＪＡＰＡＮ）"
   },
   {
    "id": "a0WJ200000CDaotMAD",
