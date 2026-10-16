@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-15T21:00:28.401Z",
+ "fetchedAt": "2026-10-16T20:59:42.598Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -119,23 +119,6 @@
    "acceptance_end_datetime": "2031-06-12T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000UbU66EAF",
    "institution_name": "事業再構築補助金"
-  },
-  {
-   "id": "a0W5h00000ZueXcEAJ",
-   "name": "S-00004742",
-   "title": "ドローンを活用したツアー造成支援補助金",
-   "subsidy_catch_phrase": "ストレスフリー観光の実現に資する新技術の実装を図る取組を支援します。",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■概要</strong></p><p>東京都では、障害者や高齢者を含む誰もがドローンを操作して観光を楽しめるコンテンツの創出を促進するなど、アクセシブル・ツーリズムを推進しています。</p><p>この度、ドローンを活用したツアーづくりへの補助を実施します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>東京都内に本社又は主たる営業所を置く旅行事業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p>ドローンを活用し、障害者や高齢者など、移動やコミュニケーションにおける困難さに直面する人々のニーズに応えながら、誰もが都内観光を楽しみ地域の魅力を実感できる旅行商品を造成・販売・運営する取組</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）<span style=\"color: rgb(68, 68, 68);\">商品造成経費（現地調査費、ドローン活用に係るシステム構築費 等）</span></p><p>（２）<span style=\"color: rgb(68, 68, 68);\">商品販売経費（広告掲載経費、広報ツール作成経費）</span></p><p>（３）<span style=\"color: rgb(68, 68, 68);\">商品運営経費（ツアー催行に係る経費、スタッフ手配経費）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助限度額</strong></p><p>１旅行商品当たり５００万円 </p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助率</strong></p><p>３分の２以内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局観光部受入環境課</p><p>電話：03-5320-4802</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/drone-accessibletourism/\" target=\"_blank\">https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/drone-accessibletourism/</a></p>",
-   "use_purpose": "新たな事業を行いたい / イベント・事業運営支援がほしい / 研究開発・実証事業を行いたい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "補助対象経費の2/3以内",
-   "subsidy_max_limit": 5000000,
-   "acceptance_start_datetime": "2026-09-17T05:00Z",
-   "acceptance_end_datetime": "2026-10-16T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0W5h00000ZueXcEAJ",
-   "institution_name": "ドローンを活用したツアー造成支援事業"
   },
   {
    "id": "a0WJ2000000pejTMAQ",
@@ -272,23 +255,6 @@
    "acceptance_end_datetime": "2027-03-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDK7KMAX",
    "institution_name": "東京都環境保全資金融資あっせん"
-  },
-  {
-   "id": "a0WJ200000CDKZFMA5",
-   "name": "S-00006173",
-   "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）",
-   "subsidy_catch_phrase": "グリスロ",
-   "detail": "<p><span style=\"color: rgb(0, 0, 0); font-size: 16px;\">一般社団法人地域循環共生社会連携協会では、令和８年度二酸化炭素排出抑制対策事業費等補助金（</span><span style=\"font-size: 16px;\">地域の公共交通×脱炭素化移行促進事業</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">）に係る環境省からの交付決定を受け、グリーンスローモビリティ等導入促進事業の補助事業者を公募します。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">（目的）</span></p><p><span style=\"font-size: 16px;\">本補助金は、地域交通の脱炭素化と地域課題の同時解決を目的とした、グリーンスローモビリティ（</span><a href=\"http://www.mlit.go.jp/sogoseisaku/environment/sosei_environment_fr_000139.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">http://www.mlit.go.jp/sogoseisaku/environment/sosei_environment_fr_000139.html</a><span style=\"font-size: 16px;\">）（時速20km未満で公道を走ることができる電動車を活用した小さな移動サービス）の車両の導入を実施する事業に対し、支援を行います。　</span></p><p><span style=\"font-size: 16px;\">事業の実施により、エネルギー起源二酸化炭素の排出量が確実に削減されることが重要です。</span></p><p><span style=\"font-size: 16px;\">（概要）</span></p><p><span style=\"font-size: 16px;\">グリーンスローモビリティを導入する事業</span></p><p><span style=\"font-size: 16px;\">補助事業の対象とするグリーンスローモビリティの要件を満たしたものとして一般社団法人地域循環共生社会連携協会が登録・公開している車両（</span><a href=\"https://rcespa.jp/r08-gurisuro/r08-gurisuro-no1/r08-gurisuro-no1-adopt\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://rcespa.jp/r08-gurisuro/r08-gurisuro-no1/r08-gurisuro-no1-adopt</a><span style=\"font-size: 16px;\">）を導入する事業（※附帯設備等については公募要領参照）</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">　以下のいずれかの法人・団体</span></p><p><span style=\"font-size: 16px;\">(ア) 民間企業（導入する設備等をファイナンスリースにより提供する契約を行う民間企業を含む。）</span></p><p><span style=\"font-size: 16px;\">(イ) 地方公共団体</span></p><p><span style=\"font-size: 16px;\">(ウ) 一般社団法人・一般財団法人</span></p><p><span style=\"font-size: 16px;\">(エ) 特定非営利活動促進法（平成１０年法律第７号）第２条第２項に規定する特定非営利活動法人</span></p><p><span style=\"font-size: 16px;\">(オ) 道路運送法施行規則（昭和２６年運輸省令第７５号）第４８条第二号から第八号に掲げる者</span></p><p><span style=\"font-size: 16px;\">(カ)その他環境大臣の承認を経て協会が認める者</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■補助上限額</strong></p><p><span style=\"color: black; font-size: 16px;\">車体本体の購入に係る補助金交付額は１台あたり２００万円</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助事業期間</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">単年度</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 16px;\">交付決定の日から令和９年２月２８日までに完了する必要があります。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px;\">一般社団法人地域循環共生社会連携協会　事業部</span></p><p><span style=\"font-size: 16px;\">担当：花田、品川</span></p><p><span style=\"font-size: 16px;\">問合せ用メールアドレス：koutsu08@rcespa.jp</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 20px;\">■参考URL</strong></p><p><a href=\"https://rcespa.jp/r08-gurisuro/r08-gurisuro-no3\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 20px;\">https:/",
-   "use_purpose": "安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
-   "industry": "製造業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 運輸業、郵便業 / 不動産業、物品賃貸業 / 医療、福祉",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "１／２以下",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-09-07T01:00Z",
-   "acceptance_end_datetime": "2026-10-16T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKZFMA5",
-   "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
   },
   {
    "id": "a0WJ200000CDL8JMAX",
@@ -1294,6 +1260,23 @@
    "institution_name": "【長野県茅野市】製造業等の労務環境改善・競争力強化に対する補助金"
   },
   {
+   "id": "a0WfQ000003Bf7lUAC",
+   "name": "S-00009818",
+   "title": "令和８年度介護・障害福祉サービス等事業所における育業・介護休業等両立支援事業費補助金",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 13px;\">介護・障害福祉サービス等事業所（以下「事業所」という。）に勤務する職員が、介護休業、育児休業、介護短時間勤務又は育児短時間勤務を取得する場合に、当該職員の業務を代替する体制の整備を行った事業者に対し、東京都（以下「都」という。）が予算の範囲内で、国の両立支援等助成金に上乗せして補助を行う。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律<span style=\"font-size: 13px; font-family: Arial, sans-serif;\">（通称：育児・介護休業法</span><span style=\"font-size: 13px;\">）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>※詳細は、別添の補助金交付要綱をご参照ください。</p><p>1．対象となる事業者</p><p>本事業の対象となる事業者は、次の各号のいずれにも該当するものとする。</p><p>（１）実施要綱別表に定める事業所を運営する者であること。</p><p>（２）資本金の額若しくは出資の総額が５千万円以下又は常時雇用する労働者（２か月を超えて使用される者であり、かつ週当たりの所定労働時間が、当該事業主に雇用される通常の労働者と概ね同等である</p><p>者）の数が１００人以下であること。ただし、第５（２）に定める育児休業及び第５（４）に定める育児短時間勤務における常時雇用する労働者の数については３００人以下であることとする。</p><p>（３）雇用保険適用事業所の事業主であること（支給申請日及び支給決定日の時点で雇用保険被保険者が存在する事業所の事業主であること）。</p><p>（４）両立支援等助成金（「介護離職防止支援コース」の「業務代替支援」及び「育休中等業務代替支援コース」に限る。）の支給決定を受けていること。ただし、別表１（３）並びに（４）に定める介護短時間勤務及び育児短時間勤務の取得に係る代替職員の雇用等に対する経費、（９）求人広告費及び（１０）職場環境改善経費を除く。</p><p>（５）暴力団（東京都暴力団排除条例（平成２３年東京都条例第５４号。以下「暴排条例」という。）第２条第２号に規定する暴力団をいう。以下同じ。）または法人その他の団体の代表者、役員又は使用人その他の従業員若しくは構成員に暴力団員（暴力団並びに暴排条例第２条第３号に規定する暴力団員及び同条第４号に規定する暴力団関係者をいう。）に該当する者があるものでないこと。</p><p><br></p><p>２．対象職員</p><p>本事業の対象となる休業等を取得する職員は、次に定める者とする。</p><p>（１）雇用形態</p><p>第３で定める事業者から直接雇用を受け、当該事業者が運営する事業所において勤務する職員であること。なお、勤務形態（常勤又は非常勤並びに専従又は兼務）は問わないが、事業者から直接給与を受けていない職員（派遣職員）は対象外とする。</p><p>（２）職種</p><p>ア　介護サービス</p><p>直接支援及び相談支援等の業務に従事する者（介護職員、訪問介護員、支援員、サービス提供責任者、生活相談員、支援相談員、医師、歯科医師、看護職員、機能訓練指導員、理学療法士、作業療法士、言語聴覚士、放射線技師、栄養士、管理栄養士、薬剤師、歯科衛生士、調理員、福祉用具専門相談員等）、介護支援専門員又は計画作成担当者として業務を行う者</p><p>イ　障害福祉サービス等</p><p>直接支援及び相談支援等の業務に従事する者（訪問介護員、生活支援員、児童指導員、指導員、保育士、世話人、職業指導員、地域移行支援員、就労支援員、訪問支援員、介護職員、相談支</p><p>援専門員、医師、看護職員、理学療法士、作業療法士、言語聴覚士、機能訓練担当職員、心理担当職員、職業指導員、栄養士、管理栄養士、調理員等）、サービス提供責任者、サービス管理責任者、児童発達支援管理責任者として業務を行う者</p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内の介護事業所、障害福祉サービス等事業所（障害福祉サービスにおける都外独占施設、都外協定施設等（いわゆる都外施設）を含む）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>コールセンター</p><p><span style=\"font-size: 16px;\">0570‐200‐823</span></p><p><span style=\"font-size: 12.8px;\">受付時間：平⽇午前9時から午後6時まで</span></p><p><span style=\"font-size: 12.8px;\"> 休業⽇：⼟曜⽇、⽇曜⽇、祝⽇及び年末年始</span></p><p><br></p><p><span style=\"font-size: 12.8px;\"> メールアドレス：ikugyo-kaigo-shien@jtb.com</span></p><p><span style=\"font-size: 12.8px;\"> 育業・介護休業等両⽴⽀援事業補助⾦</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>（公式サイト）<span style=\"font-size: 12.8px;\">https://www.ikugyou-kaigo-ryouritsu.metro.tokyo.lg.jp</span></p>",
+   "use_purpose": "雇用・職場環境を改善したい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-10-16T05:00Z",
+   "acceptance_end_datetime": "2027-02-15T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003Bf7lUAC",
+   "institution_name": "東京都介護・障害福祉サービス等事業所における育業・介護休業等両立支援事業費補助金"
+  },
+  {
    "id": "a0WJ200000CDY1kMAH",
    "name": "S-00008392",
    "title": "【長野県茅野市】受注及び販路開拓支援事業補助金",
@@ -1377,40 +1360,6 @@
    "acceptance_end_datetime": "2026-10-30T15:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY4mMAH",
    "institution_name": "令和７年度補正 「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金」業務産業用蓄電システム導入支援事業"
-  },
-  {
-   "id": "a0WJ200000CDeYyMAL",
-   "name": "S-00009814",
-   "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞1次公募【商⼯会地区】",
-   "subsidy_catch_phrase": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和8年熊本地震）＞1次公募【商⼯会地区】",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">会議所地区の事業者は</strong><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeToMAL\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 18px; color: rgb(0, 22, 255);\"><strong>こちら</strong></a><strong style=\"font-size: 18px; color: rgb(21, 21, 21);\">から申請してください。</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 18px; color: rgb(255, 3, 11);\">【申請方法について】</strong></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">申請方法につきましては、下記リンクをクリックしご確認ください。</span></p><p style=\"text-align: center;\"><a href=\"https://www.jizokukanb.com/jizokuka_r6h/saigai/kumamoto/shinsei.html#yosiki​\" rel=\"noopener noreferrer\" target=\"_blank\">Jグランツ操作マニュアル</a></p><p style=\"text-align: center;\"><span style=\"font-size: 16px; color: rgb(0, 0, 15);\">下部にある参照リンクも必ずご確認ください。</span></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">【電子申請システム「jGrants」の利用環境】</strong></p><p><span style=\"font-size: 14px;\">jGrantsの動作環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 14px;\">・Windows：chrome、firefox、edge(※)</span></p><p><span style=\"font-size: 14px;\">・macOS\t：chrome、firefox、safari</span></p><p><span style=\"font-size: 14px;\">・Android：chrome</span></p><p><span style=\"font-size: 14px;\">※以下のブラウザは使用できません（エラー等が生じます）。</span></p><p><span style=\"font-size: 14px;\">×InternetExplorer</span></p><p><span style=\"font-size: 14px;\">× edgeの「InternetExplorerモード」</span></p><p><span style=\"font-size: 14px;\">×上記使用可以外のブラウザ</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">　令和８年熊本地震による災害（令和8年熊本地震による災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令（令和８年政令第260号）により指定された特定非常災害）（以下「令和8年熊本地震」という。）により甚大な被害を受けた地域においては、多くの小規模事業者が、生産設備や販売拠点の流出・損壊や、顧客や販路の喪失という状況に直面しています。 </span></p><p><span style=\"font-size: 14px;\"> こうした小規模事業者の事業再建を支援するため、上記「被災地域」（※）を対象とする本補助事業を実施し、商工会・商工会議所の助言も受けながら災害からの事業再建に向けた計画を事業者自ら作成し、作成した計画に基づいて行う事業再建の取組に要する経費の一部を補助するものです。 </span></p><p><br></p><p><span style=\"font-size: 14px;\">※補助対象者は、熊本県内に事業所等を有し、令和８年熊本地震による被害について公的証明等により確認できる小規模事業者等に限ります。</span></p><p><br></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■対象者</strong></p><p>熊本県に所在する、令和８年熊本地震により被害を受けた小規模事業者等。</p><p><br></p><p>本補助金の補助対象者は、（１）から<span style=\"font-size: 12.8px;\">（５）</span>に掲げる要件をいずれも満たす日本国内に所在する小規模事業者（日本国内に居住する個人、又は日本国内に本店を有する法人）等であることとします。</p><p><br></p><p>（１）上記「被災地域」に所在する、令和８年熊本地震の被害を受けた</p><p>事業者であること</p><p>（２",
-   "use_purpose": "災害（自然災害、感染症等）支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "熊本県",
-   "target_number_of_employees": "20名以下",
-   "subsidy_rate": "2/3、定額（一定の要件を満たす事業者のみ対象）",
-   "subsidy_max_limit": 2000000,
-   "acceptance_start_datetime": "2026-09-16T08:00Z",
-   "acceptance_end_datetime": "2026-10-16T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYyMAL",
-   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞"
-  },
-  {
-   "id": "a0WJ200000CDWp3MAH",
-   "name": "S-00007741",
-   "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】",
-   "subsidy_catch_phrase": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和６年能登半島地震等）＞10次公募【商⼯会地区】",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">会議所地区の事業者は</strong><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 18px; color: rgb(21, 21, 21);\"><strong>こちら</strong></a><strong style=\"font-size: 18px; color: rgb(21, 21, 21);\">から申請してください。</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(255, 3, 11); font-size: 18px;\">【申請方法について】</strong></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">申請方法につきましては、下記リンクをクリックしご確認ください。</span></p><p style=\"text-align: center;\"><a href=\"https://www.jizokukanb.com/jizokuka_r6h/saigai/shinsei.html#yosiki\" rel=\"noopener noreferrer\" target=\"_blank\">Jグランツ入力手引き</a></p><p style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 15); font-size: 16px;\">下部にある参照リンクも必ずご確認ください。</span></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">【電子申請システム「jGrants」の利用環境】</strong></p><p><span style=\"font-size: 14px;\">jGrantsの動作環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 14px;\">・Windows：chrome、firefox、edge(※)</span></p><p><span style=\"font-size: 14px;\">・macOS\t：chrome、firefox、safari</span></p><p><span style=\"font-size: 14px;\">・Android：chrome</span></p><p><span style=\"font-size: 14px;\">※以下のブラウザは使用できません（エラー等が生じます）。</span></p><p><span style=\"font-size: 14px;\">×InternetExplorer</span></p><p><span style=\"font-size: 14px;\">× edgeの「InternetExplorerモード」</span></p><p><span style=\"font-size: 14px;\">×上記使用可以外のブラウザ</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的</strong></p><p><span style=\"font-size: 14px;\">　令和６年能登半島地震による災害（令和６年能登半島地震による災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令（令和６年政令第五号）により指定された特定非常災害）及び令和６年能登豪雨との関連性の高い災害（石川県が災害救助法施行令第１条第１項第４号により適用を決定した６市町において令和6年9月21日から23日にかけて発生した災害）（以下「令和６年能登半島地震等」という。）により甚大な被害を受けた地域４県（石川県、富山県、福井県、新潟県） においては、多くの小規模事業者が、生産設備や販売拠点の流出・損壊や、顧客や販路の喪失という状況に直面しています。 </span></p><p><span style=\"font-size: 14px;\"> こうした小規模事業者の事業再建を支援するため、上記「被災地域」を対象とする本補助事業を実施し、商工会・商工会議所の助言も受けながら災害からの事業の再建に向けた計画を事業者自ら作成し、作成した計画に基づいて行う事業再建の取組に要する経費の一部を補助するものです。</span></p><p><span style=\"font-size: 14px; color: rgb(250, 5, 5);\">※10次公募では、石川県能登３市３町（珠洲市、輪島市、能登町、穴水町、七尾市、志賀町）において、令和6年能登半島地震等の直接被害を受けた事業者の中で、特別な事由により9次公募までに補助事業が行えなかった事業者のみが対象となります。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■概要</strong></p><p><span style=\"font-size: 14px;\">本補助金は、石川県、富山県、福井県、新潟県に所在する、令和６年能登半島地震により被害を受けた小規模事業者および一定要件を満たす特定非営利活動法",
-   "use_purpose": "災害（自然災害、感染症等）支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "石川県",
-   "target_number_of_employees": "20名以下",
-   "subsidy_rate": "2/3、定額（一定の要件を満たす事業者のみ対象）",
-   "subsidy_max_limit": 2000000,
-   "acceptance_start_datetime": "2026-07-27T08:00Z",
-   "acceptance_end_datetime": "2026-10-16T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH",
-   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞"
   },
   {
    "id": "a0WJ200000CDY5GMAX",
@@ -2212,40 +2161,6 @@
    "institution_name": "高度安全機械等導入支援補助金"
   },
   {
-   "id": "a0WJ200000CDeZuMAL",
-   "name": "S-00009816",
-   "title": "令和８年度データセンターのゼロエミッション化・レジリエンス強化促進事業（二次公募）",
-   "subsidy_catch_phrase": "再エネデータセンター",
-   "detail": "<p><span style=\"color: rgb(8, 8, 8); font-size: 16px;\">一般社団法人地域循環共生社会連携協会では、令和８年度二酸化炭素排出抑制対策事業費等補助金（</span><span style=\"font-size: 16px;\">民間企業等による再エネの導入及び地域共生加速化事業</span><span style=\"font-size: 16px; color: rgb(8, 8, 8);\">）の「</span><span style=\"font-size: 16px;\">データセンターのゼロエミッション化・地域共生加速化事業</span><span style=\"font-size: 16px; color: rgb(8, 8, 8);\">」に係る環境省からの交付決定を受け、補助事業者を公募します。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">（目的）</span></p><p><span style=\"font-size: 16px;\">　本補助金は、我が国の2050年カーボンニュートラル・脱炭素社会の実現に向け、データセンターのゼロエミッション化・レジリエンス強化促進のための支援を行うことで、デジタル社会とグリーン社会の同時実現、さらにはグリーン成長の実現を目指すことを目的としております。</span></p><p><span style=\"font-size: 16px;\">　事業の実施により、エネルギー起源二酸化炭素の排出が確実に削減されることが必要です。</span></p><p><span style=\"color: rgb(62, 62, 60); font-size: 16px;\">※本事業において「データセンター」とは、サーバーや通信機器等のICT機器を設置・運用する</span><span style=\"font-size: 16px;\">ことに特化した施設を</span><span style=\"font-size: 16px; color: rgb(62, 62, 60);\">指します。 </span></p><p><span style=\"font-size: 16px;\">（概要）</span></p><p><span style=\"font-size: 16px;\">①地域の再生可能エネルギーを最大限活用したデータセンターの新設に必要な再エネ・蓄エネ設備の導入及び空調設備等の省CO2 型設備の導入を行う事業【新設】</span></p><p><span style=\"font-size: 16px;\">②</span><span style=\"font-size: 12pt;\">事業</span><span style=\"font-size: 16px;\">既存データセンターへの再エネ・蓄エネ設備の導入及び空調設備等の省CO2型設備への改修を行う事業【改修】</span></p><p><span style=\"font-size: 16px;\">③地域再エネの効果的・効率的活用に資するコンテナ・モジュール型データセンター等の導入を行う事業【コンテナ】</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 16px;\">ア　民間企業</span></p><p><span style=\"font-size: 16px;\">イ　独立行政法人通則法（平成11年法律第103号）第２条第１項に規定する独立行政法人</span></p><p><span style=\"font-size: 16px;\">ウ　地方独立行政法人法（平成15年法律第118号）第21条第３号チに規定される業務を行う地方独立行政法人</span></p><p><span style=\"font-size: 16px;\">エ　国立大学法人、公立大学法人及び学校法人</span></p><p><span style=\"font-size: 16px;\">オ　社会福祉法（昭和26年法律第45号）第22条に規定する社会福祉法人</span></p><p><span style=\"font-size: 16px;\">カ　医療法（昭和23年法律第205号）第39条に規定する医療法人</span></p><p><span style=\"font-size: 16px;\">キ　特別法の規定に基づき設立された協同組合等</span></p><p><span style=\"font-size: 16px;\">ク　一般社団法人・一般財団法人及び公益社団法人・公益財団法人</span></p><p><span style=\"font-size: 16px;\">ケ　その他環境大臣の承認を経て協会が適当と認める者</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■補助上限額</strong></p><p><span style=\"font-size: 16px;\">公募要領を参照</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助事業期間</strong></p><p><span style=\"font-size: 16px;\">①の事業：原則３年度以内</span></p><p><span style=\"font-size: 16px;\">②の事業：原則２年度以内</span></p><p><span style=\"font-size: 16px;\">③の事業：単年度</span></p><p><span style=\"font-size: 16px;\">※ただし、複数年度申請をする場合、応募時に年度ごとの事業経費を明確に区分した経費内訳書及び実施計画書が提出されることを前提とします。この場合、補助金の交付申請等は、年度ごとに行っていただく必要があります。</span></p><p><span style=\"font-size: 16px;\">　</span><span style=\"font-size: 16px; color: black;\">また、令和８年度事業については、交付決定の日から令和９年２月２８日までに完了する必要があります。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</stro",
-   "use_purpose": "災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "公募要領を参照",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-09-17T05:00Z",
-   "acceptance_end_datetime": "2026-10-16T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeZuMAL",
-   "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
-  },
-  {
-   "id": "a0WJ200000CDeToMAL",
-   "name": "S-00009785",
-   "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】",
-   "subsidy_catch_phrase": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞１次公募【商工会議所地区】",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0);\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px; color: rgb(0, 0, 0);\">商工会地区の事業者は</strong><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeYyMAL\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px; color: rgb(0, 111, 173);\"><strong>こちら</strong></a><strong style=\"font-size: 16px; color: rgb(0, 0, 0);\">から申請してください。</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0);\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 14px; color: rgb(255, 0, 0);\">【申請方法について】</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 111, 173);\">申請方法につきましては、下記リンクをクリックしご確認ください。</strong></p><p style=\"text-align: center;\"><a href=\"https://r6.jizokukahojokin.info/kumamoto/doc/r6_smanual_kumamoto1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 18px; color: rgb(0, 111, 173);\"><strong>Jグランツ入力手引き</strong></a></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 111, 173);\">下部にある参照リンクも必ずご確認ください。</strong></p><p style=\"text-align: center;\"><strong>---------------------------------------------------------------------------------------</strong></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">【電子申請システム「jGrants」の利用環境】</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">電子申請システムの動作確認済み環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">下記以外のブラウザ（Internet Explorer等）は、申請上のエラー等が生じますので利用しないでください。</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 Windows　　：Google Chrome, Microsoft Edge</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 macOS　　　：Google Chrome, Safari</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 iOS　　　　　：Safari</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 Android　　　：Google Chrome</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">※Microsoft Edgeの「Internet Explorerモード」は申請上のエラー等が生じますので利用しないでください。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">令和８年熊本地震による災害（令和８年熊本地震による災害についての特定非常災害</span></p><p><span style=\"font-size: 16px;\">及びこれに対し適用すべき措置の指定に関する政令（令和８年政令第260号）により</span></p><p><span style=\"font-size: 16px;\">指定された特定非常災害）（以下「令和８年熊本地震」という。）により</span></p><p><span style=\"font-size: 16px;\">甚大な被害を受けた地域においては、多くの小規模事業者が、</span></p><p><span style=\"font-size: 16px;\">生産設備や販売拠点の流出・損壊や、顧客や販路の喪失という状況に直面しています。 </span></p><p><span style=\"font-size: 16px;\">こうした小規模事業者の事業再建を支援するため、上記「被災地域」（※）を</span></p><p><span style=\"font-size: 16px;\">対象とする本補助事業を実施し、商工会・商工会議所の助言も受けながら</span></p><p><span style=\"font-size: 16px;\">災害からの事業再建に向けた計画を事業者自ら作成し、作成した計画に基づいて行う</span></p><p>",
-   "use_purpose": "災害（自然災害、感染症等）支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "熊本県",
-   "target_number_of_employees": "20名以下",
-   "subsidy_rate": "２／３、定額（一定の要件を満たす事業者のみ対象）",
-   "subsidy_max_limit": 2000000,
-   "acceptance_start_datetime": "2026-09-16T08:00Z",
-   "acceptance_end_datetime": "2026-10-16T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeToMAL",
-   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞"
-  },
-  {
    "id": "a0WJ200000CDQEJMA5",
    "name": "S-00006878",
    "title": "［第十三回］事業再構築補助金_促進上乗せ措置（交付申請等）",
@@ -2688,23 +2603,6 @@
    "institution_name": "令和８年度SDGsファイナンスに係る補助金"
   },
   {
-   "id": "a0WJ200000CDdALMA1",
-   "name": "S-00009485",
-   "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】",
-   "subsidy_catch_phrase": "小規模事業者持続化補助金＜一般型 災害支援枠（令和６年能登半島地震等）＞１０次公募【商工会議所地区】",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0);\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px; color: rgb(0, 0, 0);\">商工会地区の事業者は</strong><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDWp3MAH\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px; color: rgb(0, 111, 173);\"><strong>こちら</strong></a><strong style=\"font-size: 16px; color: rgb(0, 0, 0);\">から申請してください。</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0);\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 14px; color: rgb(255, 0, 0);\">【申請方法について】</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 111, 173);\">申請方法につきましては、下記リンクをクリックしご確認ください。</strong></p><p style=\"text-align: center;\"><a href=\"https://r6.jizokukahojokin.info/noto/doc/r6_jshinseimanual_noto10.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 18px; color: rgb(0, 111, 173);\"><strong>Jグランツ操作マニュアル</strong></a></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 111, 173);\">下部にある参照リンクも必ずご確認ください。</strong></p><p style=\"text-align: center;\"><strong>---------------------------------------------------------------------------------------</strong></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">【電子申請システム「jGrants」の利用環境】</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">電子申請システムの動作確認済み環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">下記以外のブラウザ（Internet Explorer等）は、申請上のエラー等が生じますので利用しないでください。</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 Windows　　：Google Chrome, Microsoft Edge</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 macOS　　　：Google Chrome, Safari</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 iOS　　　　  ：Safari</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 Android　　  ：Google Chrome</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">※Microsoft Edgeの「Internet Explorerモード」は申請上のエラー等が生じますので利用しないでください。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px; color: rgb(2, 2, 2);\">令和６年能登半島地震による災害（令和６年能登半島地震による</span></p><p><span style=\"font-size: 16px; color: rgb(2, 2, 2);\">災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する</span></p><p><span style=\"font-size: 16px; color: rgb(2, 2, 2);\">政令（令和６年政令第五号）により指定された特定非常災害）及び</span></p><p><span style=\"font-size: 16px; color: rgb(2, 2, 2);\">令和６年能登豪雨との関連性の高い災害（石川県が災害救助法施行令第１条</span></p><p><span style=\"font-size: 16px; color: rgb(2, 2, 2);\">第１項第４号により適用を決定した能登3市3町において令和6年9月21日から</span></p><p><span style=\"font-size: 16px; color: rgb(2, 2, 2);\">23日にかけて発生した災害）（以下「令和６年能登半島地震等」という。）</span></p><p><span style=\"font-size: 16px; color: rgb(2, 2",
-   "use_purpose": "災害（自然災害、感染症等）支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "石川県",
-   "target_number_of_employees": "20名以下",
-   "subsidy_rate": "２／３、定額（一定の要件を満たす事業者のみ対象）",
-   "subsidy_max_limit": 2000000,
-   "acceptance_start_datetime": "2026-07-27T06:00Z",
-   "acceptance_end_datetime": "2026-10-16T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdALMA1",
-   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞"
-  },
-  {
    "id": "a0WJ200000CDdABMA1",
    "name": "S-00009483",
    "title": "令和８年度SDGsファイナンス支援事業補助金(個人向けSDGs預金)",
@@ -2773,40 +2671,6 @@
    "institution_name": "休廃止鉱山鉱害防止等工事費補助金"
   },
   {
-   "id": "a0WJ200000CDUheMAH",
-   "name": "S-00007197",
-   "title": "令和８年度訪問系介護サービス事業所に対する防犯機器等導入支援補助金",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要　</strong></p><p class=\"ql-indent-1\">介護サービス利用者の居宅を訪問し、排せつ及び食事等の介護並びに調理、洗濯及び掃除等の家事等を提供する者及び介護支援専門員等に対するハラスメント対策として、セキュリティ確保に必要な防犯機器の初度整備に係る経費に対し、補助します。</p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p class=\"ql-indent-1\">都内に所在する別表に定める事業所とする。ただし、国又は地方公共団体が設置する事業所（地方自治法（昭和２２年法律第６７号）第２４４条の２第３項の規定により指定管理者が管理するものを含む。）は除く。</p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都介護現場カスタマーハラスメント対策強化事業補助金事務局</p>",
-   "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
-   "industry": "医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "1/2",
-   "subsidy_max_limit": 100000,
-   "acceptance_start_datetime": "2026-08-30T15:00Z",
-   "acceptance_end_datetime": "2026-10-16T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUheMAH",
-   "institution_name": "訪問系介護サービス事業所に対する防犯機器等導入支援補助金"
-  },
-  {
-   "id": "a0WJ200000CDUhfMAH",
-   "name": "S-00007198",
-   "title": "令和８年度訪問介護員等補助者同行支援補助金",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p class=\"ql-indent-1\">訪問介護等を行う介護サービス事業者が、利用者又はその家族及び同居人からのカスタマーハラスメントに対応するため、複数人による訪問を実施した際に同行者に支払う謝金に対し、補助します。</p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■応募資格</strong></p><p class=\"ql-indent-1\">都内に所在する別表に定める事業所とする。ただし、国又は地方公共団体が設置する事業所（地方自治法（昭和２２年法律第６７号）第２４４条の２第３項の規定により指定管理者が管理するものを含む。）は除く。<span style=\"font-size: 13px;\">ただし、（２）については複数人による訪問に係る介護報酬の加算等の算定が可能なサービス種別に限る。 </span></p><p class=\"ql-indent-1\">また、次の（１）から（３）までに掲げる要件のいずれにも該当することを要件とする。</p><p class=\"ql-indent-1\">（１）利用者等によるカスタマーハラスメントが発生している又は発生するおそれがあることから、利用者等によるカスタマーハラスメントから訪問介護員等の安全を確保するため、複数人による訪問が必要であると知事が認めること。</p><p class=\"ql-indent-1\"><span style=\"font-size: 13px;\">（２）利用者からの暴力行為、著しい迷惑行為、器物破損行為等が認められ、複数人による訪問が必要なケースにもかかわらず、複数人による訪問を行うことに利用者等の同意を得ることが困難であり、介護報酬の加算等が算定できないこと。</span></p><p class=\"ql-indent-1\">（３）補助の対象となる謝金を受領する同行者が、実施要綱に定める介護事業者向けカスタマーハラスメント対策説明会（以下「対策説明会」という。）を聴講すること。ただし、対策説明会の配信開始後に同行する同行者に限る。</p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都介護現場カスタマーハラスメント対策強化事業補助金事務局</p>",
-   "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
-   "industry": "医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "3/4",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-08-30T15:00Z",
-   "acceptance_end_datetime": "2026-10-16T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUhfMAH",
-   "institution_name": "訪問介護員等補助者同行支援補助金"
-  },
-  {
    "id": "a0WfQ000003iZLKUA2",
    "name": "S-00009934",
    "title": "令和８年度酒類業振興支援事業費補助金（第６期）",
@@ -2858,6 +2722,23 @@
    "institution_name": "事業再構築補助金"
   },
   {
+   "id": "a0WJ200000CDVn4MAH",
+   "name": "S-00007440",
+   "title": "【畜産事業者向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+   "subsidy_catch_phrase": "都城市農業資材等価格高騰緊急支援事業費補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>農業生産資材等の価格高騰により、経営が圧迫されている農業者に対して、営農を継続するための緊急支援として、予算の範囲内において補助金を交付するものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>次に掲げるすべての要件を満たす者</p><p>(１)市内に住所を有する農家、又は市内に本店、支店等の事務所を有する農業を営む法人、集落営農組織であること</p><p>(２)市税を滞納していないこと</p><p>(３)令和7年分の農業所得の申告を行っていること（農業所得申告でない養鶏業及び椎茸の生産農家にあっては、市長が補助対象者と認めた者）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>令和7年分の農業所得申告書又は法人の決算書に申告した経費のうち、農業生産に要した次に掲げるものとし、所得申告書及び決算書において経費の区分が明示されているものとする。</p><p>ただし、経費の内訳により、同じ科目と判断できるものを含む。</p><p>(１) 種苗費</p><p>(２) 素畜費</p><p>(３) 肥料費</p><p>(４) 飼料費</p><p>(５) 農具費</p><p>(６) 農薬・衛生費</p><p>(７) 諸材料費</p><p>(８) 動力光熱費</p><p>(９) 作業用衣料費</p><p>(10) 雇人費</p><p>(11) 地代（小作料）・賃借料</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金の額</strong></p><p>補助対象経費の5.3％を乗じて得た額の２分の１（1,000円未満切り捨て）</p><p>※100万円を上限とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請に必要な書類</strong></p><p>(１)令和7年分所得税青色申告決算書損益計算書又は令和7年分収支内訳書、法人の決算書の場合は、令和7年分を６月以上含むもの</p><p>(２)申請額計算表</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■オンライン申請手続の流れ</strong></p><p>(１)申請に必要な書類、GビズIDプライムアカウント（※）を準備</p><p>(２)補助金交付申請</p><p>(３)補助金請求（補助金等交付決定書受領後）</p><p>(４)補助金振込（請求から2週間程度で振込）</p><p>※オンライン申請の場合は、GビズIDプライムアカウントが必要です。</p><p>取得方法については<a href=\"https://gbiz-id.go.jp/top/apply/account_select.html\" rel=\"noopener noreferrer\" target=\"_blank\">こちら</a>のURLを参照してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>(１)都城市補助金等交付規則</p><p>(２)都城市農業資材等価格高騰緊急支援事業費補助金交付要綱</p><p><br></p><p><strong style=\"font-size: 12.8px; color: rgb(0, 111, 173);\">■問い合わせ先</strong></p><p>都城市役所農政部農政課</p><p>℡　0986-23-2768</p>",
+   "use_purpose": "資金繰りを改善したい / 災害（自然災害、感染症等）支援がほしい",
+   "industry": "農業、林業",
+   "target_area_search": "宮崎県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "補助対象経費に5.3％を乗じて得た額の２分の１以内（1,000円未満切り捨て）",
+   "subsidy_max_limit": 1000000,
+   "acceptance_start_datetime": "2026-10-16T00:00Z",
+   "acceptance_end_datetime": "2027-01-29T07:30Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVn4MAH",
+   "institution_name": "都城市農業資材等価格高騰緊急支援事業費補助金"
+  },
+  {
    "id": "a0WfQ000003oIxhUAE",
    "name": "S-00009969",
    "title": "【島根県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第６回公募）",
@@ -2890,6 +2771,23 @@
    "acceptance_end_datetime": "2027-07-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003n4bqUAA",
    "institution_name": "臨床研修費等補助金"
+  },
+  {
+   "id": "a0WJ200000CDVn9MAH",
+   "name": "S-00007441",
+   "title": "【農産園芸課向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
+   "subsidy_catch_phrase": "都城市農業資材等価格高騰緊急支援事業費補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>農業生産資材等の価格高騰により経営が圧迫されている農業者に対して、営農を継続するための緊急支援として、予算の範囲内において補助金を交付するものです。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象者</strong></p><p>次に掲げるすべての要件を満たす者</p><p>(１)市内に住所を有する農家、又は市内に本店、支店等の事務所を有する農業を営む法人、集落営農組織であること</p><p>(２)市税を滞納していないこと</p><p>(３)令和７年分の農業所得の申告を行っていること（農業所得申告でない養鶏業及び椎茸の生産農家にあっては、市長が補助対象者と認めた者）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>令和７年分の農業所得申告書又は法人の決算書に申告した経費のうち、農業生産に要した次に掲げるものとし、所得申告書及び決算書において経費の区分が明示されているものとする。</p><p>ただし、経費の内訳により、同じ科目と判断できるものを含む。</p><p>(１) 種苗費</p><p>(２) 素畜費</p><p>(３) 肥料費</p><p>(４) 飼料費</p><p>(５) 農具費</p><p>(６) 農薬・衛生費</p><p>(７) 諸材料費</p><p>(８) 動力光熱費</p><p>(９) 作業用衣料費</p><p>(10) 雇人費</p><p>(11) 地代（小作料）・賃借料</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金の額</strong></p><p>補助対象経費の5.3％を乗じて得た額の２分の１（1,000円未満切り捨て）</p><p>※100万円を上限とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請に必要な書類</strong></p><p>(１)令和７年分所得税青色申告決算書損益計算書又は令和７年分収支内訳書、法人の決算書の場合は、令和７年分を６月以上含むもの</p><p>(２)申請額計算表</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■オンライン申請手続の流れ</strong></p><p>(１)申請に必要な書類、GビズIDプライムアカウント（※）を準備</p><p>(２)補助金交付申請</p><p>(３)補助金請求（補助金等交付決定書受領後）</p><p>(４)補助金振込（請求から2週間程度で振込）</p><p>※オンライン申請の場合は、GビズIDプライムアカウントが必要です。</p><p>取得方法については<a href=\"https://gbiz-id.go.jp/top/apply/account_select.html\" rel=\"noopener noreferrer\" target=\"_blank\">こちら</a>のURLを参照してください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>(１)都城市補助金等交付規則</p><p>(２)都城市農業資材等価格高騰緊急支援事業費補助金交付要綱</p><p><br></p><p><strong style=\"font-size: 12.8px; color: rgb(0, 111, 173);\">■問い合わせ先</strong></p><p>都城市役所農政部農政課</p><p>℡　0986-23-27</p>",
+   "use_purpose": "資金繰りを改善したい / 災害（自然災害、感染症等）支援がほしい",
+   "industry": "農業、林業",
+   "target_area_search": "宮崎県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "補助対象経費に5.3％を乗じて得た額の２分の１以内（1,000円未満切り捨て）",
+   "subsidy_max_limit": 1000000,
+   "acceptance_start_datetime": "2026-10-16T00:00Z",
+   "acceptance_end_datetime": "2027-01-29T07:30Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVn9MAH",
+   "institution_name": "都城市農業資材等価格高騰緊急支援事業費補助金"
   },
   {
    "id": "a0W5h00000UbQnSEAV",
@@ -3434,40 +3332,6 @@
    "acceptance_end_datetime": "2026-10-17T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdujMAD",
    "institution_name": "業務改善助成金"
-  },
-  {
-   "id": "a0WJ200000CDe3pMAD",
-   "name": "S-00009685",
-   "title": "令和８年度外国特許出願費用助成事業（第２回）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本助成金は、優れた技術等を有し、かつ、それらを海外において広く活用しようとする東京都内の中小企業者等に対し、外国特許出願から中間手続までに要する経費の一部を助成し、外国での特許の早期権利化に向けた取組を強力に支援することで、中小企業者等の国際競争力の向上、経営基盤の強化を図り、東京の産業を活性化することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申込資格</strong></p><p>東京都内の中小企業者（会社及び個人事業者）、中小企業団体、一般社団・財団法人（1年度1社1出願に限る）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成内容</strong></p><p>〇助成対象期間　<span style=\"color: rgb(68, 68, 68);\">令和8年4月1日～令和10年11月30日（2年8か月）</span></p><p>〇助成率　1/2以内</p><p><span style=\"color: rgb(68, 68, 68);\">〇</span>助成限度額　400万円（ただし、出願に要する経費のみの場合は、300万円）</p><p><span style=\"color: rgb(68, 68, 68);\">〇</span>助成対象経費</p><p>・外国出願手数料</p><p>・審査請求料・中間手続費用（審査の早期化に関する制度の利用に係る請求費用を含む。）</p><p>・代理人費用</p><p>・翻訳料</p><p>・先行技術調査費用</p><p>・国際調査手数料</p><p>・国際予備審査手数料　等</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p>（第1回）令和8年5月8日（金）～令和8年5月22日（金）17時まで</p><p>（第2回）令和8年10月1日（木）～令和8年10月16日（金）17時まで</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■受付方法</strong></p><p><strong>本助成金の申請には、</strong><strong style=\"color: rgb(255, 0, 0);\"><u>jGrantsでの交付申請</u></strong><strong>と</strong><strong style=\"color: rgb(255, 0, 0);\"><u>申請書類の提出</u></strong><strong>の両方の手続きが必要です。</strong></p><p>※両<span style=\"color: rgb(0, 0, 0);\">方の手続</span>きを申請受付期間内に完了できない場合、申請を正式に受理することができませんのでご注意ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都知的財産総合センター</p><p>東京都台東区台東1-3-5　反町商事ビル1階</p><p>TEL：03-3832-3656</p><p>E-mail：ip-tokkyo@tokyo-kosha.or.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/chizai/josei/tokkyo/</p>",
-   "use_purpose": "販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい / 資金繰りを改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "1/2",
-   "subsidy_max_limit": 4000000,
-   "acceptance_start_datetime": "2026-10-01T00:00Z",
-   "acceptance_end_datetime": "2026-10-16T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3pMAD",
-   "institution_name": "外国特許出願費用助成事業"
-  },
-  {
-   "id": "a0WJ200000CDe3uMAD",
-   "name": "S-00009686",
-   "title": "令和８年度外国実用新案出願費用助成事業（第２回）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本助成金は、優れた技術等を有し、かつ、海外での知的財産侵害訴訟リスクの対策として、早期に権利化できる実用新案を活用しようとする東京都内の中小企業者等に対し、外国実用新案出願に要する経費の一部を助成することによって、中小企業者等の国際競争力の向上、経営基盤の強化を図り、東京の産業を活性化することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申込資格</strong></p><p>東京都内の中小企業者（会社及び個人事業者）、中小企業団体、一般社団・財団法人（1年度1社1出願に限る）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成内容</strong></p><p>〇助成対象期間　令和8年4月1日～令和10年11月30日（2年8か月）</p><p>〇助成率　1/2以内</p><p><span style=\"color: rgb(68, 68, 68);\">〇</span>助成限度額　60万円</p><p><span style=\"color: rgb(68, 68, 68);\">〇</span>助成対象経費</p><p>・外国出願手数料</p><p>・代理人費用</p><p>・翻訳料</p><p>・先行技術調査費用</p><p>・国際調査手数料</p><p>・国際予備審査手数料　等</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p>（第1回）令和8年5月8日（金）～令和8年5月22日（金）17時まで</p><p>（第2回）令和8年10月1日（木）～令和8年10月16日（金）17時まで</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■受付方法</strong></p><p><strong>本助成金の申請には、</strong><strong style=\"color: rgb(255, 0, 0);\"><u>jGrantsでの交付申請</u></strong><strong>と</strong><strong style=\"color: rgb(255, 0, 0);\"><u>申請書類の提出</u></strong><strong>の両方の手続きが必要です。</strong></p><p>※両<span style=\"color: rgb(0, 0, 0);\">方の手続</span>きを申請受付期間内に完了できない場合、申請を正式に受理することができませんのでご注意ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都知的財産総合センター</p><p>東京都台東区台東1-3-5　反町商事ビル1階</p><p>TEL：03-3832-3656</p><p>E-mail：ip-tokkyo@tokyo-kosha.or.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/chizai/josei/jitsushin/</p>",
-   "use_purpose": "販路拡大・海外展開をしたい / 研究開発・実証事業を行いたい / 資金繰りを改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "1/2",
-   "subsidy_max_limit": 600000,
-   "acceptance_start_datetime": "2026-10-01T00:00Z",
-   "acceptance_end_datetime": "2026-10-16T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe3uMAD",
-   "institution_name": "外国実用新案出願費用助成事業"
   },
   {
    "id": "a0WJ200000CDe4iMAD",
@@ -4235,23 +4099,6 @@
    "institution_name": "商店街防災力向上緊急支援事業"
   },
   {
-   "id": "a0WJ200000CDeTZMA1",
-   "name": "S-00009782",
-   "title": "「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「ポスト5G情報通信システム基盤強化研究開発事業／ロボティクス分野におけるソフトウェア開発基盤構築」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100452.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100452.html</a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-09-17T01:00Z",
-   "acceptance_end_datetime": "2026-10-16T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTZMA1",
-   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
-  },
-  {
    "id": "a0WJ200000CDeTtMAL",
    "name": "S-00009786",
    "title": "令和８年度東京都救命救急センター施設整備等補助事業（運営費）",
@@ -4558,23 +4405,6 @@
    "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
   },
   {
-   "id": "a0WJ200000CDdNtMAL",
-   "name": "S-00009511",
-   "title": "令和８年度障害者施設等物価高騰緊急対策事業",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p> 都は、物価高騰に直面する障害者施設の負担軽減を目的として、支援金（補助金）を支給します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"color: rgb(24, 24, 24);\">区分１：障害者支援施設、福祉型障害児入所施設、医療型障害児入所施設、共同生活援助、短期入所</span></p><p><span style=\"color: rgb(24, 24, 24);\">区分２：生活介護、宿泊型自立訓練、自立訓練（生活訓練・機能訓練）、就労移行支援、就労継続支援A型、就労継続支援B型、就労選択支援、児童発達支援、放課後等デイサービス</span></p><p><span style=\"color: rgb(24, 24, 24);\">区分３：居宅訪問型児童発達支援、保育所等訪問支援、居宅介護、重度訪問介護、同行援護、行動援護、重度障害者等包括支援</span></p><p><span style=\"color: rgb(24, 24, 24);\">区分４：就労定着支援、自立生活援助、計画相談支援、地域相談支援（地域移行支援・地域定着支援）、障害児相談支援</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\"> かつ</span></p><p><strong style=\"color: rgb(24, 24, 24);\">　</strong></p><p>・障害者総合支援法または障害福祉法に基づく指定を受けている</p><p>・都内に所在している（※交付要綱に定める都外施設は対象）</p><p>・国又は地方公共団体が設置する施設、指定管理者が管理する施設及び公設民営の施設<u>でない</u></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助基準額</strong></p><p><span style=\"font-size: 14px;\">区分１：対象期間各月における、定員数×5,669円の合計</span></p><p><span style=\"font-size: 14px;\">区分２：対象期間各月における、定員数×1,607円の合計（食事提供を実施している事業所）</span></p><p><span style=\"font-size: 14px;\">    対象期間各月における、定員数×987円の合計（上記以外の事業所）</span></p><p><span style=\"font-size: 14px;\">区分３：29,500円（定額）</span></p><p><span style=\"font-size: 14px;\">区分４：11,800円（定額）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><strong style=\"color: inherit;\">東京都障害者施設等物価高騰緊急対策事業事務局</strong></p><p><a href=\"https://logoform.jp/form/tmgform/1521068\" rel=\"noopener noreferrer\" target=\"_blank\">令和８年度障害者施設等物価高騰緊急対策事業　問い合わせフォーム</a></p><p>TEL：<span style=\"color: black;\">03-6380-8563</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(24, 24, 24);\">e-mail： </span><span style=\"color: black; font-size: 13px;\">bukka_r8(at)cosmopia.jp</span></p><p><span style=\"color: rgb(24, 24, 24);\">※迷惑メール防⽌のため、表記を変更しております。お⼿数ですが、(at)を@に置き換えてご利⽤ください。</span></p><p style=\"text-align: justify;\"><span style=\"color: black;\">＜開設時間：午前９時から午後６時まで（土日、祝日、年末年始除く）＞</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>東京都ホームページ　<a href=\"https://www.fukushi.metro.tokyo.lg.jp/shougai/jigyo/r8bukkakoto1\" rel=\"noopener noreferrer\" target=\"_blank\">令和８年度障害者施設等物価高騰緊急対策事業|障害者の事業者の方へ|東京都福祉局</a></p><p>東京都障害者サービス情報　<a href=\"https://www.shougaifukushi.metro.tokyo.lg.jp/Lib/LibDspCatego.php?catid=128\" rel=\"noopener noreferrer\" target=\"_blank\">書式ライブラリーカテゴリ</a></p>",
-   "use_purpose": "資金繰りを改善したい",
-   "industry": "医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "補助対象経費と補助基準額を比べて少ない方に10/10を乗じる",
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-08-06T00:00Z",
-   "acceptance_end_datetime": "2026-10-16T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNtMAL",
-   "institution_name": "障害者施設等物価高騰緊急対策事業"
-  },
-  {
    "id": "a0WfQ000003I9xZUAS",
    "name": "S-00009862",
    "title": "令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
@@ -4862,6 +4692,23 @@
    "acceptance_end_datetime": "2040-12-31T03:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003kpc5UAA",
    "institution_name": "東京都救命救急センター施設整備等補助事業（運営費）"
+  },
+  {
+   "id": "a0WfQ000003lu8IUAQ",
+   "name": "S-00009961",
+   "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（三次公募）",
+   "subsidy_catch_phrase": "業務用建築物のネット・ゼロ・エネルギー化に必要な省エネ・省CO2性の高いシステムや設備機器等の導入及び低炭素型建材の導入を支援する補助金です。",
+   "detail": "<p><strong style=\"font-size: 24px; color: rgb(0, 111, 173);\">※詳細につきましては以下よりご確認ください。</strong></p><p><span style=\"font-size: 24px;\">　</span><a href=\"https://siz-kankyou.com/2026co2/teitansokenzai3/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 24px;\">https://siz-kankyou.com/2026co2/teitansokenzai3/</a></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p style=\"text-align: justify;\"><span style=\"font-size: 16px; color: windowtext;\">　</span><span style=\"font-size: 16px;\">本事業は、地方公共団体等所有施設及び民間業務用建築物等において、年間の一次エネルギー消費量が正味でゼロとなる建物であることを前提に、運用時のみならず、建築物の構成部材の調達や設備の製造から解体に至るまでのライフサイクル全体において発生する温室効果ガスの算定・削減を目指す取組の普及拡大・促進および、低炭素型建材の活用促進を目的とする。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助額上限</strong></p><p><span style=\"font-size: 16px;\">　５億円</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■補助率</strong></p><p><span style=\"font-size: 16px;\">・事務所等</span></p><p><span style=\"font-size: 16px;\">　『ZEB』　30％</span></p><p><span style=\"font-size: 16px;\">　Nearly ZEB　25％</span></p><p><span style=\"font-size: 16px;\">　ZEB Ready　21％</span></p><p><span style=\"font-size: 16px;\">　ZEB Oriented　対象外</span></p><p><span style=\"font-size: 16px;\">・事務所等以外</span></p><p><span style=\"font-size: 16px;\">　『ZEB』　55％</span></p><p><span style=\"font-size: 16px;\">　Nearly ZEB　38％</span></p><p><span style=\"font-size: 16px;\">　ZEB Ready　30％</span></p><p><span style=\"font-size: 16px;\">　ZEB Oriented　30％</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■問合せ先</strong></p><p style=\"text-align: justify;\"><span style=\"font-size: 16px;\">　一般社団法人静岡県環境資源協会　省CO2促進事業支援センター</span></p><p style=\"text-align: justify;\"><span style=\"font-size: 16px;\">（E-mail：zeb@siz-kankyou.or.jp）</span></p>",
+   "use_purpose": "設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "21％～55％（ZEBランク、建物用途により異なる）",
+   "subsidy_max_limit": 500000000,
+   "acceptance_start_datetime": "2026-10-16T06:00Z",
+   "acceptance_end_datetime": "2026-12-15T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ",
+   "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
   },
   {
    "id": "a0W2x000003QZLqEAO",
