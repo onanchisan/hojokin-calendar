@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-18T20:55:45.744Z",
+ "fetchedAt": "2026-10-19T21:00:37.043Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -4405,6 +4405,23 @@
    "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
   },
   {
+   "id": "a0WJ200000CDdNtMAL",
+   "name": "S-00009511",
+   "title": "令和８年度障害者施設等物価高騰緊急対策事業",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p> 都は、物価高騰に直面する障害者施設の負担軽減を目的として、支援金（補助金）を支給します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"color: rgb(24, 24, 24);\">区分１：障害者支援施設、福祉型障害児入所施設、医療型障害児入所施設、共同生活援助、短期入所</span></p><p><span style=\"color: rgb(24, 24, 24);\">区分２：生活介護、宿泊型自立訓練、自立訓練（生活訓練・機能訓練）、就労移行支援、就労継続支援A型、就労継続支援B型、就労選択支援、児童発達支援、放課後等デイサービス</span></p><p><span style=\"color: rgb(24, 24, 24);\">区分３：居宅訪問型児童発達支援、保育所等訪問支援、居宅介護、重度訪問介護、同行援護、行動援護、重度障害者等包括支援</span></p><p><span style=\"color: rgb(24, 24, 24);\">区分４：就労定着支援、自立生活援助、計画相談支援、地域相談支援（地域移行支援・地域定着支援）、障害児相談支援</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\"> かつ</span></p><p><strong style=\"color: rgb(24, 24, 24);\">　</strong></p><p>・障害者総合支援法または障害福祉法に基づく指定を受けている</p><p>・都内に所在している（※交付要綱に定める都外施設は対象）</p><p>・国又は地方公共団体が設置する施設、指定管理者が管理する施設及び公設民営の施設<u>でない</u></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助基準額</strong></p><p><span style=\"font-size: 14px;\">区分１：対象期間各月における、定員数×5,669円の合計</span></p><p><span style=\"font-size: 14px;\">区分２：対象期間各月における、定員数×1,607円の合計（食事提供を実施している事業所）</span></p><p><span style=\"font-size: 14px;\">    対象期間各月における、定員数×987円の合計（上記以外の事業所）</span></p><p><span style=\"font-size: 14px;\">区分３：29,500円（定額）</span></p><p><span style=\"font-size: 14px;\">区分４：11,800円（定額）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><strong style=\"color: inherit;\">東京都障害者施設等物価高騰緊急対策事業事務局</strong></p><p><a href=\"https://logoform.jp/form/tmgform/1521068\" rel=\"noopener noreferrer\" target=\"_blank\">令和８年度障害者施設等物価高騰緊急対策事業　問い合わせフォーム</a></p><p>TEL：<span style=\"color: black;\">03-6380-8563</span></p><p style=\"text-align: justify;\"><span style=\"color: rgb(24, 24, 24);\">e-mail： </span><span style=\"color: black; font-size: 13px;\">bukka_r8(at)cosmopia.jp</span></p><p><span style=\"color: rgb(24, 24, 24);\">※迷惑メール防⽌のため、表記を変更しております。お⼿数ですが、(at)を@に置き換えてご利⽤ください。</span></p><p style=\"text-align: justify;\"><span style=\"color: black;\">＜開設時間：午前９時から午後６時まで（土日、祝日、年末年始除く）＞</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>東京都ホームページ　<a href=\"https://www.fukushi.metro.tokyo.lg.jp/shougai/jigyo/r8bukkakoto1\" rel=\"noopener noreferrer\" target=\"_blank\">令和８年度障害者施設等物価高騰緊急対策事業|障害者の事業者の方へ|東京都福祉局</a></p><p>東京都障害者サービス情報　<a href=\"https://www.shougaifukushi.metro.tokyo.lg.jp/Lib/LibDspCatego.php?catid=128\" rel=\"noopener noreferrer\" target=\"_blank\">書式ライブラリーカテゴリ</a></p>",
+   "use_purpose": "資金繰りを改善したい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "補助対象経費と補助基準額を比べて少ない方に10/10を乗じる",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-08-06T00:00Z",
+   "acceptance_end_datetime": "2026-10-16T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdNtMAL",
+   "institution_name": "障害者施設等物価高騰緊急対策事業"
+  },
+  {
    "id": "a0WfQ000003I9xZUAS",
    "name": "S-00009862",
    "title": "令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】",
@@ -4437,23 +4454,6 @@
    "acceptance_end_datetime": "2026-10-30T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003IBL3UAO",
    "institution_name": "勤務環境改善医師派遣等推進事業"
-  },
-  {
-   "id": "a0WJ200000CDeY0MAL",
-   "name": "S-00009808",
-   "title": "「水素社会モデル構築高度化技術開発・実証事業」の第2回公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「水素社会モデル構築高度化技術開発・実証事業」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/SE2_100001_00138.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/SE2_100001_00138.html</a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-09-18T01:00Z",
-   "acceptance_end_datetime": "2026-10-19T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeY0MAL",
-   "institution_name": "P26004_水素社会モデル構築高度化技術開発・実証事業"
   },
   {
    "id": "a0WfQ000003MWE2UAO",
@@ -4624,6 +4624,23 @@
    "acceptance_end_datetime": "2026-10-30T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVu7MAH",
    "institution_name": "勤務環境改善医師派遣等推進事業"
+  },
+  {
+   "id": "a0WJ200000CDe82MAD",
+   "name": "S-00009732",
+   "title": "「太陽光発電導入拡大等技術開発事業」の第3回公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、第3回「太陽光発電導入拡大等技術開発事業」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/FF2_100475.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/FF2_100475.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-10-19T01:00Z",
+   "acceptance_end_datetime": "2026-11-25T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe82MAD",
+   "institution_name": "P25011_太陽光発電導入拡大等技術開発事業"
   },
   {
    "id": "a0WJ200000CDapWMAT",
@@ -5338,6 +5355,23 @@
    "acceptance_end_datetime": "2027-03-31T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeTAMA1",
    "institution_name": "【福岡県小郡市】企業立地優遇制度"
+  },
+  {
+   "id": "a0WfQ000003qOVxUAM",
+   "name": "S-00009986",
+   "title": "令和８年度 暑さに配慮した職場環境づくり奨励金_第４回",
+   "subsidy_catch_phrase": "熱中症予防対策に取組む都内小規模企業等を支援します！",
+   "detail": "<p><br></p><p><strong style=\"font-size: 20px; color: rgb(217, 0, 0);\">先着順ではありません。</strong></p><p><strong style=\"font-size: 20px; color: rgb(217, 0, 0);\">抽選を行い、エントリー通過事業者を決定します。</strong></p><p><strong style=\"font-size: 20px; color: rgb(217, 0, 0);\">アクセス集中を避けるため、受付期間中にお申し込みください。</strong></p><p><br></p><p><br></p><p><br></p><p><strong style=\"font-size: 20px;\"><u>※事前エントリーを実施する前に、「募集要項（申請の手引き）」を必ず確認してください。</u></strong></p><p><span style=\"font-size: 16px;\">https://www.koyokankyo.shigotozaidan.or.jp/jigyo/wbgt/file.files/R8boshuuyoukou.pdf</span></p><p><br></p><p><strong style=\"font-size: 14px;\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">暑さに配慮した職場環境づくり支援事業は、</span><u style=\"font-size: 14px;\">熱中症を生ずるおそれのある作業を行う職場がある</u><span style=\"font-size: 14px;\">都内小規模企業等が、熱中症予防対策に取り組んだ場合に奨励金を支給することで、都内小規模企業等における暑さに配慮した職場環境づくりの取組を促進していくことを目的としています。</span></p><p><span style=\"font-size: 14px;\">この目的のため、財団が実施する本奨励金の支給に関しては、「暑さに配慮した職場環境づくり奨励金支給要綱」（以下、「要綱」という。）に定めるもののほか、「暑さに配慮した職場環境づくり奨励金支給要領」及び本奨励金募集要項の定めるところによります。</span></p><p><br></p><p><br></p><p><strong style=\"font-size: 14px;\">■応募資格</strong></p><p><span style=\"font-size: 14px;\">中小企業基本法に規定される都内小規模企業等</span></p><p><span style=\"font-size: 13px; color: rgb(231, 4, 4);\">※常時雇用する従業員が20人以下（商業及びサービス業は５人以下）</span></p><p><span style=\"font-size: 13px; color: rgb(231, 4, 4);\">※支給申請日時点において、雇用保険の被保険者(6か月以上)を雇用していること</span></p><p><br></p><p><strong style=\"font-size: 14px;\">■事業規模</strong></p><p><span style=\"font-size: 14px;\"> 1,000事業者</span></p><p><br></p><p><strong style=\"font-size: 14px;\">■事前エントリー期間</strong></p><p><strike style=\"font-size: 14px;\">第１回\t令和８年 ４月27日（月） ～　令和８年 ５月13日（水）</strike></p><p><strike style=\"font-size: 14px;\">第２回\t令和８年 ６月22日（月） ～　令和８年 ６月26日（金）</strike></p><p><strike style=\"font-size: 14px;\">第３回\t令和８年 ８月24日（月） ～　令和８年 ８月28日（金）</strike></p><p><span style=\"font-size: 14px;\">第４回\t令和８年 10月19日（月） ～　令和８年 10月23日（金）</span></p><p><br></p><p><strong style=\"font-size: 14px;\">■問合せ先</strong></p><p><span style=\"font-size: 14px;\">東京しごと財団 企業支援部 雇用環境整備課</span></p><p><span style=\"font-size: 14px;\">暑さ対策支援担当係</span></p><p><em style=\"font-size: 14px;\">&#128222;０３－５２１１－１７５６<strike>﻿</strike></em></p>",
+   "use_purpose": "雇用・職場環境を改善したい / 災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "20名以下",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-10-19T00:00Z",
+   "acceptance_end_datetime": "2026-10-23T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qOVxUAM",
+   "institution_name": "令和８年度 暑さに配慮した職場環境づくり奨励金"
   }
  ]
 }
