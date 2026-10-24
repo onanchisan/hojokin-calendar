@@ -39,9 +39,17 @@ jobs:
           # 誤設定で他のファイルを消さないための安全装置
           case "$SAKURA_DEST" in www/service/?*) ;; *) echo "SAKURA_DESTは www/service/ 配下のみ許可"; exit 1;; esac
           mkdir -p ~/.ssh && chmod 700 ~/.ssh
-          printf '%s\n' "$SAKURA_SSH_KEY" > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
-          ssh-keyscan -H "$SAKURA_HOST" >> ~/.ssh/known_hosts 2>/dev/null
-          SSH="ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes"
+          # Windowsで貼り付けた鍵の改行コード(CRLF)を直す
+          printf '%s\n' "$SAKURA_SSH_KEY" | tr -d '\r' > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
+          echo "鍵の形式チェック(中身は表示しない):"
+          head -1 ~/.ssh/id_deploy | cut -c1-35
+          tail -1 ~/.ssh/id_deploy | cut -c1-35
+          ssh-keygen -y -f ~/.ssh/id_deploy > /dev/null && echo "鍵の読み込みOK" || echo "鍵の読み込みNG(Secretの貼り付け内容を確認)"
+          echo "接続先: ${SAKURA_USER}@${SAKURA_HOST}"
+          ssh-keyscan -H "$SAKURA_HOST" >> ~/.ssh/known_hosts 2>/dev/null || echo "ホストに到達できない(SAKURA_HOSTを確認)"
+          SSH="ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=20"
+          # 診断: 接続の失敗理由だけを表示する
+          $SSH -v "$SAKURA_USER@$SAKURA_HOST" "echo 接続OK" 2>&1 | grep -E "Authenticated|Permission denied|Could not resolve|Connection (refused|timed out)|Authentications that can continue|接続OK|no such identity|invalid format" || true
           $SSH "$SAKURA_USER@$SAKURA_HOST" "mkdir -p '$SAKURA_DEST'"
           # 専用フォルダの中だけを同期する(他のファイルには触れない)
           rsync -rz --delete -e "$SSH" docs/ "$SAKURA_USER@$SAKURA_HOST:$SAKURA_DEST/"
