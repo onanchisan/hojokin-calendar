@@ -31,13 +31,13 @@ jobs:
           SAKURA_USER: ${{ secrets.SAKURA_USER }}
           SAKURA_SSH_KEY: ${{ secrets.SAKURA_SSH_KEY }}
           # アップロード先(サーバー上のパス)。まず -test で試し、成功後に本番へ切り替える
-          SAKURA_DEST: ${{ vars.SAKURA_DEST || 'www/service/hojokin-calendar' }}
+          SAKURA_DEST: ${{ vars.SAKURA_DEST || 'www/onanchi/service/hojokin-calendar' }}
         run: |
           if [ -z "$SAKURA_HOST" ] || [ -z "$SAKURA_USER" ] || [ -z "$SAKURA_SSH_KEY" ]; then
             echo "Secrets未設定のためアップロードをスキップ"; exit 0
           fi
           # 誤設定で他のファイルを消さないための安全装置
-          case "$SAKURA_DEST" in www/service/?*) ;; *) echo "SAKURA_DESTは www/service/ 配下のみ許可"; exit 1;; esac
+          case "$SAKURA_DEST" in www/onanchi/service/?*) ;; *) echo "SAKURA_DESTは www/onanchi/service/ 配下のみ許可"; exit 1;; esac
           mkdir -p ~/.ssh && chmod 700 ~/.ssh
           # Windowsで貼り付けた鍵の改行コード(CRLF)を直す
           printf '%s\n' "$SAKURA_SSH_KEY" | tr -d '\r' > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
