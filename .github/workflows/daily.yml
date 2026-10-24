@@ -56,3 +56,14 @@ jobs:
           # 専用フォルダの中だけを同期する(他のファイルには触れない)
           rsync -rz --delete -e "$SSH" docs/ "$SAKURA_USER@$SAKURA_HOST:$SAKURA_DEST/"
           echo "アップロード完了: $SAKURA_DEST"
+      - name: onanchi.com のトップページ等をアップロード(portalフォルダ)
+        env:
+          SAKURA_HOST: ${{ secrets.SAKURA_HOST }}
+          SAKURA_USER: ${{ secrets.SAKURA_USER }}
+        run: |
+          # 前のステップで鍵が作られていない(Secrets未設定)場合はスキップ
+          [ -f ~/.ssh/id_deploy ] || { echo "鍵なし。スキップ"; exit 0; }
+          SSH="ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=20"
+          # --delete は付けない。portal内のファイルを公開フォルダ直下へ上書きコピーするだけ
+          rsync -rz -e "$SSH" portal/ "$SAKURA_USER@$SAKURA_HOST:www/onanchi/"
+          echo "トップページ等のアップロード完了"
