@@ -16,11 +16,33 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: 公開URLを自動設定
-        run: echo "SITE_BASE_URL=https://${GITHUB_REPOSITORY_OWNER}.github.io/${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
       - name: Git ユーザー設定
         run: |
           git config user.name "daily-bot"
           git config user.email "daily-bot@users.noreply.github.com"
       - name: 取得・生成・検証・公開
+        env:
+          # テスト時だけ設定する変数。未設定なら site.config.json の baseUrl を使う
+          SITE_BASE_URL: ${{ vars.SITE_BASE_URL }}
         run: node scripts/daily.mjs
+      - name: さくらのサーバーへアップロード(Secrets設定済みの場合のみ)
+        env:
+          SAKURA_HOST: ${{ secrets.SAKURA_HOST }}
+          SAKURA_USER: ${{ secrets.SAKURA_USER }}
+          SAKURA_SSH_KEY: ${{ secrets.SAKURA_SSH_KEY }}
+          # アップロード先(サーバー上のパス)。まず -test で試し、成功後に本番へ切り替える
+          SAKURA_DEST: ${{ vars.SAKURA_DEST || 'www/service/hojokin-calendar' }}
+        run: |
+          if [ -z "$SAKURA_HOST" ] || [ -z "$SAKURA_USER" ] || [ -z "$SAKURA_SSH_KEY" ]; then
+            echo "Secrets未設定のためアップロードをスキップ"; exit 0
+          fi
+          # 誤設定で他のファイルを消さないための安全装置
+          case "$SAKURA_DEST" in www/service/?*) ;; *) echo "SAKURA_DESTは www/service/ 配下のみ許可"; exit 1;; esac
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SAKURA_SSH_KEY" > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -H "$SAKURA_HOST" >> ~/.ssh/known_hosts 2>/dev/null
+          SSH="ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes"
+          $SSH "$SAKURA_USER@$SAKURA_HOST" "mkdir -p '$SAKURA_DEST'"
+          # 専用フォルダの中だけを同期する(他のファイルには触れない)
+          rsync -rz --delete -e "$SSH" docs/ "$SAKURA_USER@$SAKURA_HOST:$SAKURA_DEST/"
+          echo "アップロード完了: $SAKURA_DEST"

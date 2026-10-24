@@ -33,6 +33,7 @@ for (const f of ['index.html', 'about.html', ...pages.map((x) => 'p/' + x)]) {
 for (const f of ['index.html', 'about.html', 'sitemap.xml', 'robots.txt']) {
   if (!fs.existsSync(path.join(docs, f))) errors.push(`${f}がない`);
 }
+if (fs.readFileSync(path.join(docs, 'sitemap.xml'), 'utf8').includes('YOUR-USER')) errors.push('sitemap.xmlのURLが仮の値(YOUR-USER)のまま');
 if (errors.length) {
   console.error('検証NG:\n- ' + errors.slice(0, 30).join('\n- '));
   process.exit(1);

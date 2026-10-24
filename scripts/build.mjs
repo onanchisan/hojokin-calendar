@@ -54,6 +54,7 @@ table{border-collapse:collapse;width:100%;background:#fff}th,td{border:1px solid
 .note{background:#fff8e6;border:1px solid #f0d9a0;border-radius:8px;padding:10px 14px;font-size:.92rem}nav a{margin-right:14px}`;
 fs.writeFileSync(path.join(out, 'style.css'), css);
 fs.writeFileSync(path.join(out, '.nojekyll'), '');
+if (cfg.customDomain) fs.writeFileSync(path.join(out, 'CNAME'), cfg.customDomain + '\n');
 fs.writeFileSync(path.join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`);
 
 const adsScript = cfg.adsenseClient ? `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${esc(cfg.adsenseClient)}" crossorigin="anonymous"></script>` : '';
