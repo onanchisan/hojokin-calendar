@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-25T20:56:42.234Z",
+ "fetchedAt": "2026-10-26T21:04:12.783Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -4320,23 +4320,6 @@
    "institution_name": "【福岡市】グリーンビル促進事業"
   },
   {
-   "id": "a0WJ200000CDdl2MAD",
-   "name": "S-00009581",
-   "title": "「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の2026年度第2回公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、2026年度第2回「脱炭素化・エネルギー転換に資する我が国技術の国際実証事業」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/GI2_100001_00028.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/GI2_100001_00028.html</a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-09-25T01:00Z",
-   "acceptance_end_datetime": "2026-10-26T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdl2MAD",
-   "institution_name": "P93050_脱炭素化・エネルギー転換に資する我が国技術の国際実証事業"
-  },
-  {
    "id": "a0WJ200000CDdfpMAD",
    "name": "S-00009563",
    "title": "令和８年度　観光産業の活性化促進事業補助金",
@@ -4488,23 +4471,6 @@
    "acceptance_end_datetime": "2027-01-29T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ZH5uUAG",
    "institution_name": "中小企業デジタル導入促進補助事業"
-  },
-  {
-   "id": "a0WfQ000003K34rUAC",
-   "name": "S-00009881",
-   "title": "令和８年度地域資源活用製品等の開発・販売促進事業　開発・改良フェーズ",
-   "subsidy_catch_phrase": "東京の地域資源活用や東京の都市・地域課題の解決に資する製品・サービスの開発・改良、販売促進に係る経費を一部助成します。申請には「プラン作成支援」への申込後、専門家派遣による事業計画の策定や申請書類準備の伴走支援を受けることによる、事業計画の完成・申請書類準備完了の確認を得ている必要があります。",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■申請受付期間</strong></p><p><strong style=\"font-size: 18px;\"> 令和８年10月１日（木）～令和８年10月26日（月）17時</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■詳細事項</strong></p><p>詳しくは、下記WEBページに掲載されている<strong>「募集要項」</strong>をお読みいただきますようお願いいたします。</p><p>申請には「プラン作成支援」にて専門家派遣を通じた事業計画の構築および申請書類の整備が「完了」している必要があります。</p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiikishigen/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/chiikishigen/index.html</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■助成事業の目的</strong></p><p><span style=\"font-size: 14px;\">　東京の地域資源活用や東京の都市・地域課題の解決に資する製品・サービスの開発・改良、販売促進を後押しすることにより、地域発の小さなイノベーション創出を促進するとともに、 東京産品等のイメージ向上やブランド力の強化を図り、都内経済の活性化、都内の中小企業の振興を図る</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■対象となる事業</strong></p><p><span style=\"font-size: 14px;\">以下の(１)又は(２)に該当する製品・サービス</span></p><p><strong style=\"font-size: 14px;\">（1）東京の地域資源を活用したもの</strong></p><p><strong style=\"font-size: 14px;\">（2）12分野に該当する東京の都市課題・地域課題解決に資するもの</strong></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\"> ※詳細はホームページ及び募集要項参照</strong></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">　</strong></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■助成内容</strong></p><p><span style=\"font-size: 14px;\">・事業範囲</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">上記(１)、(２)に該当する製品・サービスの販路開拓・販売促進に係る経費</span></p><p><span style=\"font-size: 14px;\">・対象期間</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">(ア) 開発・改良フェーズ 令和９年３月１日から令和10年11月30日まで</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">(イ) 販路開拓フェーズ 上記フェーズの完了検査の翌日から起算して１年９か月以内</span></p><p><span style=\"font-size: 14px;\">・対象経費</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">(ア) 開発・改良フェーズ　原材料・ 副資材費、機械装置・ 工具器具費、委託･外注費、専門家指導費、産業財産権 出願・導入費、直接人件費</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">(イ) 販路開拓フェーズ マーケティング費、店舗等整備費、展示会等出展費、イベント開催費、広告宣伝費</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">※(イ)は(ア)と併用申請の場合対象</span></p><p><span style=\"font-size: 14px;\">・限 度 額 </span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">(ア) 開発・改良フェーズ　</span><strong style=\"font-size: 14px;\"> 1,500</strong><span style=\"font-size: 14px;\">万円</span></p><p><span style=\"font-size: 14px;\">　</span><strong style=\"font-size: 14px;\"> </strong><span style=\"font-size: 14px;\">(イ) 販路開拓フェーズ　</span>",
-   "use_purpose": "販路拡大・海外展開をしたい / 安全・防災対策支援がほしい / まちづくり・地域振興支援がほしい / 教育・子育て・少子化支援がほしい / スポーツ・文化支援がほしい",
-   "industry": "建設業 / 製造業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 運輸業、郵便業 / 卸売業、小売業 / 宿泊業、飲食サービス業",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "助成対象と認められる経費の2/3以内",
-   "subsidy_max_limit": 15000000,
-   "acceptance_start_datetime": "2026-10-01T00:00Z",
-   "acceptance_end_datetime": "2026-10-26T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003K34rUAC",
-   "institution_name": "地域資源活用製品等の開発・販売促進事業"
   },
   {
    "id": "a0WfQ000003ePpBUAU",
