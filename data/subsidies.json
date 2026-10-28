@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-27T21:07:09.048Z",
+ "fetchedAt": "2026-10-28T21:12:44.032Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -1957,23 +1957,6 @@
    "institution_name": "令和８年度ＰＣＢ汚染変圧器高効率化補助金"
   },
   {
-   "id": "a0WJ200000CDc0YMAT",
-   "name": "S-00009417",
-   "title": "令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金",
-   "subsidy_catch_phrase": "都市ガス分野の災害対応・レジリエンス強化を目的に、中小の一般ガス導管事業者に、ガバナ遠隔監視システム導入を支援します。",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■公募説明会について</strong></p><p><span style=\"color: black; font-size: 14px;\">下記の日程で、オンライン（Zoom）による公募説明会を実施いたします。</span></p><p><span style=\"color: black; font-size: 14px;\">参加を希望される方は、</span><a href=\"https://www.gasproc.or.jp/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(26, 0, 255); font-size: 14px;\"><u>都市ガス振興センターHP</u></a><span style=\"color: black; font-size: 14px;\">より事前登録ください。</span></p><p><span style=\"font-size: 14px;\">　</span></p><p><span style=\"color: black; font-size: 14px;\">　（開催日時）</span></p><p><span style=\"color: black; font-size: 14px;\">　・10月13日（火）14：30～16：30</span></p><p><span style=\"color: black; font-size: 14px;\">　</span></p><p><span style=\"color: black; font-size: 14px;\">　</span></p><p><br></p><p><br></p><p><br></p><p><span style=\"color: black; font-size: 14px;\">　</span></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■jGrantsの動作環境について</strong></p><p><span style=\"font-size: 14px;\">jGrantsの動作環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 14px;\">なお、下記以外のブラウザ（</span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">InternetExplorer等</span><span style=\"font-size: 14px;\">）は、</span></p><p><span style=\"font-size: 14px;\">申請上のエラー等が生じますので利用しないでください。</span></p><p><span style=\"font-size: 14px;\">　</span></p><p><span style=\"font-size: 14px;\">　Windows ：Chrome, Firefox, Edge（※）</span></p><p><span style=\"font-size: 14px;\">　MacOS　：Chrome, </span><span style=\"font-size: 14px; color: rgb(68, 68, 68);\">Firefox, </span><span style=\"font-size: 14px;\">Safari</span></p><p><span style=\"font-size: 14px;\">　Android ：Chrome</span></p><p><span style=\"font-size: 14px;\">　（※ Edgeの「InternetExplorerモード」は申請上のエラー等が生じますので利用しないでください。）</span></p><p><span style=\"font-size: 14px;\">　</span></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■jGrantsを利用できない場合の申請方法について</strong></p><p><span style=\"font-size: 14px;\">やむを得ない理由によりjGrantsを利用できない場合は、必ず申請前にセンターまでご連絡ください。</span></p><p><span style=\"font-size: 14px;\">センターが認めた場合に限り、電子メールでの申請することを可とします。</span></p><p><span style=\"font-size: 14px;\">　</span></p><p><span style=\"font-size: 14px; color: black;\">--------------------------------------------------------------------------------</span></p><p><span style=\"font-size: 14px;\">　</span></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 14px; color: rgb(0, 0, 0);\">一般ガス導管事業者のうち中小企業者が、災害時復旧作業等の迅速化に資する機器や設備（ガバナ遠隔監視システム）の導入を行うために要する経費に補助金を交付します。</span></p><p><span style=\"font-size: 14px; color: black;\">　</span></p><p><strong style=\"font-size: 14px; color: rgb(0, 111, 173);\">■交付対象要件</strong></p><p><span style=\"font-size: 14px; color: black;\">（１）一般ガス導管事業者のうち中小企業者</span></p><p><span style=\"font-size: 14px; color: black;\"> （私営事業者にあっては資本金３億円以下または従業員３００人以下。</span></p><p><span style=\"font-size: 14px; color: black;\"> 公営事業者にあっては従業員３００人以下。みなし大企業除く）</span></p><p><span style=\"font-size: 14px; color: black;\">　</span></p><",
-   "use_purpose": "災害（自然災害、感染症等）支援がほしい / 安全・防災対策支援がほしい",
-   "industry": "電気・ガス・熱供給・水道業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "【ガバナ遠隔監視システム】１／２（補助額上限、補助率の詳細は公募説明会資料を参照ください）",
-   "subsidy_max_limit": 130502000,
-   "acceptance_start_datetime": "2026-10-07T00:00Z",
-   "acceptance_end_datetime": "2026-10-28T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT",
-   "institution_name": "令和８年度都市ガス分野の災害対応・レジリエンス強化にかかる支援事業費補助金"
-  },
-  {
    "id": "a0WJ200000CDXmVMAX",
    "name": "S-00008216",
    "title": "【令和８年度】INPIT外国出願補助金（中間手続補助）",
@@ -2125,23 +2108,6 @@
    "acceptance_end_datetime": "2026-11-06T06:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003N8hVUAS",
    "institution_name": "脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）"
-  },
-  {
-   "id": "a0WfQ000003EZsDUAW",
-   "name": "S-00009848",
-   "title": "令和８年度「水力発電導入促進支援事業費補助金（事業性評価支援事業）」（新規事業　追加公募分）",
-   "subsidy_catch_phrase": "PFIによる発電所の運営を目的として、地方公共団体が行う地点選定・事業計画段階におけるポテンシャル調査・事業性評価に必要な調査・設計等、当該地点の発電所の整備・運営に係る公募を行う事業と、地方公共団体又は地方公共団体と連携する民間事業者が行う地点選定・事業計画段階におけるポテンシャル調査・事業性評価に必要な調査・設計等を行う事業と、民間事業者等が行う地点選定・事業計画段階におけるポテンシャル調査・事業性評価に必要な調査・設計等を行う事業をサポートします。",
-   "detail": "<p><span style=\"color: rgb(51, 51, 51); font-size: 12px;\"> </span>一般財団法人新エネルギー財団（ＮＥＦ）では、令和８年度水力発電導入促進支援事業費補助金（事業性評価支援事業）（新規事業分）の追加公募を以下のとおり実施します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">１．補助対象事業</strong></p><p><span style=\"color: rgb(51, 51, 51); font-size: 9pt;\"> </span></p><p><strong>（１）事業性評価支援事業（PFI要件事業）</strong></p><p><span style=\"font-size: 12px;\"> PFIによる発電所の運営を目的として、地方公共団体が行う地点選定・事業計画段階におけるポテンシャル調査・事業性評価に必要な調査・設計等、当該地点の発電所の整備・運営に係る公募を行う事業に要する経費を補助します。</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇補助対象事業者</span></p><p><span style=\"font-size: 12px;\"> ポテンシャル調査・事業性評価にて有望地点を調査し、PFI事業（※）に係る発電所の整備・運営に係る事業者を公募する地方公共団体</span></p><p><span style=\"font-size: 12px;\"> （※）施設の所有権を地方公共団体が有したまま、施設の運営権を民間事業者に設定する方式</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇発電出力：５０ｋＷ以上３０，０００ｋＷ未満を見込むもの</span></p><p><span style=\"font-size: 12px;\"> （リパワリングや取水量増加やリプレースに係る調査についても対象とします。）</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇補助率</span></p><p><span style=\"font-size: 12px;\"> 補助対象経費に対して定額（１０／１０）</span></p><p><span style=\"font-size: 12px;\"> ただし、原則として、１地点当たりの事業費（調査費（公募用資料作成費含む）、専門家招へい費、会議運営費）に対する補助金の上限額は、２,０００万円/年とします。</span></p><p><span style=\"color: rgb(51, 51, 51); font-size: 9pt;\"> </span></p><p><strong style=\"color: rgb(51, 51, 51); font-size: 13px;\">（２）</strong><strong>事業性評価支援事業（自治体連携事業）</strong></p><p><span style=\"color: rgb(51, 51, 51); font-size: 12px;\"> </span><span style=\"font-size: 12px;\">地方公共団体又は地方公共団体と連携する民間事業者が行う地点選定・事業計画段階におけるポテンシャル調査・事業性評価に必要な調査・設計等を行う事業に要する経費の一部を補助します。</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇補助対象事業者</span></p><p><span style=\"font-size: 12px;\"> 地点選定・事業計画段階におけるポテンシャル調査・事業性評価を行う地方公共団体及び地方公共団体と連携する民間事業者等</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇発電出力：５０ｋＷ以上３０，０００ｋＷ未満を見込むもの</span></p><p><span style=\"font-size: 12px;\"> （リパワリングや取水量増加やリプレースに係る調査についても対象とします。）</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇補助率</span></p><p><span style=\"font-size: 12px;\"> ２／３以内</span></p><p><span style=\"font-size: 12px;\"> ただし、１地点当たりの人件費と事業費（調査費、専門家招へい費、会議運営費）の合計に対する補助金の上限額は、２,０００万円/年とします。</span></p><p><strong style=\"font-size: 13px; color: rgb(51, 51, 51);\">（３）</strong><strong>事業性評価支援事業（民間事業者等単独事業）</strong></p><p><span style=\"font-size: 12px;\"> 民間事業者等が行う地点選定・事業計画段階におけるポテンシャル調査・事業性評価に必要な調査・設計等を行う事業に要する経費の一部を補助します。</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇補助対象事業者</span></p><p><span style=\"font-size: 12px;\"> 自ら中小水力発電を実施予定の民間事業者等（法人及び青色申告を行っている個人事業者）</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇発電出力：５０ｋＷ以上３０，０００ｋＷ未満を見込むもの</span></p><p><span style=\"font-size: 12px;\"> （リパワリングや取水量増加に係る調査についても対象とします。）</span></p><p><br></p><p><span style=\"font-size: 12px;\"> 〇補助率</span></p><p><span style=\"font-size: 12px;\"> １／２以内</span></p><p><span style=\"font-size: 12px;\"> ただし、１地点当たりの人件費と事業費（調査費、専門家招へい費、会議運営費）の合計に対する補助金の上限額は、２,０００万円/年とします。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">２．公募期間</strong></p><p><span style=\"color: red; font-size: 12px;\"> </span",
-   "use_purpose": "新たな事業を行いたい / 災害（自然災害、感染症等）支援がほしい / 設備整備・IT導入をしたい",
-   "industry": "電気・ガス・熱供給・水道業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "「補助金のサマリー」参照",
-   "subsidy_max_limit": 20000000,
-   "acceptance_start_datetime": "2026-09-28T00:00Z",
-   "acceptance_end_datetime": "2026-10-28T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003EZsDUAW",
-   "institution_name": "水力発電導入促進支援事業費補助金"
   },
   {
    "id": "a0WfQ000003ENsfUAG",
@@ -2601,23 +2567,6 @@
    "acceptance_end_datetime": "2027-03-31T09:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuXMAX",
    "institution_name": "休廃止鉱山鉱害防止等工事費補助金"
-  },
-  {
-   "id": "a0WfQ000003iZLKUA2",
-   "name": "S-00009934",
-   "title": "令和８年度酒類業振興支援事業費補助金（第６期）",
-   "subsidy_catch_phrase": "酒類事業者向け支援",
-   "detail": "<p><strong style=\"color: rgb(18, 37, 231); font-size: 16px; font-family: sans-serif;\">■目的・概要</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">酒類事業者による、日本産酒類のブランディング、インバウンドによる海外需要の開拓などの海外展開に向けた取組及び国内外の新市場開拓などの意欲的な取組を支援することにより、日本産酒類の輸出拡大及び酒類業の経営改革・構造転換を図るとともに、酒類業の健全な発達を促進することを目的としています。 </span></p><p><br></p><p><strong style=\"font-family: sans-serif; font-size: 16px; color: rgb(18, 37, 231);\">■補助対象者</strong></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">酒類事業者（製造業者、卸売業者、小売業者）又は酒類事業者を１者以上含むグループ </span></p><p><br></p><p><strong style=\"color: rgb(9, 17, 234); font-size: 16px; font-family: sans-serif;\">■補助対象事業</strong></p><p><u style=\"color: rgb(0, 0, 0); font-size: 16px; font-family: sans-serif;\">海外展開支援枠</u></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（１）日本産酒類の海外販路拡大や商品等の高付加価値化に関する取組</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（２）酒蔵の観光化や地域における酒蔵ツーリズムプラン策定の取組</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（３）酒類事業者による酒米産地との連携を活かした新たな取組（海外展開又はインバウンド向け）</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">・補助率</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">補助対象経費の１／２ </span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">・補助金額</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">１件当たり １，０００万円上限、５０万円下限 </span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">ただし、複数の酒類事業者が集まって取組を推進する場合、上限額は増加し、最大１，５００万円（６者以上の場合）</span></p><p><br></p><p><u style=\"color: rgb(0, 0, 0); font-size: 16px; font-family: sans-serif;\">新市場開拓支援枠</u></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（１）商品の差別化による新たなニーズの獲得</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（２）販売手法の多様化による新たなニーズの獲得</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（３）ＩＣＴ技術を活用した、製造・流通の高度化・効率化</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">（４）酒類事業者による酒米産地との連携を活かした新たな取組</span></p><p><span style=\"font-size: 16px; font-family: sans-serif;\">・補助率</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">補助対象経費の１／２又は２／３（従業員数が２０人以下（卸・小売業は５人以下）の小規模酒類事業者） </span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">・補助金額</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\">１件当たり ５００万円上限、５０万円下限</span></p><p><span style=\"font-family: sans-serif; font-size: 16px;\"> ※ 給与支給の増加計画を達成できない等の場合において、補助金額の一部を返還</span></p><p><br></p><p><span style=\"font-size: 16px; font-family: sans-serif;\"> ※詳細は公募要領をご確認ください。</span></p><p><br></p><p><strong style=\"color: rgb(17, 36, 238); font-family: sans-serif; font-size: 16px;\">■問い合わせ</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0); font-family: sans-serif;\">各国税局（沖縄県においては沖縄国税事務所。）</span></p><p><br></p><p><strong style=\"color: rg",
-   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / イベント・事業運営支援がほしい / まちづくり・地域振興支援がほしい",
-   "industry": "製造業 / 分類不能の産業 / 卸売業、小売業",
-   "target_area_search": "茨城県/栃木県/群馬県/埼玉県/新潟県/長野県 / 千葉県/東京都/神奈川県/山梨県 / 富山県/石川県/福井県 / 岐阜県/静岡県/愛知県/三重県 / 滋賀県/京都府/大阪府/兵庫県/奈良県/和歌山県 / 鳥取県/島根県/岡山県/広島県/山口県 / 徳島県/香川県/愛媛県/高知県 / 福岡県/佐賀県/長崎県 / 北海道 / 青森県/岩手県/宮城県/秋田県/山形県/福島県 / 熊本県/大分県/宮崎県/鹿児島県 / 沖縄県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "1/2又は2/3",
-   "subsidy_max_limit": 15000000,
-   "acceptance_start_datetime": "2026-10-08T01:00Z",
-   "acceptance_end_datetime": "2026-10-28T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iZLKUA2",
-   "institution_name": "酒類業振興支援事業費補助金"
   },
   {
    "id": "a0WJ200000CDeUgMAL",
@@ -3283,23 +3232,6 @@
    "institution_name": "事業承継を契機とした成長支援事業"
   },
   {
-   "id": "a0WJ200000CDdudMAD",
-   "name": "S-00009650",
-   "title": "【青森】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">青森</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "青森県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-10-28T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDdudMAD",
-   "institution_name": "業務改善助成金"
-  },
-  {
    "id": "a0WJ200000CDdueMAD",
    "name": "S-00009651",
    "title": "【岩手】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -3433,23 +3365,6 @@
    "acceptance_start_datetime": "2026-08-31T15:00Z",
    "acceptance_end_datetime": "2026-10-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6TMAT",
-   "institution_name": "業務改善助成金"
-  },
-  {
-   "id": "a0WJ200000CDe6UMAT",
-   "name": "S-00009721",
-   "title": "【高知】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">高知</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "高知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-10-28T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6UMAT",
    "institution_name": "業務改善助成金"
   },
   {
@@ -4099,6 +4014,23 @@
    "institution_name": "商店街防災力向上緊急支援事業"
   },
   {
+   "id": "a0WfQ0000040nWHUAY",
+   "name": "S-00010016",
+   "title": "令和８年度居宅介護支援事業所経営改善等支援補助金",
+   "subsidy_catch_phrase": "下記の費用の一部を補助します。\n１　居宅介護支援事業所の事務職員雇用に対する支援\n２　経営改善のための取組に対する支援\n３　利用者確保のための広報活動に対する支援",
+   "detail": "<p><span style=\"font-size: 18px; color: rgb(255, 8, 8);\">交付申請は令和８年12月28日（月）締め切りです。</span></p><p><span style=\"font-size: 18px; color: rgb(255, 8, 8);\">実績報告は令和９年１月12日（火）から受付を開始します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>東京都内の居宅介護支援事業所に対して、事務職員の雇用経費に加え、経営改善に係る取組や利用者確保のための広報活動に係る経費を補助し、業務効率化や経営改善を支援することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助金申請方法マニュアル：</strong><a href=\"https://jimushokuin-koyoushien.rbl.co.jp/manual.pdf\" rel=\"noopener noreferrer\" target=\"_blank\">manual.pdf</a></p><p><strong style=\"color: rgb(1, 95, 189);\">■Jグランツマニュアル：</strong><a href=\"https://www.jgrants-portal.go.jp/request-flow\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(1, 95, 189);\"><strong>https://www.jgrants-portal.go.jp/request-flow</strong></a></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">﻿■問合せ先</strong></p><p>東京都介護保険課　03-5000-7556</p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">■Q＆A　制度概要：</strong><span style=\"color: rgb(2, 18, 28);\">東京都ホームページ</span></p><p><a href=\"https://www.fukushi.metro.tokyo.lg.jp/kourei/hoken/kaigo_lib/care/jimusyokuinkoyousienn\" rel=\"noopener noreferrer\" target=\"_blank\">居宅介護支援事業所事務職員雇用支援事業|介護支援専門員(ケアマネジャー）関連情報|東京都福祉局</a></p>",
+   "use_purpose": "雇用・職場環境を改善したい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "１については、助成対象と認められる経費の３／４、２，３については１０/１０",
+   "subsidy_max_limit": 2725000,
+   "acceptance_start_datetime": "2026-10-28T06:35Z",
+   "acceptance_end_datetime": "2027-03-19T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000040nWHUAY",
+   "institution_name": "居宅介護支援事業所経営改善等支援"
+  },
+  {
    "id": "a0WJ200000CDeTtMAL",
    "name": "S-00009786",
    "title": "令和８年度東京都救命救急センター施設整備等補助事業（運営費）",
@@ -4250,23 +4182,6 @@
    "acceptance_end_datetime": "2027-03-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY2OMAX",
    "institution_name": "職場内障害者サポーター事業"
-  },
-  {
-   "id": "a0WJ200000CDap3MAD",
-   "name": "S-00009335",
-   "title": "令和8年度　育児・介護との両立のためのテレワーク活用促進奨励金",
-   "subsidy_catch_phrase": "都内中小企業等の「テレワークを活用した育児・介護との両立」に向けた取り組みを後押しします。",
-   "detail": "<p><span style=\"font-size: 20px;\">【</span><span style=\"font-size: 20px; color: rgb(34, 32, 32);\">お知らせとお願い</span><span style=\"font-size: 20px;\">】</span></p><p><br></p><h2>本奨励金の申請にあたって整備する「<strong style=\"color: rgb(217, 0, 0);\">テレワーク規定</strong>」について<span style=\"color: rgb(234, 10, 10);\">【重要】</span></h2><p><strong style=\"font-size: 13px; color: rgb(65, 17, 238);\">■7/24（金）20：15　追記しました</strong></p><p><span style=\"color: rgb(3, 14, 36); font-size: 16px;\">本奨励金は、</span><strong style=\"color: rgb(217, 0, 0); font-size: 16px;\">3歳未満の子の育児を行う従業員及び要介護状態の家族を介護する従業員を対象とした</strong><span style=\"color: rgb(3, 14, 36); font-size: 16px;\">テレワーク規定の整備と導入を支援するものです。</span></p><p><strong style=\"font-size: 16px; color: rgb(3, 14, 36);\">新規導入または改定する「テレワーク規定」は</strong><strong style=\"font-size: 16px; color: rgb(217, 0, 0);\">「育児・介護休業法」の規定内容を踏まえて策定する必要があります。</strong></p><p><span style=\"color: rgb(3, 14, 36); font-size: 16px;\">※改正育児・介護休業法では、3歳に満たない子を養育する労働者について、「育児のための所定労働時間の短縮措置」の代替措置にテレワークが追加された（義務）ほか、3歳に満たない子を養育する労働者及び要介護状態の対象家族を介護する労働者について、テレワークを選択できるよう措置を講ずるよう努めなければならないとされています。（努力義務）</span></p><p><br></p><h3><strong>支給申請にあたっての条件</strong></h3><ol><li><strong style=\"color: rgb(234, 14, 14); font-size: 16px;\">3歳未満の子を育てる従業員がテレワークをできる規定とすること。（介護離職防止コースのみを申請する場合でも「1.」を導入していることが必須条件）</strong></li><li>介護を抱える従業員がテレワークをできる規定とすること。</li><li>上記「1.」「2.」のテレワーク規定の対象は、原則として全従業員（全従業員のうちの3歳未満の子を育てる従業員、介護を抱える従業員を対象）とすること。なお、対象者を限定する場合、改正育児・介護休業法の規定を踏まえて労使間で十分協議の上決定すること。</li><li>育児・介護を抱える従業員のテレワーク規定については改正育児・介護休業法の規定内容を下回らないこと。（例：介護の対象となる人を同居の家族に限定する）</li><li>テレワークの日数や時間、取得可能期間等は、労使間での取り決めに従い設定すること</li><li><strong><u>新規導入、改定するテレワーク規定は</u></strong>　「育児を抱える従業員」「介護を抱える従業員」が対象となることを明確に定めること。<strong style=\"font-size: 16px; color: rgb(247, 14, 14);\">（本奨励金申請にあたって新規導入・改定するテレワーク規定は　「希望すれば誰でもテレワークができる。（全社員が対象）」としたものは不可。「（3歳未満の）育児を抱える従業員」「介護を抱える従業員」にテレワークを認める規定としてください。）</strong></li></ol><p>育児・介護休業法に関する規則の規定例は、</p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/000103533.html\" rel=\"noopener noreferrer\" target=\"_blank\">厚生労働省HPの資料を参照してください。（外部サイト）</a></p><p>なお、当財団では具体的な規定の策定方法及び運用方法に関するご相談は受付けておりません。</p><p><br></p><p><br></p><p>********************************************************</p><p><strong style=\"color: rgb(65, 17, 238);\">■9/15（火）15：30　追記しました</strong></p><p><strong style=\"font-size: 18px;\"><u>規程策定・改定時の周知資料の提出について（お詫びと訂正）</u></strong></p><p><span style=\"color: rgb(23, 23, 24);\">様式第1号　（各コース必須項目：テレワーク環境の整備状況）（２）テレワーク規定届出　欄の下部に</span></p><p><span style=\"color: rgb(23, 23, 24);\">『※導入コースを申請する場合は社内周知資料の提出は必須です。」との記載がありますが</span></p><p><strong style=\"color: rgb(218, 14, 27); font-size: 18px;\">導入コース・介護離職防止コースともに　<u>社内周知資料の提出は必須</u>です。　</strong></p><p><span style=\"color: rgb(43, 43, 44);\">の間違いです。お詫びして訂正いたします。</span></p><p><br></p><p><strong style=\"color: rgb(65, 17, 238);\">■9/10（木）12：30　追記しました</strong></p><p><strong><u>差戻し後の　申請に係る不具合の発生については解消しております。</u></strong></p><p><span style=\"color: rgb(38, 38, 40);\">ご迷惑をおかけしたことをお詫び申し上げます。</span></p><p><br></p><p><strong style=\"color: rgb(65, 17, 238);\">■8/26（",
-   "use_purpose": "雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "定額",
-   "subsidy_max_limit": 300000,
-   "acceptance_start_datetime": "2026-06-15T00:00Z",
-   "acceptance_end_datetime": "2027-02-26T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDap3MAD",
-   "institution_name": "令和8年度　育児・介護との両立のためのテレワーク活用促進奨励事業"
   },
   {
    "id": "a0WfQ000003CYIjUAO",
@@ -4709,6 +4624,23 @@
    "acceptance_end_datetime": "2026-12-15T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ",
    "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
+  },
+  {
+   "id": "a0WJ200000CDap3MAD",
+   "name": "S-00009335",
+   "title": "令和8年度　育児・介護との両立のためのテレワーク活用促進奨励金",
+   "subsidy_catch_phrase": "都内中小企業等の「テレワークを活用した育児・介護との両立」に向けた取り組みを後押しします。",
+   "detail": "<p><span style=\"font-size: 20px;\">【</span><span style=\"font-size: 20px; color: rgb(34, 32, 32);\">お知らせとお願い</span><span style=\"font-size: 20px;\">】</span></p><p><br></p><h2>本奨励金の申請にあたって整備する「<strong style=\"color: rgb(217, 0, 0);\">テレワーク規定</strong>」について<span style=\"color: rgb(234, 10, 10);\">【重要】</span></h2><p><strong style=\"font-size: 13px; color: rgb(65, 17, 238);\">■7/24（金）20：15　追記しました</strong></p><p><span style=\"color: rgb(3, 14, 36); font-size: 16px;\">本奨励金は、</span><strong style=\"color: rgb(217, 0, 0); font-size: 16px;\">3歳未満の子の育児を行う従業員及び要介護状態の家族を介護する従業員を対象とした</strong><span style=\"color: rgb(3, 14, 36); font-size: 16px;\">テレワーク規定の整備と導入を支援するものです。</span></p><p><strong style=\"font-size: 16px; color: rgb(3, 14, 36);\">新規導入または改定する「テレワーク規定」は</strong><strong style=\"font-size: 16px; color: rgb(217, 0, 0);\">「育児・介護休業法」の規定内容を踏まえて策定する必要があります。</strong></p><p><span style=\"color: rgb(3, 14, 36); font-size: 16px;\">※改正育児・介護休業法では、3歳に満たない子を養育する労働者について、「育児のための所定労働時間の短縮措置」の代替措置にテレワークが追加された（義務）ほか、3歳に満たない子を養育する労働者及び要介護状態の対象家族を介護する労働者について、テレワークを選択できるよう措置を講ずるよう努めなければならないとされています。（努力義務）</span></p><p><br></p><h3><strong>支給申請にあたっての条件</strong></h3><ol><li><strong style=\"color: rgb(234, 14, 14); font-size: 16px;\">3歳未満の子を育てる従業員がテレワークをできる規定とすること。（介護離職防止コースのみを申請する場合でも「1.」を導入していることが必須条件）</strong></li><li>介護を抱える従業員がテレワークをできる規定とすること。</li><li>上記「1.」「2.」のテレワーク規定の対象は、原則として全従業員（全従業員のうちの3歳未満の子を育てる従業員、介護を抱える従業員を対象）とすること。なお、対象者を限定する場合、改正育児・介護休業法の規定を踏まえて労使間で十分協議の上決定すること。</li><li>育児・介護を抱える従業員のテレワーク規定については改正育児・介護休業法の規定内容を下回らないこと。（例：介護の対象となる人を同居の家族に限定する）</li><li>テレワークの日数や時間、取得可能期間等は、労使間での取り決めに従い設定すること</li><li><strong><u>新規導入、改定するテレワーク規定は</u></strong>　「育児を抱える従業員」「介護を抱える従業員」が対象となることを明確に定めること。<strong style=\"font-size: 16px; color: rgb(247, 14, 14);\">（本奨励金申請にあたって新規導入・改定するテレワーク規定は　「希望すれば誰でもテレワークができる。（全社員が対象）」としたものは不可。「（3歳未満の）育児を抱える従業員」「介護を抱える従業員」にテレワークを認める規定としてください。）</strong></li></ol><p>育児・介護休業法に関する規則の規定例は、</p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/000103533.html\" rel=\"noopener noreferrer\" target=\"_blank\">厚生労働省HPの資料を参照してください。（外部サイト）</a></p><p>なお、当財団では具体的な規定の策定方法及び運用方法に関するご相談は受付けておりません。</p><p><br></p><p><br></p><p>********************************************************</p><p><strong style=\"color: rgb(65, 17, 238);\">■9/15（火）15：30　追記しました</strong></p><p><strong style=\"font-size: 18px;\"><u>規程策定・改定時の周知資料の提出について（お詫びと訂正）</u></strong></p><p><span style=\"color: rgb(23, 23, 24);\">様式第1号　（各コース必須項目：テレワーク環境の整備状況）（２）テレワーク規定届出　欄の下部に</span></p><p><span style=\"color: rgb(23, 23, 24);\">『※導入コースを申請する場合は社内周知資料の提出は必須です。」との記載がありますが</span></p><p><strong style=\"color: rgb(218, 14, 27); font-size: 18px;\">導入コース・介護離職防止コースともに　<u>社内周知資料の提出は必須</u>です。　</strong></p><p><span style=\"color: rgb(43, 43, 44);\">の間違いです。お詫びして訂正いたします。</span></p><p><br></p><p><strong style=\"color: rgb(65, 17, 238);\">■9/10（木）12：30　追記しました</strong></p><p><strong><u>差戻し後の　申請に係る不具合の発生については解消しております。</u></strong></p><p><span style=\"color: rgb(38, 38, 40);\">ご迷惑をおかけしたことをお詫び申し上げます。</span></p><p><br></p><p><strong style=\"color: rgb(65, 17, 238);\">■8/26（",
+   "use_purpose": "雇用・職場環境を改善したい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "subsidy_rate": "定額",
+   "subsidy_max_limit": 300000,
+   "acceptance_start_datetime": "2026-06-15T00:00Z",
+   "acceptance_end_datetime": "2027-02-26T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDap3MAD",
+   "institution_name": "令和8年度　育児・介護との両立のためのテレワーク活用促進奨励事業"
   },
   {
    "id": "a0W2x000003QZLqEAO",
