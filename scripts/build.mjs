@@ -34,7 +34,8 @@ const items = data.items
       purpose: r.use_purpose || '', industry: r.industry || '',
       url: r.front_subsidy_detail_page_url || `https://www.jgrants-portal.go.jp/subsidy/${r.id}`,
       summary: strip(r.detail).slice(0, 220),
-      daysLeft: end ? Math.ceil((end - today) / 86400e3) : null,
+      // 締切も日付単位にそろえて差を取る（当日締切 = 0日）
+      daysLeft: end ? Math.round((Date.UTC(end.getUTCFullYear(), end.getUTCMonth(), end.getUTCDate()) - today) / 86400e3) : null,
     };
   })
   .filter((x) => x.end && x.daysLeft >= 0)
@@ -65,7 +66,7 @@ const page = ({ title, desc, path: p, body }) => `<!doctype html><html lang="ja"
 <body><header><div class="w"><strong><a href="${BASE}/" style="text-decoration:none">${esc(cfg.siteName)}</a></strong> <span class="meta">${esc(cfg.tagline)}</span><nav><a href="${BASE}/">締切順</a><a href="${BASE}/areas.html">地域</a><a href="${BASE}/industries.html">業種</a><a href="${BASE}/deadline.html">月別締切</a><a href="${BASE}/ranking.html">上限額順</a><a href="${BASE}/guide.html">ガイド</a><a href="${BASE}/about.html">このサイトについて</a></nav></div></header>
 <main class="w">${body}</main><footer><div class="w">${esc(cfg.contactText)}<br>出典：<a href="https://www.jgrants-portal.go.jp/">Jグランツ</a>。このコンテンツは、政府公式の補助金申請システム jGrants の Web-API 機能を利用して取得した情報をもとに${esc(cfg.operatorName)}にて編集・加工して作成されたものです。コンテンツの内容は日本国政府及び自治体によって保証されたものではありません。最終取得日：${fetchedStr}。<a href="${BASE}/about.html">免責・プライバシー</a></div></footer></body></html>`;
 
-const card = (x) => `<div class="card"><h3><a href="${BASE}/p/${x.id}.html">${esc(x.title)}</a></h3><div class="meta">${x.daysLeft <= 14 ? '<span class="badge hot">締切まで' + x.daysLeft + '日</span>' : ''}<span class="badge">${esc(x.area)}</span>締切：${ymd(x.end)}　上限：${yen(x.max)}</div>${x.summary ? `<p>${esc(x.summary)}…</p>` : ''}</div>`;
+const card = (x) => `<div class="card"><h3><a href="${BASE}/p/${x.id}.html">${esc(x.title)}</a></h3><div class="meta">${x.daysLeft <= 14 ? '<span class="badge hot">' + (x.daysLeft === 0 ? '本日締切' : '締切まで' + x.daysLeft + '日') + '</span>' : ''}<span class="badge">${esc(x.area)}</span>締切：${ymd(x.end)}　上限：${yen(x.max)}</div>${x.summary ? `<p>${esc(x.summary)}…</p>` : ''}</div>`;
 const disclaimer = `<p class="note">最終取得日：${fetchedStr}。掲載内容は公開データの自動要約です。金額・締切・要件は変更されることがあるため、申請前に必ず公式ページをご確認ください。</p>`;
 const write = (rel, html) => fs.writeFileSync(path.join(out, rel), html);
 
@@ -78,7 +79,7 @@ write('index.html', page({
 
 // 個別
 for (const x of items) {
-  const rows = [['対象地域', x.area], ['公募期間', `${ymd(x.start)} 〜 ${ymd(x.end)}（締切まで${x.daysLeft}日）`], ['補助上限額', yen(x.max)], ['補助率', x.rate], ['従業員数', x.emp], ['利用目的', x.purpose], ['対象業種', x.industry]].filter((r) => r[1]);
+  const rows = [['対象地域', x.area], ['公募期間', `${ymd(x.start)} 〜 ${ymd(x.end)}（${x.daysLeft === 0 ? '本日締切' : '締切まで' + x.daysLeft + '日'}）`], ['補助上限額', yen(x.max)], ['補助率', x.rate], ['従業員数', x.emp], ['利用目的', x.purpose], ['対象業種', x.industry]].filter((r) => r[1]);
   write(`p/${x.id}.html`, page({
     title: `${x.title}（締切${ymd(x.end)}）`, desc: `${x.title}の締切は${ymd(x.end)}、上限${yen(x.max)}。対象地域：${x.area}。最終取得日${fetchedStr}。`, path: `/p/${x.id}.html`,
     body: `<h1>${esc(x.title)}</h1>${disclaimer}<table>${rows.map((r) => `<tr><th>${esc(r[0])}</th><td>${esc(r[1])}</td></tr>`).join('')}</table>${x.summary ? `<h2>概要</h2><p>${esc(x.summary)}…</p>` : ''}<p><a href="${esc(x.url)}" rel="noopener nofollow">▶ 公式情報（Jグランツ）で詳細を確認する</a></p>${affiliates}<p><a href="${BASE}/area/${areaSlug(x.area)}.html">${esc(x.area)}の補助金一覧へ</a></p>`,
