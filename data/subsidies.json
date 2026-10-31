@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-30T21:12:06.262Z",
+ "fetchedAt": "2026-10-31T21:04:23.802Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -918,23 +918,6 @@
    "acceptance_end_datetime": "2027-03-31T09:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYuSMAX",
    "institution_name": "休廃止鉱山鉱害防止等工事費補助金"
-  },
-  {
-   "id": "a0WJ200000CDXjwMAH",
-   "name": "S-00008168",
-   "title": "【福井県】令和８年度企業の太陽光・蓄電池設備導入促進事業補助金",
-   "subsidy_catch_phrase": "福井の企業を脱炭素化へ！太陽光＆蓄電池導入で最大1,130万円の支援チャンス",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本補助金は、福井県内の二酸化炭素削減を推進し、県内再エネの地産地消を加速化させることを目的としています,。県内に事業所を持つ民間事業者を対象に、自家消費型の太陽光発電設備を単独、または太陽光発電設備と蓄電池設備をセットで導入する際の経費の一部を補助します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>福井県補助金等交付規則（昭和４６年福井県規則第２０号）およびエネルギー環境部エネルギー課所管補助金等交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>以下の要件を満たす者が対象です。</p><p>1. 民間事業者: 福井県内に引き続いて1年以上事業所を有すること（国、地方公共団体、独立行政法人等は除く）。</p><p>2. リース事業者: 上記の民間事業者にリースモデルにより設備を提供するリース業者。</p><p>3. その他: 県税の滞納がないこと、暴力団等の反社会的勢力に該当しないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>福井県内（県内に事業所を有し、かつ県内の自らが事業を営む建物または土地に設置すること）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>• 予算上限: 申請総額が予算上限に達した時点で受付終了となります。</p><p>• 自家消費要件: 発電した電力量の30％以上を当該敷地内で消費し、その分を含めて50％以上を県内で消費する必要があります。</p><p>• 制度制限: J-クレジット制度への登録や、FIT（固定価格買取制度）・FIP制度の認定取得はできません。</p><p>• 重複禁止: 国または自治体等から他の補助等を受けていないことが条件です,。</p><p>• 導入形態: 太陽光単独、または太陽光と蓄電池のセット導入が対象です（蓄電池単独は不可）。</p><p><br></p><p>補助金上限額:</p><p>• 太陽光発電設備: 最大500万円（蓄電池セットの場合）、最大300万円（太陽光単独の場合）</p><p>• 蓄電池設備: 最大630万円（業務用）、最大510万円（家庭用）</p><p><span style=\"font-size: 12.8px;\">• 嶺南地域はさらに最大200万円を上乗せ</span></p><p>補助率:</p><p>• 太陽光発電設備:</p><p>  ◦ 蓄電池セット導入：5万円/kW</p><p>  ◦ 太陽光単独導入：3万円/kW</p><p><span style=\"font-size: 12.8px;\">  ◦ 嶺南地域での導入：2万円/kW</span></p><p>  ◦ ※いずれも上限100kWまで。算出額が導入単価を上回る場合は導入単価を上限とする。</p><p>• 蓄電池設備: 設備の価格（工事費込・税抜）の1/3</p><p>  ◦ ※上限100kWhまで。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>福井県エネルギー環境部エネルギー課 新エネルギーグループ</p><p>電話番号：0776-20-0229 または 0776-20-0302</p><p>メール：energy@pref.fukui.lg.jp</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.pref.fukui.lg.jp/doc/dengen/shin-energy/fukui-taiyokou.html</p>",
-   "use_purpose": "設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "福井県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 11300000,
-   "acceptance_start_datetime": "2026-04-16T15:00Z",
-   "acceptance_end_datetime": "2026-10-31T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXjwMAH",
-   "institution_name": "【福井県】企業の太陽光・蓄電池設備導入促進事業補助金"
   },
   {
    "id": "a0WJ200000CDXjyMAH",
@@ -3181,23 +3164,6 @@
    "institution_name": "中小企業の外国人従業員に対する研修等支援助成金"
   },
   {
-   "id": "a0WJ200000CDe65MAD",
-   "name": "S-00009701",
-   "title": "【山梨】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">山梨</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "山梨県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-10-31T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe65MAD",
-   "institution_name": "業務改善助成金"
-  },
-  {
    "id": "a0WJ200000CDe6CMAT",
    "name": "S-00009708",
    "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -3212,40 +3178,6 @@
    "acceptance_start_datetime": "2026-08-31T15:00Z",
    "acceptance_end_datetime": "2026-11-15T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT",
-   "institution_name": "業務改善助成金"
-  },
-  {
-   "id": "a0WJ200000CDe6RMAT",
-   "name": "S-00009718",
-   "title": "【徳島】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">徳島</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "徳島県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-10-31T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6RMAT",
-   "institution_name": "業務改善助成金"
-  },
-  {
-   "id": "a0WJ200000CDe6TMAT",
-   "name": "S-00009720",
-   "title": "【愛媛】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">愛媛</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-10-31T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6TMAT",
    "institution_name": "業務改善助成金"
   },
   {
@@ -3297,23 +3229,6 @@
    "acceptance_start_datetime": "2026-08-31T15:00Z",
    "acceptance_end_datetime": "2026-11-30T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6YMAT",
-   "institution_name": "業務改善助成金"
-  },
-  {
-   "id": "a0WJ200000CDe6ZMAT",
-   "name": "S-00009726",
-   "title": "【大分】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">大分</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "大分県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-10-31T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6ZMAT",
    "institution_name": "業務改善助成金"
   },
   {
@@ -3383,57 +3298,6 @@
    "acceptance_end_datetime": "2027-03-31T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CWvFUAW",
    "institution_name": "燃料電池フォークリフト実装支援事業助成金"
-  },
-  {
-   "id": "a0WfQ000003aN9KUAU",
-   "name": "S-00009901",
-   "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第６回申請受付）",
-   "subsidy_catch_phrase": "就職氷河期世代の方を正社員として採用し、定着を図るために計画的な指導育成の取組を行った企業に対し助成金を交付します！",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"color: rgb(255, 0, 0); font-size: 16px;\">≪ 交付申請受付期間は 令和８年１０月１日 8時30分～１０月３１日 17時15分 です ≫</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">いわゆる就職氷河期に就職の機会を逃したこと等により、十分なキャリア形成がなされず、正規雇用労働者としての就職が困難な者を、正規雇用労働者として雇用し、計画的な育成計画の策定など、労働者が安定して働き続けられる労働環境整備を行った事業主に対し都が助成金を交付することにより、労働者の雇用安定を図ります。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠規程</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">東京都就職氷河期世代等安定就業サポート助成金 交付要綱</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■おもな要件</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇中小企業事業主であること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇東京労働局管内に雇用保険適用事業所があること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇以下のいずれかに該当していること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">・国の特定求職者雇用開発助成金（中高年層安定雇用支援コース又は就職氷河期世代安定雇用実現コース）の支給決定を受けていること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">・都の就職支援事業を利用し、同事業を都から受託（再受託含む）する事業者から職業紹介を受け、対象労働者を正規雇用労働者として採用（非正規雇用労働者として採用後６か月未満での正規転換も含む）すること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">※要件等の詳細は、申請の手引きをご参照ください。</span></p><p><span style=\"color: rgb(2, 61, 255);\">﻿</span></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請期間（令和８年度 第６回 交付申請）</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇交付申請受付期間：令和８年１０月１日(木)８時３０分～１０月３１日(土)１７時１５分</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇支援期間 ：令和８年１２月１日(日)～令和９年２月２８日(日)</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇実績報告受付期間：令和９年３月１日(月)８時３０分～</span><strong style=\"font-size: 14px; color: rgb(255, 0, 0);\">３月１６日(火)１７時１５分</strong></p><p class=\"ql-indent-1\"><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請・実績報告様式</strong></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(255, 0, 0);\">交付申請や実績報告等に関する様式は、「TOKYOはたらくネット」からダウンロードしてください。</strong></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(255, 0, 0);\">TOKYOはたらくネット：</strong><a href=\"https://www.hataraku.metro.tokyo.lg.jp/seiki-koyo/kigyou/hyogaki/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(5, 26, 250);\"><strong>https://www.hataraku.metro.tokyo.lg.jp/seiki-koyo/kigyou/hyogaki/</strong></a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">東京都正規雇用化推進窓口</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">就職氷河期世代等安定就業サポート助成金担当</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">０３－６２０５－６７３０</span></p>",
-   "use_purpose": "雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "100%",
-   "subsidy_max_limit": 2400000,
-   "acceptance_start_datetime": "2026-09-30T23:30Z",
-   "acceptance_end_datetime": "2026-10-31T08:15Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003aN9KUAU",
-   "institution_name": "東京都就職氷河期世代等安定就業サポート助成金"
-  },
-  {
-   "id": "a0WfQ000003aSfBUAU",
-   "name": "S-00009900",
-   "title": "東京都正規雇用転換安定化支援助成金（令和８年度第６回申請受付）",
-   "subsidy_catch_phrase": "企業内で非正規から正規雇用に転換した従業員の方々が安心して働き続けられるよう、正社員としてのキャリアアップの研修や指導育成の取組をした企業に対し助成金を交付します！",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"color: rgb(255, 0, 0); font-size: 16px;\">≪ 交付申請受付期間は 令和８年１０月１日 8時30分～１０月３１日 17時15分 です ≫</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">国が実施するキャリアアップ助成金（正社員化コース）と連携し、計画的な育成計画の策定や退職金制度、結婚・育児支援制度、介護支援制度など、正規雇用転換後も安心して働き続けられる労働環境整備や賃上げを行った事業主に対して助成金を交付することにより、 質の良い転換等の促進及び労働者の雇用安定を図ることを目的にしています。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠規程</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">東京都正規雇用転換安定化支援助成金交付要綱</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■おもな要件</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇中小企業事業主であること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇東京労働局管内に雇用保険適用事業所があること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇東京労働局よりキャリアアップ助成金（正社員化コース）の支給決定を受けた事業主であること。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">※要件等の詳細は、以下にある「電子申請の手引き」をご参照ください。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請期間（令和８年度 第６回 交付申請）</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇交付申請受付期間：令和８年１０月１日(木)８時３０分　～　１０月３１日(土)１７時１５分</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇支 援 期 間 ：令和８年１２月１日(火)　～　令和９年２月２８日(日)</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇実績報告受付期間：令和９年３月１日(月)８時３０分　～　</span><strong style=\"font-size: 14px; color: rgb(255, 0, 0);\">３月１６日(火)１７時１５分</strong></p><p class=\"ql-indent-1\"><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請・実績報告様式</strong></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(255, 0, 0);\">交付申請や実績報告等に関する様式は、「TOKYOはたらくネット」からダウンロードしてください。</strong></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(255, 0, 0);\">TOKYOはたらくネット：</strong><a href=\"https://www.hataraku.metro.tokyo.lg.jp/seiki-koyo/kigyou/anteika/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.hataraku.metro.tokyo.lg.jp/seiki-koyo/kigyou/anteika/</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">東京都正規雇用化推進窓口</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">正規雇用転換安定化支援助成金担当</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">０３－６２０５－６７３０</span></p>",
-   "use_purpose": "雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "100%",
-   "subsidy_max_limit": 1900000,
-   "acceptance_start_datetime": "2026-09-30T23:30Z",
-   "acceptance_end_datetime": "2026-10-31T08:15Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003aSfBUAU",
-   "institution_name": "東京都正規雇用転換安定化支援助成金"
-  },
-  {
-   "id": "a0WfQ000003aUAjUAM",
-   "name": "S-00009902",
-   "title": "東京都若者世代職場定着促進助成金（令和８年度第６回申請受付）",
-   "subsidy_catch_phrase": "若者世代の早期職場定着化支援",
-   "detail": "<p style=\"text-align: center;\"><strong style=\"color: rgb(255, 0, 0); font-size: 16px;\">≪ 交付申請受付期間は 令和８年１０月１日 8時30分～１０月３１日 17時15分 です ≫</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p class=\"ql-indent-1\">若者世代の就職者に対して計画的な育成計画の策定や退職金制度、結婚・育児支援制度、介護支援制度など、安心して働き続けられる労働環境整備や賃上げを行った事業主に対して助成金を交付することにより、若者の早期の職場定着を促進することを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠規程</strong></p><p class=\"ql-indent-1\">東京都若者世代職場定着促進助成金交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■おもな要件</strong></p><p><span style=\"font-size: 14px;\"> 〇中小企業事業主であること</span></p><p><span style=\"font-size: 14px;\"> 〇東京労働局管内に雇用保険適用事業所があること</span></p><p><span style=\"font-size: 14px;\"> 〇</span>都が実施する就職支援事業（若者世代向け）の利用者を正規雇用（６か月未満の非正規雇用を経て正規雇用に転換した者を含む）していること</p><p class=\"ql-indent-1\">※その他の要件は、申請の手引きをご参照ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請期間（令和８年度 第６回 交付申請）</strong></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇交付申請受付期間：令和８年１０月１日(木)８時３０分　～　１０月３１日(土)１７時１５分</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇支 援 期 間 ：令和８年１２月１日(火)　～　令和９年２月２８日(日)</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 14px;\">〇実績報告受付期間：令和９年３月１日(月)８時３０分　～　</span><strong style=\"font-size: 14px; color: rgb(255, 0, 0);\">３月１６日(火)１７時１５分</strong></p><p class=\"ql-indent-1\"><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請・実績報告様式</strong></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(255, 0, 0);\">交付申請や実績報告に関する様式は、「TOKYOはたらくネット」からダウンロードしてください。</strong></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(255, 0, 0);\">TOKYOはたらくネット：</strong><a href=\"https://www.hataraku.metro.tokyo.lg.jp/seiki-koyo/kigyou/wakamonosedai/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.hataraku.metro.tokyo.lg.jp/seiki-koyo/kigyou/wakamonosedai/</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都正規雇用化推進窓口</p><p class=\"ql-indent-1\">若者世代職場定着促進助成金担当</p><p class=\"ql-indent-1\">電話　０３－６２０５－６７３０</p>",
-   "use_purpose": "人材育成を行いたい / 雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "100%",
-   "subsidy_max_limit": 1260000,
-   "acceptance_start_datetime": "2026-09-30T23:30Z",
-   "acceptance_end_datetime": "2026-10-31T08:15Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003aUAjUAM",
-   "institution_name": "東京都若者世代職場定着促進助成金"
   },
   {
    "id": "a0WfQ000003ao2zUAA",
@@ -4371,6 +4235,23 @@
    "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
   },
   {
+   "id": "a0WJ200000CDXkTMAX",
+   "name": "S-00008193",
+   "title": "令和８年度展示会出展助成事業",
+   "subsidy_catch_phrase": "ＢtoＢの展示会への出展費用等を助成します",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"font-size: 14px;\">都内中小企業者</strong><span style=\"font-size: 14px;\">が、販路拡大及び経営基盤の更なる強化を図るために行う</span><strong style=\"font-size: 14px;\">展示会への出展</strong><span style=\"font-size: 14px;\">等に係る経費の一部を助成します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>令和８年度展示会出展助成事業　交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>「令和８年度展示会出展助成事業　募集要項」に定める要件を満たす都内中小企業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>第１回申請受付：令和８年４月１日0：00～４月14日16：00</p><p>以降令和９年１月まで毎月　計10回</p><p>（詳細スケジュールは募集要項をご参照ください）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>(公財)東京都中小企業振興公社　助成課</p><p>TEL：03-3251-7895(受付時間：平日の10:00～12:00・13:00～16:00)</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/support/josei/jigyo/tenjikai/r8/index.html</p>",
+   "use_purpose": "販路拡大・海外展開をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "助成対象と認められる経費の２／３以内",
+   "subsidy_max_limit": 1500000,
+   "acceptance_start_datetime": "2026-09-30T15:00Z",
+   "acceptance_end_datetime": "2026-10-14T07:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX",
+   "institution_name": "令和８年度展示会出展助成事業"
+  },
+  {
    "id": "a0WJ200000CDap3MAD",
    "name": "S-00009335",
    "title": "令和8年度　育児・介護との両立のためのテレワーク活用促進奨励金",
@@ -4694,23 +4575,6 @@
    "institution_name": "令和8年度介護休業取得応援奨励金"
   },
   {
-   "id": "a0WJ200000CDaTDMA1",
-   "name": "S-00009312",
-   "title": "女性の活躍推進に向けた職場環境改善奨励金　支給申請",
-   "subsidy_catch_phrase": "女性が活躍できる職場づくりを全力でサポート",
-   "detail": "<p>■事業の概要</p><p>女性の活躍推進<span style=\"color: rgb(24, 24, 24);\">に向けた職場</span>環境改善プロジェクト（以下「本事業」といいます。）は、女性の職業生活における活躍の推進に関する法律（平成２７年法律第６４号）（以下「女性活躍推進法」といいます。）に基づく一般事業主行動計画（以下、「行動計画」という。）の策定や働く女性が活躍できる職場づくりに取り組む中小企業等を支援することで、女性従業員の処遇の改善や賃金の引上げを後押しすることを目的としています。</p><p>■実施主体</p><p>公益財団法人　東京しごと財団</p><p>■申請期間</p><p>令和8年6月～令和9年3月</p><p>令和8年6月より1カ月100事業者の定員で支給申請期間を設けているため、詳細は事業専用サイトをご確認ください。</p><p>(<a href=\"https://jyokatsu-project.jp/program/\" target=\"_blank\">事業専用サイト事業概要</a>)</p><p>なお、各回申請ごとに申請フォームは異なります。</p><p>■今後のスケジュール</p><p>1回目：令和8年6月15日～6月30日</p><p>2回目：令和8年7月1日～7月31日</p><p>3回目：令和8年8月1日～8月31日</p><p>4回目：令和8年9月1日～9月30日</p><p>5回目：令和8年10月1日～10月31日</p><p>6回目：令和8年11月1日～11月30日</p><p>7回目：令和8年12月1日～12月31日</p><p>8回目：令和9年1月1日～1月31日</p><p>9回目：令和9年2月1日～2月28日</p><p>10回目：令和9年3月1日～3月31日</p><p>（<a href=\"https://jyokatsu-project.jp/program/#schedule2\" target=\"_blank\">事業専用サイトスケジュール</a>）</p><p>■問合せ先</p><p>女性の活躍推進に向けた職場改善プロジェクト事務局：０３－６７４４－６５３９（受付時間：平日午前 9 時から午後 5 時）</p><p>■事業専用サイトURL</p><p><a href=\"https://jyokatsu-project.jp\" target=\"_blank\">https://jyokatsu-project.jp</a></p><p><span style=\"color: rgb(11, 11, 11);\">■撤回届</span></p><p><span style=\"color: rgb(11, 11, 11);\">支給申請後、支給決定前に申請の撤回を行う場合、または支給決定日以後に申請を撤回する場合は、支給決定を通知した日から起算して14日以内に、以下のURLより申請してください。</span></p><p><span style=\"color: rgb(11, 11, 11);\">撤回届　URL：</span><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTEMA1\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTEMA1</a></p>",
-   "use_purpose": "新たな事業を行いたい / 人材育成を行いたい / 雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "※【取組１】A・B・C・D の取組：各 30 万円（加算要件 E の取組：10 万円、F の取組：1 人あたり 10 万円（最大 5 人まで））",
-   "subsidy_max_limit": 1800000,
-   "acceptance_start_datetime": "2026-06-15T00:00Z",
-   "acceptance_end_datetime": "2026-06-30T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTDMA1",
-   "institution_name": "令和８年度　女性の活躍推進に向けた職場環境改善奨励金"
-  },
-  {
    "id": "a0WJ200000CDaTEMA1",
    "name": "S-00009313",
    "title": "女性の活躍推進に向けた職場環境改善奨励金　撤回届",
@@ -4726,23 +4590,6 @@
    "acceptance_end_datetime": "2026-08-14T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTEMA1",
    "institution_name": "令和８年度　女性の活躍推進に向けた職場環境改善奨励金"
-  },
-  {
-   "id": "a0WJ200000CDaTFMA1",
-   "name": "S-00009314",
-   "title": "女性活躍情報公開促進奨励金　支給申請",
-   "subsidy_catch_phrase": "女性が活躍できる職場づくりを全力でサポート",
-   "detail": "<p>■事業の概要</p><p>女性の活躍推進に向けた職場環境改善プロジェクト（以下「本事業」といいます。）は、女性の職業生活における活躍の推進に関する法律（平成 27 年法律第 64 号）（以下「女性活躍推進法」という。）に基づく一般事業主行動計画（以下、「行動計画」という。）の策定や男女間賃金差異等の情報公開に取り組む中小企業等を支援することで、女性従業員の処遇や賃金の引上げを後押しすることを目的としています。</p><p>■実施主体</p><p>公益財団法人　東京しごと財団</p><p>■申請期間</p><p>令和8年6月～令和9年3月</p><p>令和8年6月より1カ月100事業者の定員で支給申請期間を設けているため、詳細は事業専用サイトをご確認ください。</p><p>(<a href=\"https://jyokatsu-project.jp/program/\" rel=\"noopener noreferrer\" target=\"_blank\">事業専用サイト事業概要</a>)</p><p>なお、各回申請ごとに申請フォームは異なります。</p><p>■今後のスケジュール</p><p>1回目：令和8年6月15日～6月30日</p><p>2回目：令和8年7月1日～7月31日</p><p>3回目：令和8年8月1日～8月31日</p><p>4回目：令和8年9月1日～9月30日</p><p>5回目：令和8年10月1日～10月31日</p><p>6回目：令和8年11月1日～11月30日</p><p>7回目：令和8年12月1日～12月31日</p><p>8回目：令和9年1月1日～1月31日</p><p>9回目：令和9年2月1日～2月28日</p><p>10回目：令和9年3月1日～3月31日</p><p>（<a href=\"https://jyokatsu-project.jp/program/#schedule1\" rel=\"noopener noreferrer\" target=\"_blank\">事業専用サイトスケジュール</a>）</p><p>■問合せ先</p><p>女性の活躍推進に向けた職場改善プロジェクト事務局：０３－６７４４－６５３９（受付時間：平日午前 9 時から午後 5 時）</p><p>■事業専用サイトURL</p><p><a href=\"https://jyokatsu-project.jp\" rel=\"noopener noreferrer\" target=\"_blank\">https://jyokatsu-project.jp</a></p><p><span style=\"color: rgb(11, 11, 11);\">■撤回届</span></p><p><span style=\"color: rgb(11, 11, 11);\">支給申請後、支給決定前に申請の撤回を行う場合、または支給決定日以後に申請を撤回する場合は、支給決定を通知した日から起算して14日以内に、以下のURLより申請してください。</span></p><p><span style=\"color: rgb(11, 11, 11);\">撤回届　URL：</span><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTGMA1\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTGMA1</a></p>",
-   "use_purpose": "新たな事業を行いたい / 人材育成を行いたい / 雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "100名以下",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 200000,
-   "acceptance_start_datetime": "2026-06-15T00:00Z",
-   "acceptance_end_datetime": "2026-06-30T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTFMA1",
-   "institution_name": "令和８年度　女性活躍情報公開促進奨励金"
   },
   {
    "id": "a0WJ200000CDaTGMA1",
