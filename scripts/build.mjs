@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
-import { fileURLToPath } from 'node:url';
+import { fileURLToPath, pathToFileURL } from 'node:url';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const cfg = JSON.parse(fs.readFileSync(path.join(root, 'site.config.json'), 'utf8'));
@@ -179,8 +179,17 @@ write('ranking.html', page({ title: '補助上限額が大きい補助金ラン�
 
 // ガイド記事
 fs.mkdirSync(path.join(out, 'guide'), { recursive: true });
-const guides = fs.readdirSync(path.join(root, 'content')).filter((f) => /^guides.*\.json$/.test(f)).sort()
-  .flatMap((f) => JSON.parse(fs.readFileSync(path.join(root, 'content', f), 'utf8')));
+// content/guides*.json（JSON）と content/guides*.mjs（テンプレート文字列で書ける形式）を読む
+const guides = [];
+for (const f of fs.readdirSync(path.join(root, 'content')).filter((f) => /^guides.*\.(json|mjs)$/.test(f)).sort()) {
+  const file = path.join(root, 'content', f);
+  guides.push(...(f.endsWith('.json') ? JSON.parse(fs.readFileSync(file, 'utf8')) : (await import(pathToFileURL(file).href)).default));
+}
+// content/extra-guides*.mjs：{ slug: 追記するHTML } を記事の末尾に足す
+for (const f of fs.readdirSync(path.join(root, 'content')).filter((f) => /^extra-guides.*\.mjs$/.test(f)).sort()) {
+  const extra = (await import(pathToFileURL(path.join(root, 'content', f)).href)).default;
+  for (const g of guides) if (extra[g.slug]) g.html += extra[g.slug];
+}
 for (const g of guides) {
   write(`guide/${g.slug}.html`, page({ title: g.title, desc: g.desc, path: `/guide/${g.slug}.html`, body: `<h1>${esc(g.title)}</h1>${g.html.replaceAll('{{BASE}}', BASE)}` }));
 }
