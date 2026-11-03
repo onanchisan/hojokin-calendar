@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-31T21:04:23.802Z",
+ "fetchedAt": "2026-11-03T02:33:51.978Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -323,6 +323,23 @@
    "acceptance_end_datetime": "2026-12-28T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDVkeMAH",
    "institution_name": "ものづくり補助金"
+  },
+  {
+   "id": "a0WfQ000003tCA5UAM",
+   "name": "S-00009997",
+   "title": "⼩規模事業者持続化補助⾦＜⼀般型 災害支援枠（令和8年熊本地震）＞2次公募【商⼯会地区】",
+   "subsidy_catch_phrase": "⼩規模事業者持続化補助⾦＜⼀般型 災害⽀援枠（令和8年熊本地震）＞2次公募【商⼯会地区】",
+   "detail": "<p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 18px;\">会議所地区の事業者は</strong><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 18px; color: rgb(47, 101, 247);\"><strong>こちら</strong></a><strong style=\"font-size: 18px; color: rgb(21, 21, 21);\">から申請してください。</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(255, 3, 11); font-size: 18px;\">【申請方法について】</strong></p><p style=\"text-align: center;\"><span style=\"font-size: 16px;\">申請方法につきましては、下記リンクをクリックしご確認ください。</span></p><p style=\"text-align: center;\"><a href=\"https://www.jizokukanb.com/jizokuka_r6h/saigai/kumamoto/shinsei.html#yosiki​\" rel=\"noopener noreferrer\" target=\"_blank\">Jグランツ操作マニュアル</a></p><p style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 15); font-size: 16px;\">下部にある参照リンクも必ずご確認ください。</span></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px;\">---------------------------------------------------------------------------------------</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">【電子申請システム「jGrants」の利用環境】</strong></p><p><span style=\"font-size: 14px;\">jGrantsの動作環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 14px;\">・Windows：chrome、firefox、edge(※)</span></p><p><span style=\"font-size: 14px;\">・macOS\t：chrome、firefox、safari</span></p><p><span style=\"font-size: 14px;\">・Android：chrome</span></p><p><span style=\"font-size: 14px;\">※以下のブラウザは使用できません（エラー等が生じます）。</span></p><p><span style=\"font-size: 14px;\">×InternetExplorer</span></p><p><span style=\"font-size: 14px;\">× edgeの「InternetExplorerモード」</span></p><p><span style=\"font-size: 14px;\">×上記使用可以外のブラウザ</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■目的・概要</strong></p><p><span style=\"font-size: 14px;\">　令和８年熊本地震による災害（令和8年熊本地震による災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令（令和８年政令第260号）により指定された特定非常災害）（以下「令和8年熊本地震」という。）により甚大な被害を受けた地域においては、多くの小規模事業者が、生産設備や販売拠点の流出・損壊や、顧客や販路の喪失という状況に直面しています。 </span></p><p><span style=\"font-size: 14px;\"> こうした小規模事業者の事業再建を支援するため、上記「被災地域」（※）を対象とする本補助事業を実施し、商工会・商工会議所の助言も受けながら災害からの事業再建に向けた計画を事業者自ら作成し、作成した計画に基づいて行う事業再建の取組に要する経費の一部を補助するものです。 </span></p><p><br></p><p><span style=\"font-size: 14px;\">※補助対象者は、熊本県内に事業所等を有し、令和８年熊本地震による被害について公的証明等により確認できる小規模事業者等に限ります。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 16px;\">■対象者</strong></p><p>熊本県に所在する、令和８年熊本地震により被害を受けた小規模事業者等。</p><p><br></p><p>本補助金の補助対象者は、（１）から<span style=\"font-size: 12.8px;\">（５）</span>に掲げる要件をいずれも満たす日本国内に所在する小規模事業者（日本国内に居住する個人、又は日本国内に本店を有する法人）等であることとします。</p><p><br></p><p>（１）上記「被災地域」に所在する、令和８年熊本地震の被害を受けた</p><p>事業者であること</p><p>",
+   "use_purpose": "災害（自然災害、感染症等）支援がほしい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "熊本県",
+   "target_number_of_employees": "20名以下",
+   "subsidy_rate": "2/3、定額（一定の要件を満たす事業者のみ対象）",
+   "subsidy_max_limit": 2000000,
+   "acceptance_start_datetime": "2026-11-02T08:00Z",
+   "acceptance_end_datetime": "2026-12-15T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM",
+   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞"
   },
   {
    "id": "a0WJ200000CDYffMAH",
@@ -2076,6 +2093,23 @@
    "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
   },
   {
+   "id": "a0WJ200000CDZi6MAH",
+   "name": "S-00009232",
+   "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
+   "subsidy_catch_phrase": "海外の高度外国人材を対象にしたインターンを実施！​",
+   "detail": "<p>■目的・概要</p><p>外国人材の採用に意欲のある中小企業等と、日本で働きたい海外在住の高度外国人材を対象に、採用・就職前にインターンシップの場を提供する高度人材インターンシップを実施します。</p><p>企業によるインターンシップ生への宿泊場所の提供及び滞在費支給に対して補助を行うことで、本事業を円滑・効果的に実施することを目的としています。</p><p><br></p><p>■根拠規程</p><p>高度人材インターンシップ受入支援費補助金交付要綱</p><p><br></p><p>■対象事業者</p><p>高度人材インターンシップ事業に参加し、高度外国人材を３か月程度インターンシップ生として受け入れることが決定していること（※その他要件あり）。</p><p><br></p><p>■対象事業</p><p>東京都が主催する高度人材インターンシップ事業</p><p><br></p><p><span style=\"color: rgb(68, 68, 68);\">■補助額上限</span></p><p>宿泊費、滞在費とも１日あたり5,000円</p><p><br></p><p>■申請期間</p><p>〇交付申請受付期間：令和８年８月１７日（月）から令和８年９月９日（水）まで</p><p>〇補助対象期間：インターンシップ生が補助事業者においてインターンシップを実施した期間（当該インターンシップ生が日本に到着したその日から、帰国する日までの期間）</p><p><span style=\"font-size: 13px;\">　但し、宿泊場所の提供について、東京都がインターンシップ生に対し宿泊場所を提供した期間は、補助対象外とする。</span></p><p>〇実績報告受付期限：令和９年１月８日（金）まで</p><p><br></p><p>■問合せ先</p><p><br></p><p>東京都産業労働局雇用就業部</p><p>就業推進課人材確保推進担当</p><p>03-5320-4628</p><p><br></p><p>■参照URL</p><p><a href=\"https://tcgi.metro.tokyo.lg.jp/company/subsidy25\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">https://tcgi.metro.tokyo.lg.jp/company/subsidy25</a></p>",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 雇用・職場環境を改善したい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "subsidy_rate": "宿泊費、滞在費とも10/10",
+   "subsidy_max_limit": 5000,
+   "acceptance_start_datetime": "2026-08-16T15:00Z",
+   "acceptance_end_datetime": "2026-11-09T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH",
+   "institution_name": "高度人材インターンシップ受入支援費補助金"
+  },
+  {
    "id": "a0WJ200000CDZz6MAH",
    "name": "S-00009252",
    "title": "【愛知県大府市】2026年度大府市カーボンニュートラル推進生産設備導入支援補助金（ユーティリティ設備）",
@@ -2501,6 +2535,23 @@
    "institution_name": "東京都臨床調査個人票電子化等推進事業補助金"
   },
   {
+   "id": "a0WfQ000003iibVUAQ",
+   "name": "S-00009935",
+   "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】",
+   "subsidy_catch_phrase": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】",
+   "detail": "<p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0);\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 16px; color: rgb(0, 0, 0);\">商工会地区の事業者は</strong><a href=\" https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003tCA5UAM\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px; color: rgb(0, 111, 173);\"><strong>こちら</strong></a><strong style=\"font-size: 16px; color: rgb(0, 0, 0);\">から申請してください。</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 0, 0);\">---------------------------------------------------------------------------------------</strong></p><p style=\"text-align: center;\"><strong style=\"font-size: 14px; color: rgb(255, 0, 0);\">【申請方法について】</strong></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 111, 173);\">申請方法につきましては、下記リンクをクリックしご確認ください。</strong></p><p style=\"text-align: center;\"><a href=\"https://r6.jizokukahojokin.info/kumamoto/doc/r6_smanual_kumamoto2.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 111, 173); font-size: 18px;\"><strong>Jグランツ入力手引き</strong></a></p><p style=\"text-align: center;\"><strong style=\"color: rgb(0, 111, 173);\">下部にある参照リンクも必ずご確認ください。</strong></p><p style=\"text-align: center;\"><strong>---------------------------------------------------------------------------------------</strong></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">【電子申請システム「jGrants」の利用環境】</strong></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">電子申請システムの動作確認済み環境は以下のとおりです。下記のブラウザの最新バージョンをご利用ください。</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">下記以外のブラウザ（Internet Explorer等）は、申請上のエラー等が生じますので利用しないでください。</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 Windows　　：Google Chrome, Microsoft Edge</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 macOS　　　：Google Chrome, Safari</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 iOS　　　　　：Safari</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">〇 Android　　　：Google Chrome</span></p><p><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">※Microsoft Edgeの「Internet Explorerモード」は申請上のエラー等が生じますので利用しないでください。</span></p><p><br></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">令和８年熊本地震による災害（令和８年熊本地震による災害についての特定非常災害</span></p><p><span style=\"font-size: 16px;\">及びこれに対し適用すべき措置の指定に関する政令（令和８年政令第260号）により</span></p><p><span style=\"font-size: 16px;\">指定された特定非常災害）（以下「令和８年熊本地震」という。）により</span></p><p><span style=\"font-size: 16px;\">甚大な被害を受けた地域においては、多くの小規模事業者が、</span></p><p><span style=\"font-size: 16px;\">生産設備や販売拠点の流出・損壊や、顧客や販路の喪失という状況に直面しています。</span></p><p><span style=\"font-size: 16px;\">こうした小規模事業者の事業再建を支援するため、上記「被災地域」（※）を</span></p><p><span style=\"font-size: 16px;\">対象とする本補助事業を実施し、商工会・商工会議所の助言も受けながら</span></p><p><span style=\"font-size: 16px;\">災害からの事業再建に向けた計画を事業者自ら作成し、作成した計画に基づいて行う</s",
+   "use_purpose": "災害（自然災害、感染症等）支援がほしい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "熊本県",
+   "target_number_of_employees": "20名以下",
+   "subsidy_rate": "２／３、定額（一定の要件を満たす事業者のみ対象）",
+   "subsidy_max_limit": 2000000,
+   "acceptance_start_datetime": "2026-11-02T08:00Z",
+   "acceptance_end_datetime": "2026-12-15T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003iibVUAQ",
+   "institution_name": "小規模事業者持続化補助金＜一般型 災害支援枠＞"
+  },
+  {
    "id": "a0WJ200000CDVn4MAH",
    "name": "S-00007440",
    "title": "【畜産事業者向け】都城市農業資材等価格高騰緊急支援事業費補助金（令和８年度）",
@@ -2567,6 +2618,23 @@
    "acceptance_end_datetime": "2026-10-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDYbNMAX",
    "institution_name": "エイジフレンドリー補助金"
+  },
+  {
+   "id": "a0WfQ000003ykxVUAQ",
+   "name": "S-00010010",
+   "title": "福島県中小企業特別高圧電気料金支援補助金（第８次）",
+   "subsidy_catch_phrase": "特別高圧電気料金補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px;\">　電気料金高騰の影響を受け、厳しい経営状況に置かれている中小企業を支援することを目的として、特別高圧電力契約を締結又は商業施設等で特別高圧電力を使用している県内に事業所を有する中小企業に対し、一定期間の電気使用量に応じた負担軽減のための支援を行います。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><span style=\"font-size: 12.8px;\">　補助金等に係る予算の執行の適正化に関する法律（昭和30年法律第179号）</span></p><p><span style=\"font-size: 12.8px;\">　補助金等に係る予算の執行の適正化に関する法律施行令（昭和30年政令第255号）</span></p><p><span style=\"font-size: 12.8px;\">　福島県補助金の交付等に関する規則（昭和45年福島県規則第107号）</span></p><p><span style=\"font-size: 12.8px;\">　福島県中小企業特別高圧電気料金支援補助金交付要綱</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12.8px;\">　本事業の補助対象者は、福島県内に事業所を有し、以下の(1)及び(2)に掲げる要件を満たす者とします。</span></p><p><span style=\"font-size: 12.8px;\">(1) 電力会社との間で特別高圧電力契約を締結又は商業施設等で特別高圧電力を使用する中小企業（みなし大企業を除く中小企業者及び小規模企業者）であること。</span></p><p><span style=\"font-size: 12.8px;\">(2) 次の(a)から(k)に掲げる「中小企業特別高圧電気料金支援補助金の交付を受ける者として不適当な者」のいずれにも該当しない者であること。</span></p><p><span style=\"font-size: 12.8px;\">　(a)国又は地方公共団体が運営する者。</span></p><p><span style=\"font-size: 12.8px;\">　(b)法人税法（昭和４０年法律第３４号）別表第一に規定する公共法人。</span></p><p><span style=\"font-size: 12.8px;\">　(c)風俗営業等の規制及び業務の適正化等に関する法律第２条により定める事業を営む者。</span></p><p><span style=\"font-size: 12.8px;\">　(d)政治団体、宗教上の組織又は団体。</span></p><p><span style=\"font-size: 12.8px;\">　(e)国又は県による電気使用料の負担軽減に関する他の補助金等を受給している者。</span></p><p><span style=\"font-size: 12.8px;\">　(f)\t発行済株式総額の２５パーセント以上を福島県が保有する者。</span></p><p><span style=\"font-size: 12.8px;\">　(g)県税の未納がある者。</span></p><p><span style=\"font-size: 12.8px;\">　(h)法人等（個人または法人をいう。以下同じ。）が、暴力団（暴力団員による不当な行為の防止等に関する法律（平成３年法律第７７号）第２条第２号に規定する暴力団をいう。以下同じ。）</span></p><p><span style=\"font-size: 12.8px;\">　であるとき、または法人等の役員等（個人である場合はその者、法人である場合は役員、その他経営に実質的に関与している者をいう。以下同じ。）が、暴力団員（同法第２条第６号に規定</span></p><p><span style=\"font-size: 12.8px;\">　する暴力団員をいう。以下同じ。）である者。</span></p><p><span style=\"font-size: 12.8px;\">(i)\t役員等が、自己、自社もしくは第三者の不正の利益を図る目的または第三者に損害を加える目的をもって、暴力団または暴力団員を利用するなどしている者。</span></p><p><span style=\"font-size: 12.8px;\">　(j)\t役員等が、暴力団または暴力団員に対して、資金等を供給し、または便宜を供与するなど直接的あるいは積極的に暴力団の維持、運営に協力し、もしくは関与している者。</span></p><p><span style=\"font-size: 12.8px;\">　(k)役員等が、暴力団または暴力団員であることを知りながら、これと社会的に非難されるべき関係を有している者。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12.8px;\">　福島県商工労働部経営金融課（特別高圧電気料金支援補助金担当）</span></p><p><span style=\"font-size: 12.8px;\"> 〒９６０－８６７０</span></p><p><span style=\"font-size: 12.8px;\"> 福島県福島市杉妻町２－１６　</span></p><p><span style=\"font-size: 12.8px;\"> （電話番号）０２４－５２１－７２８８</span></p><p><span style=\"font-size: 12.8px;\"> （受付時間）９：００～１６：００　※土日祝日を除く</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>　https://www.pref.fukushima.lg.jp/sec/32011b/ehvp-subsidy.html</p>",
+   "use_purpose": "資金繰りを改善したい / 雇用・職場環境を改善したい",
+   "industry": "建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 運輸業、郵便業 / 卸売業、小売業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業",
+   "target_area_search": "福島県",
+   "target_number_of_employees": "300名以下",
+   "subsidy_rate": "（公募要領等を参照。）",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-01T15:00Z",
+   "acceptance_end_datetime": "2026-11-30T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ykxVUAQ",
+   "institution_name": "福島県中小企業特別高圧電気料金支援補助金"
   },
   {
    "id": "a0WfQ000003qYNFUA2",
@@ -3198,23 +3266,6 @@
    "institution_name": "業務改善助成金"
   },
   {
-   "id": "a0WJ200000CDe6XMAT",
-   "name": "S-00009724",
-   "title": "【長崎】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">長崎</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "長崎県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-11-01T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6XMAT",
-   "institution_name": "業務改善助成金"
-  },
-  {
    "id": "a0WJ200000CDe6YMAT",
    "name": "S-00009725",
    "title": "【熊本】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
@@ -3315,6 +3366,40 @@
    "acceptance_end_datetime": "2026-12-15T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ao2zUAA",
    "institution_name": "事業承継支援助成金"
+  },
+  {
+   "id": "a0WfQ000003ohEXUAY",
+   "name": "S-00009971",
+   "title": "【第３回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業",
+   "subsidy_catch_phrase": "中東情勢による原材料価格高騰の影響を受ける中小企業の原材料費の縮減や価格転嫁等に向けた取組を支援します",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>中東情勢による原材料価格高騰の影響を回避する取組を行う都内中小企業等を対象に、必要経費の一部を助成します。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象者</strong></p><p>中東情勢等の影響に伴う原材料費の高騰により、以下のいずれかに該当する都内中小企業等</p><p>・直近決算期の営業利益率が前期と比較して減少している企業等</p><p>・次期決算期の営業利益率が直近決算期と比較して減少することを見込んでいる企業等</p><p>・直近決算期において営業損失を計上している企業等</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p>原材料・副資材費、機械装置・工具器具費、機器・システム改良費、委託・外注費、設備等導入費、システム等導入費、専門家指導費、販路開拓経費、その他経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象期間</strong></p><p>交付決定日から最大１年間</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p>令和８年１１月２日（月）９時 ～１１月３０日（月）１６時まで</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付決定日</strong></p><p>令和９年２月２６日予定</p><p>※助成金交付申請額が100万円以下の申請は、令和９年１月２９日予定</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12.8px;\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社</p><p>中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業　事務局</p><p>TEL：03-4376-5728</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/chuto-kinkyu/index.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/chuto-kinkyu/index.html</a></p>",
+   "use_purpose": "販路拡大・海外展開をしたい / 設備整備・IT導入をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "助成対象経費の4/5以内",
+   "subsidy_max_limit": 20000000,
+   "acceptance_start_datetime": "2026-11-02T00:00Z",
+   "acceptance_end_datetime": "2026-11-30T07:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ohEXUAY",
+   "institution_name": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業"
+  },
+  {
+   "id": "a0WfQ000003pt0jUAA",
+   "name": "S-00009981",
+   "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（業務改善コース）【令和8年度第3回】",
+   "subsidy_catch_phrase": "物価高騰などに創意工夫で強みを伸ばし、立ち向かう企業を応援",
+   "detail": "<p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">長期化する物価高騰や社会情勢の変化、近年続く賃上げなど、中小企業にとって課題が山積しています。このため、中小企業の創意工夫を活かして、既存事業を深化・発展させる計画を作成した場合に各種支援を展開することで、都内中小事業者の経営基盤を強化することを目的としています</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">。</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象者</strong></p><p><span style=\"font-size: 16px;\">申請要件を満たす東京都内で事業を行う中小企業者（個人事業主を含む）</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p><span style=\"font-size: 16px;\">既存事業を深化・発展させる計画を作成した場合に、審査で認められた経費</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象期間</strong></p><p><span style=\"font-size: 16px;\">交付決定日から最大1年間</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\"> </span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p><span style=\"font-size: 16px;\">令和8年11月2日(月)9時　～　令和8年11月13日(金)16時</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■交付決定日</strong></p><p><span style=\"font-size: 16px;\">令和9年2月下旬予定</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px; color: rgb(68, 68, 68);\">東京都中小企業振興公社 </span></p><p><span style=\"font-size: 16px;\">経営力強化に向けた創意工夫チャレンジ促進事業事務局</span></p><p><span style=\"font-size: 16px;\">TEL：03-4405-0707</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL</strong><span style=\"font-size: 16px; color: rgb(14, 15, 15);\">（申請書を以下よりダウンロードできます）</span></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/ippan/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/ippan/index.html</a></p>",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 設備整備・IT導入をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "茨城県/栃木県/群馬県/埼玉県/千葉県/東京都/神奈川県/山梨県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "助成対象と認められる経費の2/3以内。",
+   "subsidy_max_limit": 6000000,
+   "acceptance_start_datetime": "2026-11-02T00:00Z",
+   "acceptance_end_datetime": "2026-11-13T07:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003pt0jUAA",
+   "institution_name": "経営力強化に向けた創意工夫チャレンジ促進事業(業務改善コース)"
   },
   {
    "id": "a0WfQ000003rLvpUAE",
@@ -4575,6 +4660,23 @@
    "institution_name": "令和8年度介護休業取得応援奨励金"
   },
   {
+   "id": "a0WJ200000CDaTDMA1",
+   "name": "S-00009312",
+   "title": "女性の活躍推進に向けた職場環境改善奨励金　支給申請",
+   "subsidy_catch_phrase": "女性が活躍できる職場づくりを全力でサポート",
+   "detail": "<p>■事業の概要</p><p>女性の活躍推進<span style=\"color: rgb(24, 24, 24);\">に向けた職場</span>環境改善プロジェクト（以下「本事業」といいます。）は、女性の職業生活における活躍の推進に関する法律（平成２７年法律第６４号）（以下「女性活躍推進法」といいます。）に基づく一般事業主行動計画（以下、「行動計画」という。）の策定や働く女性が活躍できる職場づくりに取り組む中小企業等を支援することで、女性従業員の処遇の改善や賃金の引上げを後押しすることを目的としています。</p><p>■実施主体</p><p>公益財団法人　東京しごと財団</p><p>■申請期間</p><p>令和8年6月～令和9年3月</p><p>令和8年6月より1カ月100事業者の定員で支給申請期間を設けているため、詳細は事業専用サイトをご確認ください。</p><p>(<a href=\"https://jyokatsu-project.jp/program/\" target=\"_blank\">事業専用サイト事業概要</a>)</p><p>なお、各回申請ごとに申請フォームは異なります。</p><p>■今後のスケジュール</p><p>1回目：令和8年6月15日～6月30日</p><p>2回目：令和8年7月1日～7月31日</p><p>3回目：令和8年8月1日～8月31日</p><p>4回目：令和8年9月1日～9月30日</p><p>5回目：令和8年10月1日～10月31日</p><p>6回目：令和8年11月1日～11月30日</p><p>7回目：令和8年12月1日～12月31日</p><p>8回目：令和9年1月1日～1月31日</p><p>9回目：令和9年2月1日～2月28日</p><p>10回目：令和9年3月1日～3月31日</p><p>（<a href=\"https://jyokatsu-project.jp/program/#schedule2\" target=\"_blank\">事業専用サイトスケジュール</a>）</p><p>■問合せ先</p><p>女性の活躍推進に向けた職場改善プロジェクト事務局：０３－６７４４－６５３９（受付時間：平日午前 9 時から午後 5 時）</p><p>■事業専用サイトURL</p><p><a href=\"https://jyokatsu-project.jp\" target=\"_blank\">https://jyokatsu-project.jp</a></p><p><span style=\"color: rgb(11, 11, 11);\">■撤回届</span></p><p><span style=\"color: rgb(11, 11, 11);\">支給申請後、支給決定前に申請の撤回を行う場合、または支給決定日以後に申請を撤回する場合は、支給決定を通知した日から起算して14日以内に、以下のURLより申請してください。</span></p><p><span style=\"color: rgb(11, 11, 11);\">撤回届　URL：</span><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTEMA1\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTEMA1</a></p>",
+   "use_purpose": "新たな事業を行いたい / 人材育成を行いたい / 雇用・職場環境を改善したい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "subsidy_rate": "※【取組１】A・B・C・D の取組：各 30 万円（加算要件 E の取組：10 万円、F の取組：1 人あたり 10 万円（最大 5 人まで））",
+   "subsidy_max_limit": 1800000,
+   "acceptance_start_datetime": "2026-06-15T00:00Z",
+   "acceptance_end_datetime": "2026-06-30T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTDMA1",
+   "institution_name": "令和８年度　女性の活躍推進に向けた職場環境改善奨励金"
+  },
+  {
    "id": "a0WJ200000CDaTEMA1",
    "name": "S-00009313",
    "title": "女性の活躍推進に向けた職場環境改善奨励金　撤回届",
@@ -4590,6 +4692,23 @@
    "acceptance_end_datetime": "2026-08-14T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTEMA1",
    "institution_name": "令和８年度　女性の活躍推進に向けた職場環境改善奨励金"
+  },
+  {
+   "id": "a0WJ200000CDaTFMA1",
+   "name": "S-00009314",
+   "title": "女性活躍情報公開促進奨励金　支給申請",
+   "subsidy_catch_phrase": "女性が活躍できる職場づくりを全力でサポート",
+   "detail": "<p>■事業の概要</p><p>女性の活躍推進に向けた職場環境改善プロジェクト（以下「本事業」といいます。）は、女性の職業生活における活躍の推進に関する法律（平成 27 年法律第 64 号）（以下「女性活躍推進法」という。）に基づく一般事業主行動計画（以下、「行動計画」という。）の策定や男女間賃金差異等の情報公開に取り組む中小企業等を支援することで、女性従業員の処遇や賃金の引上げを後押しすることを目的としています。</p><p>■実施主体</p><p>公益財団法人　東京しごと財団</p><p>■申請期間</p><p>令和8年6月～令和9年3月</p><p>令和8年6月より1カ月100事業者の定員で支給申請期間を設けているため、詳細は事業専用サイトをご確認ください。</p><p>(<a href=\"https://jyokatsu-project.jp/program/\" rel=\"noopener noreferrer\" target=\"_blank\">事業専用サイト事業概要</a>)</p><p>なお、各回申請ごとに申請フォームは異なります。</p><p>■今後のスケジュール</p><p>1回目：令和8年6月15日～6月30日</p><p>2回目：令和8年7月1日～7月31日</p><p>3回目：令和8年8月1日～8月31日</p><p>4回目：令和8年9月1日～9月30日</p><p>5回目：令和8年10月1日～10月31日</p><p>6回目：令和8年11月1日～11月30日</p><p>7回目：令和8年12月1日～12月31日</p><p>8回目：令和9年1月1日～1月31日</p><p>9回目：令和9年2月1日～2月28日</p><p>10回目：令和9年3月1日～3月31日</p><p>（<a href=\"https://jyokatsu-project.jp/program/#schedule1\" rel=\"noopener noreferrer\" target=\"_blank\">事業専用サイトスケジュール</a>）</p><p>■問合せ先</p><p>女性の活躍推進に向けた職場改善プロジェクト事務局：０３－６７４４－６５３９（受付時間：平日午前 9 時から午後 5 時）</p><p>■事業専用サイトURL</p><p><a href=\"https://jyokatsu-project.jp\" rel=\"noopener noreferrer\" target=\"_blank\">https://jyokatsu-project.jp</a></p><p><span style=\"color: rgb(11, 11, 11);\">■撤回届</span></p><p><span style=\"color: rgb(11, 11, 11);\">支給申請後、支給決定前に申請の撤回を行う場合、または支給決定日以後に申請を撤回する場合は、支給決定を通知した日から起算して14日以内に、以下のURLより申請してください。</span></p><p><span style=\"color: rgb(11, 11, 11);\">撤回届　URL：</span><a href=\"https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTGMA1\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(4, 105, 193);\">https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTGMA1</a></p>",
+   "use_purpose": "新たな事業を行いたい / 人材育成を行いたい / 雇用・職場環境を改善したい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "100名以下",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 200000,
+   "acceptance_start_datetime": "2026-06-15T00:00Z",
+   "acceptance_end_datetime": "2026-06-30T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaTFMA1",
+   "institution_name": "令和８年度　女性活躍情報公開促進奨励金"
   },
   {
    "id": "a0WJ200000CDaTGMA1",
