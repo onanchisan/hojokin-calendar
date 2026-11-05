@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-04T00:48:40.069Z",
+ "fetchedAt": "2026-11-05T01:00:07.465Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -291,6 +291,23 @@
    "institution_name": "フィンテック企業に対する海外進出支援事業"
   },
   {
+   "id": "a0WJ200000CDMSsMAP",
+   "name": "S-00006444",
+   "title": "デジタル証券（セキュリティトークン）市場拡大促進事業補助金",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p>本事業は、企業等が資金調達等を目的として有価証券や不動産等を裏付けに分散型台帳技術（典型的にはブロックチェーン）を活用して発行する有価証券等（以下、「セキュリティトークン」という。）について、発行体及び投資家に対して高い付加価値を創出する先進的な取組の実装を支援することで、セキュリティトークンの健全な市場形成とユースケース創出を実現し、国際金融市場としての東京の魅力を高めていくことを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>本補助金の交付対象となる事業は、金融商品取引法や不動産特定共同事業法等の規定を順守した上で、発行体及び投資家に対して高い付加価値を創出するためにセキュリティトークンの発行を行う取組であって、原則として、令和９年３月31日までに払込金額等の払込みが完了するものをいう。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号）</p><p>・<span style=\"font-size: 12.8px;\">デジタル証券（セキュリティトークン）市場拡大促進事業補助金交付要綱（令和８年４月１日付７産労総国第1555号）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（一部抜粋）</strong></p><p>（１）セキュリティトークンを発行する事業者であって、発行にあたり金融商品取引業や不動産特定共同事業法等の免許・許可・登録等が必要な場合においては、当該免許・許可を受け又は登録等を行っている者。</p><p>（２）東京都内に登記簿上の本店又は支店があること。</p><p>（３）補助対象事業について、同一年度内に国や他自治体（東京都の他部署を含む）からの委託や助成を受けていないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）プラットフォーム利用料</p><p>（２）専門家等への相談経費</p><p>（３）システム開発経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請受付期間</strong></p><p>本事業では以下の期間募集を行う。</p><p>令和８年４月10日（金）～令和９年１月29日（金）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局 総務部 国際金融都市推進課 国際金融都市推進担当</p><p>電話：03-5320-6274</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/fintech/security-token</span></p>",
+   "use_purpose": "新たな事業を行いたい",
+   "industry": "分類不能の産業 / 金融業、保険業",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "1/2",
+   "subsidy_max_limit": 7500000,
+   "acceptance_start_datetime": "2026-04-09T15:00Z",
+   "acceptance_end_datetime": "2027-01-29T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMSsMAP",
+   "institution_name": "デジタル証券（セキュリティトークン）市場拡大促進事業"
+  },
+  {
    "id": "a0WJ200000CDWZ9MAP",
    "name": "S-00007666",
    "title": "令和７年度補正予算　商用車等の電動化促進事業",
@@ -476,6 +493,23 @@
    "acceptance_end_datetime": "2027-03-31T14:45Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXqMMAX",
    "institution_name": "深谷市起業家支援事業補助金"
+  },
+  {
+   "id": "a0WfQ0000046qPpUAI",
+   "name": "S-00010035",
+   "title": "【島根県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第７回公募）",
+   "subsidy_catch_phrase": "【島根県】外国出願補助金",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>中小企業の戦略的な外国出願を促進するため、外国への事業展開等を計画している中小企業等に対して、外国出願にかかる費用の半額を助成する。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助率　</strong></p><p>１／２以内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■上限額　</strong></p><p>１企業あたり：３００万円</p><p>１案件あたり：</p><p>特許　１５０万円</p><p>実用新案・意匠・商標　それぞれ６０万円</p><p>抜け駆け対策商標　３０万円</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p>①外国特許庁への出願手数料</p><p>②①に要する国内代理人・現地代理人費用</p><p>③①に要する翻訳費用</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 13px;\">交付申請時に以下の要件を満たすこと。</span></p><p><span style=\"font-size: 13px;\">・中小企業者又は中小企業者で構成されるグループ（構成員のうち中小企業者が２/３以上占めるもの）。ただし、みなし大企業（※）を除く。</span></p><p><span style=\"font-size: 13px;\">（※）みなし大企業とは、以下（ア）～（オ）に該当する企業をいう。</span></p><p><span style=\"font-size: 13px;\">（ア）発行済株式の総数又は出資価格の総額の２分の１以上を同一の大企業が所有している中小企業者等</span></p><p><span style=\"font-size: 13px;\">（イ）発行済株式の総数又は出資価格の総額の３分の２以上を複数の大企業が所有している中小企業者等</span></p><p><span style=\"font-size: 13px;\">（ウ）大企業の役員又は職員を兼ねている者が、役員総数の２分の１以上を占めている中小企業者等</span></p><p><span style=\"font-size: 13px;\">（エ）資本金又は出資の総額が５億円以上の法人に直接又は間接に１００％の株式を保有される中小企業者等</span></p><p><span style=\"font-size: 13px;\">（オ）間接補助金申請時において、確定している（申告済みの）直近過去３年分の各年又は各事業年度の課税所得の年平均額が１５億円を超える中小企業者等</span></p><p><span style=\"font-size: 12.8px;\"> </span></p><p><span style=\"font-size: 12.8px;\">・</span><span style=\"font-size: 13px;\">地域団体商標の外国出願については商工会議所、商工会、NPO法人等が対象。</span></p><p><span style=\"font-size: 12.8px;\"> </span></p><p><span style=\"font-size: 12.8px;\">・以下（１）～（５）を満たすこと。</span></p><p><span style=\"font-size: 13px;\">（１）応募時に既に日本国特許庁に対して特許、実用新案、意匠又は商標出願済みであり、採択後にその出願を基礎に優先権主張をして外国出願を年度内に行う予定であること</span></p><p><span style=\"font-size: 13px;\">※商標出願については優先権がない外国出願も可とします。</span></p><p><span style=\"font-size: 13px;\">※日本の特許出願を優先権主張の基礎にしないPCT出願（ダイレクトPCT出願を含む。）については、日本への国内移行予定のものに限ります。</span></p><p><span style=\"font-size: 13px;\">※優先権がないハーグ出願については、出願時に日本国を指定締約国に含むものに限ります。</span></p><p><span style=\"font-size: 13px;\">（２）先行技術調査等の結果からみて、外国での権利取得の可能性が明らかに否定されないこと。</span></p><p><span style=\"font-size: 13px;\">（３）外国で権利が成立した場合等において「当該権利を活用した事業展開を計画している」又は「商標出願に関し、外国における抜け駆け商標出願対策の意思を有している」こと。</span></p><p><span style=\"font-size: 13px;\">※「抜け駆け商標」とは、日本国において既に出願又は登録済みの商標が、海 外において第三者により無断で出願・登録された商標のこと。</span></p><p><span style=\"font-size: 13px;\">（４）外国出願に必要な資金能力及び資金計画を有していること。</span></p><p><span style=\"font-size: 13px;\">（５）経済産業省におけるＥＢＰＭ※に関する取組に協力すること。</span></p><p><span style=\"font-size: 13px;\">（※）ＥＢＰＭ（Evidence-Based Policy Making：証拠に基づく政策立案）とは、政策の企画をその場限りのエピソードに頼るのではなく、政策目的を明確化したうえで合理的根拠（エビデンス）に基づくものとすることです。限られた予算・資源のもと、各種の統計を正確に分析して効果的な政策を選択していくEBPMの推進は、2017年以降毎年、政府の経済財政運営と改革の基本方針（骨太の方針）にも掲げられており、今後もますます重要性が増していくことが予想されます。</span></p><p><br></p><p>※採択された場合は、企業名・所在地等について公表いたします。</p><p>※採択された場合は、事業完了後５年間の状況調査（フォローアップ調査、ヒアリング等）を行います。</p><p><br></p><p><span style=\"font-size: 13px;\">■その他注意点</span></p><p><span style=\"font-size: 12px;\"> </span><span style=\"font-size: 13px",
+   "use_purpose": "販路拡大・海外展開をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 公務（他に分類されるものを除く） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "島根県",
+   "target_number_of_employees": "300名以下",
+   "subsidy_rate": "1/2以内",
+   "subsidy_max_limit": 3000000,
+   "acceptance_start_datetime": "2026-11-01T15:00Z",
+   "acceptance_end_datetime": "2026-11-30T08:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000046qPpUAI",
+   "institution_name": "中小企業等海外展開支援事業費補助金（海外出願支援事業）"
   },
   {
    "id": "a0WJ200000CDYfxMAH",
@@ -1190,23 +1224,6 @@
    "acceptance_end_datetime": "2027-01-29T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXRpMAP",
    "institution_name": "脱炭素成長型経済構造移行推進対策費補助金"
-  },
-  {
-   "id": "a0WJ200000CDe4JMAT",
-   "name": "S-00009688",
-   "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■目的</strong></p><p><span style=\"color: rgb(24, 24, 24); font-size: 11px;\">２０５０年のカーボンニュートラル、２０４０年のエネルギーミックス実現に向けては、再生可能エネルギー（以下、「再エネ」という。）の最大限の導入・活用による非化石化の推進が必要不可欠である。再エネの導入が全国に比して先行している北海道や九州といった地域では、太陽光や風力等変動再エネのシェアが全需要の７割以上となる断面も出てきており、限られた火力電源を調整力として活用して需給調整を行っている。今後、再エネの更なる活用や導入拡大に向けては、余剰となる再エネの有効活用や再エネの変動を調整する脱炭素化された調整力の確保が喫緊の課題となる。</span></p><p><span style=\"color: rgb(24, 24, 24); font-size: 11px;\">そこで、令和７年度補正「再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金」系統用蓄電システム等導入支援事業（以下、「本事業」という。）では、各種電力市場での取引等を通じて余剰再エネの吸収や調整力の供出が可能な系統用蓄電池等（電力系統に直接接続する大規模蓄電池。一般送配電事業者の変電所や、発電事業者等の発電所への併設を除く。）の導入を支援することで、電力のフレキシビリティを確保し、エネルギー危機に強い経済構造への転換を図ることを目的とする。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">以下１）～ ２2）の要件を全て満たす者を補助対象事業者（以下、「補助事業者」という。）とする。</span></p><p><br></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">１）日本国内において事業活動を営んでいる法人であること。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※ 「１－１．事業の目的」 に基づき、一般送配電事業者は対象外とする。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※ ただし、一般﻿送配電事業者と発電事業者の両方の立場を有する事業者が発電事業者として、調整力公募を通じた調整力の提供等を目的に本事業へ申請を行う場合は、対象とする。</span></p><p><br></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">２）補助事業により導入する補助対象設備の所有者（※2）及び使用者（※3）であること。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">なお、リース等により補助対象設備の所有者と使用者が異なる場合は、設備の所有者が主の申請者、設備の使用者は共同申請者として、２者共同で申請を行うこと。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">⇒公募要領Ｐ.２２「補足１　共同申請について」を参照のこと。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※２ 所有者とは、補助対象設備を法人として所持し、固定資産として登録する事業者をいう。なお、共同購入等、特殊な資産登録を予定している申請の場合は、事前にSIIに相談し指示を仰ぐこと。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※３ 使用者とは、補助対象設備を運転、稼働させることにより各種電力市場での取引等の活用を主体で行う事業者をいう。なお、当該使用者から補助対象設備の実運転を委託され運転・保守管理を主として実施する事業者は含まれない。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">注）その他、補助対象設備を自社で活用する予定のない（特別目的会社（SPC）へ譲渡を予定している等）場合は、事前にSIIに相談し指示を仰ぐこと。</span></p><p><br></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">３）補助事業を確実に遂行するために必要な経営基盤を有し、事業の継続性が認められる者であること。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※ 導入する補助対象設備の所有者が直近の年度決算において債務超過の場合は、対象外とする。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※ 導入する補助対象設備の所有者が特別目的会社（SPC）であって、設立が１年未満かつ直近の年度決算がない場合は、主たる出資者等の直近の年度決算において債務超過の場合は、対象外とする。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※ 特別目的会社（SPC）の場合は、主たる出資者や出資表明者等による、補助事業の履行に係る確約書を提出すること。</span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">注）補助事業期間中の当該SPCへの出資者の追加は認めない。ただし、投資事業有限責任組合契約に関する法律（平成１０年法律第９０号）に規定の有限責任組合員及び商法（明治３２年法律第４８号）に規定の匿名組合員による出資は除く。</span></p><p><br></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">４）経済産業省から補助金等停止措置又は指名停止措置が講じられていない者であること。 </span></p><p><span style=\"font-size: 11px; color: rgb(24, 24, 24);\">※ その他、",
-   "use_purpose": "新たな事業を行いたい",
-   "industry": "電気・ガス・熱供給・水道業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "1/2以内、1/3以内、2/3以内",
-   "subsidy_max_limit": 4000000000,
-   "acceptance_start_datetime": "2026-09-04T08:00Z",
-   "acceptance_end_datetime": "2026-11-04T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4JMAT",
-   "institution_name": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金"
   },
   {
    "id": "a0WJ200000CDXjxMAH",
@@ -2807,23 +2824,6 @@
    "institution_name": "中小企業の外国人従業員に対する研修等支援助成金"
   },
   {
-   "id": "a0WJ200000CDMSsMAP",
-   "name": "S-00006444",
-   "title": "デジタル証券（セキュリティトークン）市場拡大促進事業補助金",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的</strong></p><p>本事業は、企業等が資金調達等を目的として有価証券や不動産等を裏付けに分散型台帳技術（典型的にはブロックチェーン）を活用して発行する有価証券等（以下、「セキュリティトークン」という。）について、発行体及び投資家に対して高い付加価値を創出する先進的な取組の実装を支援することで、セキュリティトークンの健全な市場形成とユースケース創出を実現し、国際金融市場としての東京の魅力を高めていくことを目的とする。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象事業</strong></p><p><strong style=\"color: rgb(0, 111, 173);\">　</strong>本補助金の交付対象となる事業は、金融商品取引法や不動産特定共同事業法等の規定を順守した上で、発行体及び投資家に対して高い付加価値を創出するためにセキュリティトークンの発行を行う取組であって、原則として、令和９年３月31日までに払込金額等の払込みが完了するものをいう。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>・東京都補助金等交付規則（昭和37年東京都規則第141号）</p><p>・東京都補助金等交付規則の施行について（昭和37年12月11日付財主調発第20号）</p><p>・<span style=\"font-size: 12.8px;\">デジタル証券（セキュリティトークン）市場拡大促進事業補助金交付要綱（令和８年４月１日付７産労総国第1555号）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格（一部抜粋）</strong></p><p>（１）セキュリティトークンを発行する事業者であって、発行にあたり金融商品取引業や不動産特定共同事業法等の免許・許可・登録等が必要な場合においては、当該免許・許可を受け又は登録等を行っている者。</p><p>（２）東京都内に登記簿上の本店又は支店があること。</p><p>（３）補助対象事業について、同一年度内に国や他自治体（東京都の他部署を含む）からの委託や助成を受けていないこと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象経費</strong></p><p>（１）プラットフォーム利用料</p><p>（２）専門家等への相談経費</p><p>（３）システム開発経費</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付申請受付期間</strong></p><p>本事業では以下の期間募集を行う。</p><p>令和８年４月10日（金）～令和９年１月29日（金）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都産業労働局 総務部 国際金融都市推進課 国際金融都市推進担当</p><p>電話：03-5320-6274</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><span style=\"font-size: 12.8px;\">https://www.sangyo-rodo.metro.tokyo.lg.jp/gfct/initiatives/nurturing-players/fintech/security-token</span></p>",
-   "use_purpose": "新たな事業を行いたい",
-   "industry": "分類不能の産業 / 金融業、保険業",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "1/2",
-   "subsidy_max_limit": 7500000,
-   "acceptance_start_datetime": "2026-04-09T15:00Z",
-   "acceptance_end_datetime": "2027-01-29T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDMSsMAP",
-   "institution_name": "デジタル証券（セキュリティトークン）市場拡大促進事業"
-  },
-  {
    "id": "a0WJ200000CDNiaMAH",
    "name": "S-00006619",
    "title": "令和7年度　ES（社員満足度）向上による若手人材確保・定着事業助成金　１年目申請用",
@@ -3315,23 +3315,6 @@
    "acceptance_end_datetime": "2027-01-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeRiMAL",
    "institution_name": "受動喫煙防止対策助成金"
-  },
-  {
-   "id": "a0WJ200000CDeT5MAL",
-   "name": "S-00009777",
-   "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業",
-   "subsidy_catch_phrase": "都内商店街での開業助成金！",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■目的</strong></p><p><strong>●令和８年度　若手・女性リーダー応援プログラム助成事業</strong></p><p>女性又は若手男性が都内商店街で実店舗を開業等※をするに当たり、必要な経費の一部を助成することにより、商店街におけるリーダーとなり得る人材に対して開業を支援し、都内商店街の活性化を図ります。</p><p>※「開業等」には、「開業」、<span style=\"color: rgb(24, 24, 24);\">「２店舗目」、「移転</span><span style=\"color: rgb(24, 24, 24); font-size: 8px;\">（都内商店街からの移転は除く）</span><span style=\"color: rgb(24, 24, 24);\">」の３つの区分</span>があります。</p><p><br></p><p><strong>●</strong><strong style=\"color: rgb(0, 0, 0);\">令和８年度</strong><strong style=\"color: rgb(68, 68, 68);\">　</strong><strong>商店街起業・承継支援事業</strong></p><p>都内商店街で個人又は中小企業者が開業等※をするに当たり、必要な経費の一部を助成することにより、商店街における開業者や事業後継者の育成及び開業等を支援し、都内商店街の活性化を図ります。</p><p>※「開業等」には、「開業」、「多角化」、<span style=\"color: rgb(24, 24, 24);\">「２店舗目」、「移転</span><span style=\"color: rgb(24, 24, 24); font-size: 8px;\">（都内商店街からの移転は除く）</span><span style=\"color: rgb(24, 24, 24);\">」「事業承継」の５つの区分</span>があります。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■</strong><strong style=\"color: rgb(7, 100, 163); font-size: 14px;\">助成内容</strong><span style=\"font-size: 14px;\"> </span></p><p>都内の商店街で開業<span style=\"color: rgb(0, 0, 0);\">等</span>をする際に必要な事業所整備費及び店舗賃借料の一部を助成します。 </p><p><br></p><p><strong style=\"color: rgb(68, 68, 68);\">●令和８年度　若手・女性リーダー応援プログラム助成事業（</strong><strong style=\"color: rgb(0, 0, 0);\">最大助成限度額</strong><strong style=\"color: rgb(0, 0, 0); font-size: 20px;\">844</strong><strong style=\"color: rgb(0, 0, 0);\"> 万円）　</strong></p><p>・事業所整備費・・・助成対象と認められる費用の３／４以内（助成限度額400 万円）</p><p><span style=\"color: rgb(68, 68, 68);\">・</span>店舗賃借料・・・・助成対象と認められる費用の３／４以内</p><p>（１年目：15 万円／月）</p><p>（２年目：12 万円／月）</p><p>（３年目：10 万円／月）</p><p><br></p><p><strong style=\"color: rgb(68, 68, 68);\">●令和８年度　</strong><strong>商店街起業・承継支援事業（最大助成限度額</strong><strong style=\"font-size: 20px;\">694</strong><strong>万円）</strong></p><p>・<span style=\"color: rgb(68, 68, 68);\">事業所整備費・・・助成対象と認められる費用の２／３以内（助成限度額250 万円）</span></p><p>・店舗賃借料・・・・助成対象と認められる費用の２／３以内</p><p>（１年目：15 万円／月）</p><p>（２年目：12 万円／月）</p><p>（３年目：10 万円／月）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\">■助成対象事業</strong></p><p><strong style=\"color: rgb(68, 68, 68);\">●令和８年度　若手・女性リーダー応援プログラム助成事業　</strong></p><p><span style=\"color: rgb(0, 0, 0);\">（１）「開業」</span></p><p><span style=\"color: rgb(0, 0, 0);\">・開業予定者が、都内商店街で実店舗を開設する事業を対象とします（都内に限らず申請時点で実店舗を持っていない場合に限ります）。</span></p><p><span style=\"color: rgb(0, 0, 0);\">・実店舗を持たずにネットショップ等で営業活動をしている方が、新たに店舗を開設する場合も対象とします。</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">（２）「２店舗目」</span></p><p><span style=\"color: rgb(0, 0, 0);\">・</span><span style=\"color: rgb(0, 0, 0); font-size: 12.8px;\">実店舗を持つ個人事業主が、既存事業と同じ業種で事業拡大を行うため、都内商店街で既存店舗とは異なる物件で実店舗を新たに開設する場合。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">　※ただし、新たな店舗は２店舗目に限る。</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">（３）「移転</span><span style=\"color: rgb(0, 0, 0); font-size: 8px;\">（都内商店街からの移転は除く）</span><span style=\"color: rgb(0, 0, 0);\">」</span></p><p><span style",
-   "use_purpose": "新たな事業を行いたい / 事業を引き継ぎたい",
-   "industry": "サービス業（他に分類されないもの） / 卸売業、小売業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 8440000,
-   "acceptance_start_datetime": "2026-10-09T00:00Z",
-   "acceptance_end_datetime": "2026-10-30T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeT5MAL",
-   "institution_name": "令和８年度 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業"
   },
   {
    "id": "a0WfQ000003CWvFUAW",
