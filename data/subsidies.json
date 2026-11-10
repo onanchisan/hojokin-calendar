@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-08T23:56:23.647Z",
+ "fetchedAt": "2026-11-10T02:52:33.987Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -2110,23 +2110,6 @@
    "institution_name": "二酸化炭素排出抑制対策事業費等補助金"
   },
   {
-   "id": "a0WJ200000CDZi6MAH",
-   "name": "S-00009232",
-   "title": "令和8年度 高度人材インターンシップ受入支援費補助金",
-   "subsidy_catch_phrase": "海外の高度外国人材を対象にしたインターンを実施！​",
-   "detail": "<p>■目的・概要</p><p>外国人材の採用に意欲のある中小企業等と、日本で働きたい海外在住の高度外国人材を対象に、採用・就職前にインターンシップの場を提供する高度人材インターンシップを実施します。</p><p>企業によるインターンシップ生への宿泊場所の提供及び滞在費支給に対して補助を行うことで、本事業を円滑・効果的に実施することを目的としています。</p><p><br></p><p>■根拠規程</p><p>高度人材インターンシップ受入支援費補助金交付要綱</p><p><br></p><p>■対象事業者</p><p>高度人材インターンシップ事業に参加し、高度外国人材を３か月程度インターンシップ生として受け入れることが決定していること（※その他要件あり）。</p><p><br></p><p>■対象事業</p><p>東京都が主催する高度人材インターンシップ事業</p><p><br></p><p><span style=\"color: rgb(68, 68, 68);\">■補助額上限</span></p><p>宿泊費、滞在費とも１日あたり5,000円</p><p><br></p><p>■申請期間</p><p>〇交付申請受付期間：令和８年８月１７日（月）から令和８年９月９日（水）まで</p><p>〇補助対象期間：インターンシップ生が補助事業者においてインターンシップを実施した期間（当該インターンシップ生が日本に到着したその日から、帰国する日までの期間）</p><p><span style=\"font-size: 13px;\">　但し、宿泊場所の提供について、東京都がインターンシップ生に対し宿泊場所を提供した期間は、補助対象外とする。</span></p><p>〇実績報告受付期限：令和９年１月８日（金）まで</p><p><br></p><p>■問合せ先</p><p><br></p><p>東京都産業労働局雇用就業部</p><p>就業推進課人材確保推進担当</p><p>03-5320-4628</p><p><br></p><p>■参照URL</p><p><a href=\"https://tcgi.metro.tokyo.lg.jp/company/subsidy25\" target=\"_blank\" style=\"color: rgb(11, 92, 171);\">https://tcgi.metro.tokyo.lg.jp/company/subsidy25</a></p>",
-   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 雇用・職場環境を改善したい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "subsidy_rate": "宿泊費、滞在費とも10/10",
-   "subsidy_max_limit": 5000,
-   "acceptance_start_datetime": "2026-08-16T15:00Z",
-   "acceptance_end_datetime": "2026-11-09T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDZi6MAH",
-   "institution_name": "高度人材インターンシップ受入支援費補助金"
-  },
-  {
    "id": "a0WJ200000CDZz6MAH",
    "name": "S-00009252",
    "title": "【愛知県大府市】2026年度大府市カーボンニュートラル推進生産設備導入支援補助金（ユーティリティ設備）",
@@ -3589,6 +3572,23 @@
    "institution_name": "東京都中小企業障害者雇用スタート支援奨励事業"
   },
   {
+   "id": "a0WfQ000003j5GLUAY",
+   "name": "S-00009938",
+   "title": "「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、第3回「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CA2_100511.html  \" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CA2_100511.html  </a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-10T01:00Z",
+   "acceptance_end_datetime": "2026-11-17T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY",
+   "institution_name": "P25001_GX 分野のディープテック・スタートアップへの事業開発支援事業"
+  },
+  {
    "id": "a0WJ200000CDYh2MAH",
    "name": "S-00008969",
    "title": "2026年度「海外出願支援事業」（3次募集）",
@@ -3689,6 +3689,57 @@
    "acceptance_end_datetime": "2026-11-30T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ot1BUAQ",
    "institution_name": "商店街防災力向上緊急支援事業"
+  },
+  {
+   "id": "a0WfQ000003znYLUAY",
+   "name": "S-00010013",
+   "title": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
+   "subsidy_catch_phrase": "現実的なCN（カーボンニュートラル）に向けた取組を推進することを通じて、産業競争力強化を支援する",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px;\">カーボンニュートラル（CN）に向けた取組を推進するため、鉄鋼等の排出削減が困難な産業において、CO2排出削減効果等の要件を満たす自家発電設備等の燃料転換や製造プロセス転換に必要な設備投資に要する経費の一部を補助し、産業競争力強化を支援することを目的としています。</span></p><p><span style=\"font-size: 12.8px;\">本事業においては、「事業Ⅰ（鉄鋼）」の「燃料転換」「製造プロセス転換」を対象としております。補助対象経費は、間接補助事業に必要な設計費、建物等取得費、設備費、システム整備費であり、補助率は原則1/3以内です。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p><span style=\"font-size: 12.8px;\">本事業は以下の法令および規程に基づいています。</span></p><p><span style=\"font-size: 12.8px;\">補助金等に係る予算の執行の適正化に関する法律（昭和30年法律第179号）</span></p><p><span style=\"font-size: 12.8px;\">補助金等に係る予算の執行の適正化に関する法律施行令（昭和30年政令第255号）</span></p><p><span style=\"font-size: 12.8px;\">令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業交付規程</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"font-size: 12.8px;\">原則として、以下のすべての要件を満たす事業者が対象となります。</span></p><p><br></p><p><span style=\"font-size: 12.8px;\">温室効果ガス排出削減の取組:2030年度のScope1・Scope2排出削減目標の設定や、第三者検証による毎年の実績報告・公表、目標未達時のクレジット調達等の実施（またはGXリーグへの参加）を行うこと。さらに、2026年度以降のGXフューチャー・リーグに参加し、排出量実績を報告すること。</span></p><p><span style=\"font-size: 12.8px;\">法人格と所在地:日本国内に登記された法人であり、国内に事業実施場所を有していること。</span></p><p><span style=\"font-size: 12.8px;\">遂行・管理能力:事業を的確に遂行する組織・人員を持ち、円滑な遂行に必要な経営基盤と資金の管理能力を有していること。</span></p><p><span style=\"font-size: 12.8px;\">欠格事由に該当しないこと:経済産業省からの補助金交付等停止措置や指名停止措置を受けておらず、暴力団排除要件に該当しないこと。※単独での事業実施が成立しない場合など、一定の条件を満たせば複数事業者による「共同申請」も可能です。</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■受付期間</strong></p><p><span style=\"font-size: 12.8px;\">令和8年11月9日（月）～令和8年12月11日（金）12:00まで</span></p><p><span style=\"font-size: 12.8px;\">※応募申請は補助金申請システム「Jグランツ」を通じた電子申請でのみ受け付けており、郵送や持参、メール等での提出は不可となっています。申請にはGビズIDプライムの取得が必要です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><ul><li><span style=\"font-size: 12.8px;\">補助対象経費は原則「交付決定後」に発注·契約等を行ったものに限られますが、必要性・緊急性が認められ「事前着手届出」が受理された場合は特例が認められる場合があります。</span></li><li><span style=\"font-size: 12.8px;\">審査内容や対象経費の詳細、その他の重要な遵守事項については、別途公開している「公募要領(PDF)」を必ずご確認ください。</span></li><li><span style=\"font-size: 12.8px;\">事前着手申請はこちらから＜https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY＞</span></li></ul><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 12.8px;\">申請にあたってのお問い合わせについては、</span><a href=\"https://business.form-mailer.jp/lp/267e04a7349191\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 12.8px;\">こちら</a><span style=\"font-size: 12.8px;\">で受け付けています。</span></p><p><span style=\"font-size: 12.8px;\">受付時間：平日</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://hta2026.jp\" rel=\"noopener noreferrer\" target=\"_blank\">https://hta2026.jp</a></p>",
+   "use_purpose": "新たな事業を行いたい",
+   "industry": "製造業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-09T03:00Z",
+   "acceptance_end_datetime": "2026-12-11T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY",
+   "institution_name": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業"
+  },
+  {
+   "id": "a0WfQ000003zgNCUAY",
+   "name": "S-00010014",
+   "title": "【事前着手】令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業（事業Ⅰ/鉄鋼）",
+   "subsidy_catch_phrase": "現実的なCN（カーボンニュートラル）に向けた取組を推進することを通じて、産業競争力強化を支援する",
+   "detail": "<p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■概要</strong></p><p><span style=\"font-size: 12.8px;\">カーボンニュートラル（CN）に向けた取組を推進するため、鉄鋼等の排出削減が困難な産業において、CO2排出削減効果等の要件を満たす自家発電設備等の燃料転換や製造プロセス転換に必要な設備投資に要する経費の一部を補助し、産業競争力強化を支援することを目的としています。</span></p><p><span style=\"font-size: 12.8px;\">本事業においては、「事業Ⅰ（鉄鋼）」の「燃料転換」「製造プロセス転換」を対象としております。補助対象経費は、間接補助事業に必要な設計費、建物等取得費、設備費、システム整備費であり、補助率は原則1/3以内です。</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■事前着手の受付期間</strong></p><p><span style=\"font-size: 13px;\">令和8年11月9日（月）～令和8年12月11日（金）正午まで</span></p><p><span style=\"font-size: 13px;\">※上記期間中にJグランツにて届出を実施・完了してください。</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■届出方法・提出先</strong></p><p><span style=\"font-size: 13px;\">届出される方は、上記期間に補助金申請システム「Jグランツ」の事前着手届出画面上から必要項目を直接入力し、届出してください。</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■事前着手の受理の通知等</strong></p><p><span style=\"font-size: 13px;\">事前着手は、事務局が当該届出の内容から交付決定前に着手する緊急性·必要性があると判断した場合、受理する。事前着手の受理後、事務局から結果を速やかに通知する。</span></p><p><span style=\"font-size: 13px;\">事前着手が受理された場合でも、採択審査の結果、採択されなかった場合は、本補助金の交付を受けることはできない。また、事前着手受理通知に記載の「事前着手開始日として認</span></p><p><span style=\"font-size: 13px;\">める日」より前に実施した発注(発注先への内示も発注行為とみなす。)、購入、契約等に係る経費は補助対象外となる。</span></p><p><span style=\"font-size: 13px;\">事前着手届出が受理されなかった場合、交付決定日よりも前に発注、購入、契約等を実施したものの経費は補助対象外となる。</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■備考</strong></p><ul><li><span style=\"font-size: 12.8px;\">申請は補助金申請システム「Jグランツ」を利用した電子申請となります。利用には「GビズIDプライム」の取得が必要です。</span></li><li><span style=\"font-size: 12.8px;\">応募の受付期間は、令和8年11月9日（月）～令和8年12月11日（金）正午まで(必着)です。</span></li><li><span style=\"font-size: 12.8px;\">補助対象経費は原則「交付決定後」に発注·契約等を行ったものに限られますが、必要性・緊急性が認められ「事前着手届出」が受理された場合は特例が認められる場合があります</span></li><li><span style=\"font-size: 12.8px;\">審査内容や対象経費の詳細、その他の重要な遵守事項については、別途公開している「公募要領(PDF)」を必ずご確認ください。</span></li><li><span style=\"font-size: 12.8px;\">公募申請はこちらから＜https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003znYLUAY＞</span></li></ul><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 13px;\">申請にあたってのお問い合わせについては、</span><a href=\"https://business.form-mailer.jp/lp/267e04a7349191\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 13px;\">こちら</a><span style=\"font-size: 13px;\">で受け付けています。</span></p><p><span style=\"font-size: 13px;\">受付時間：平日</span></p><p><br></p><p><strong style=\"font-size: 13px; color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://hta2026.jp\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 13px;\">https://hta2026.jp</a></p>",
+   "use_purpose": "新たな事業を行いたい",
+   "industry": "製造業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-09T03:00Z",
+   "acceptance_end_datetime": "2026-12-11T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003zgNCUAY",
+   "institution_name": "令和8年度排出削減が困難な産業におけるエネルギー・製造プロセス転換支援事業"
+  },
+  {
+   "id": "a0WJ200000CDKBZMA5",
+   "name": "S-00006124",
+   "title": "令和６年度　病院勤務者勤務環境改善事業・救急医療体制強化事業（実績報告）",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"color: rgb(0, 0, 0);\">病院が実施する医師及び看護職員の勤務環境を改善し、離職防止と定着を図る取組及び職場を離れた医師等の再就業を支援する取組に対し、都が必要な経費を補助することにより、都内医療体制の安定的な確保に資することを目的とする。</span></p><p><span style=\"color: rgb(0, 0, 0); font-size: 12px;\">また、救急医療体制の強化を図るため、都内の救急医療体制の中核を担う救急車年間受入2,000件以上の病院に対して、医師及び看護職員の勤務環境を改善し、離職防止、負担軽減、復職、定着を図る取組に必要な経費を補助することにより、救急医療体制の安定的な確保に資することを目的とした事業です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><span style=\"color: rgb(0, 0, 0);\">都内の病院（ただし、国、独立行政法人、地方独立行政法人及び都が設置する病院を除く）</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象事業</strong></p><p><span style=\"color: rgb(0, 0, 0);\">病院勤務者勤務環境改善事業の補助対象となる事業は、以下の事業です。</span></p><p><span style=\"color: rgb(0, 0, 0);\">1　勤務環境改善及び再就業支援事業</span></p><p><span style=\"color: rgb(0, 0, 0);\">（1）復職研修及び就労環境改善事業</span></p><p><span style=\"color: rgb(0, 0, 0);\"> ア 復職研修</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 個々の事情や出産、育児等により離職せざるを得なかった医師及び看護職員が不安なく再就業し、定着できるよう、指導担当者のもとで実施する復職研修事業</span></p><p><span style=\"color: rgb(0, 0, 0);\"> イ 就労環境改善事業</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 病院に勤務する医師及び看護職員の負担を軽減し、働きやすい環境を整備することにより、離職防止と安定的な人材確保に資する事業</span></p><p><span style=\"color: rgb(0, 0, 0);\">（2）相談窓口事業</span></p><p><span style=\"color: rgb(0, 0, 0);\"> 女性医師等の仕事と家庭の両立支援のための相談窓口を設置し、相談対応や情報提供を実施する事業</span></p><p><span style=\"color: rgb(0, 0, 0);\">2　チーム医療推進の取組</span></p><p><span style=\"color: rgb(0, 0, 0);\">各医療スタッフの専門性を発揮させ、医師及び医療関係職等との役割分担とチーム医療推進に資する事業で次に掲げるもの</span></p><p><span style=\"color: rgb(0, 0, 0);\">（1） 医師の事務作業を補助する職員（医師事務作業補助者）及び看護補助者の配置に伴う研修の実施</span></p><p><span style=\"color: rgb(0, 0, 0);\">（2） 助産師の活用（院内助産、助産師外来の設置）</span></p><p><span style=\"color: rgb(0, 0, 0);\">（3） 看護師の活用（医師の業務負担軽減に資する認定看護師の資格取得支援及び特定行為研修の受講支援）</span></p><p><span style=\"color: rgb(0, 0, 0);\">3　勤務環境改善施設整備事業及び勤務環境改善設備整備事業</span></p><p><span style=\"color: rgb(0, 0, 0);\">（1）院内助産・助産師外来に必要な施設・設備の整備</span></p><p><span style=\"color: rgb(0, 0, 0);\">（2）休憩室・当直室の新築、増改築又は改修に係る施設・設備の整備</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0);\">救急医療体制強化事業の補助の対象となる事業は、上記１及び２に規定する事業のうち、</span></p><p><span style=\"color: rgb(0, 0, 0);\">救急医療体制を確保するために必要な事業とし、病院勤務者勤務環境改善事業の加算事業とする。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助額上限</strong></p><p><span style=\"color: rgb(0, 0, 0);\">【基準額】</span></p><p><span style=\"color: rgb(0, 0, 0);\">◆ソフト</span></p><p><span style=\"color: rgb(0, 0, 0);\">・復職研修、就労環境改善</span></p><p><span style=\"color: rgb(0, 0, 0);\">（11,140千円）</span></p><p><span style=\"color: rgb(0, 0, 0);\">・相談窓口事業</span></p><p><span style=\"color: rgb(0, 0, 0);\">（7,093千円）</span></p><p><span style=\"color: rgb(0, 0, 0);\">・チーム医療推進の取組</span></p><p><span style=\"color: rgb(0, 0, 0);\">（6,700千円）</span></p><p><span style=\"color: rgb(0, 0, 0);\">◆ハード</span></p><p><span style=\"color: rgb(0, 0, 0);\">・院内助産、助産外来の整備</span></p><p><span style=\"color: rgb(0, 0, 0);\">・休憩室、当直室の整備</span></p><p><span style=\"color: rgb(0, 0, 0);\">（施設5,040千円、設備3,811千",
+   "use_purpose": "人材育成を行いたい / 雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "【病院勤務者勤務環境改善事業】1/2（施設・設備整備事業は2/3）　　【救急医療体制強化事業】1/4",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2024-10-29T15:00Z",
+   "acceptance_end_datetime": "2026-11-30T14:45Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDKBZMA5",
+   "institution_name": "病院勤務者勤務環境改善事業・救急医療体制強化事業"
   },
   {
    "id": "a0WJ200000CDeTtMAL",
@@ -3825,6 +3876,23 @@
    "acceptance_end_datetime": "2027-03-31T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY2OMAX",
    "institution_name": "職場内障害者サポーター事業"
+  },
+  {
+   "id": "a0WJ200000CDY36MAH",
+   "name": "S-00008411",
+   "title": "令和８年度課題解決型製品・サービス等の販路拡大助成",
+   "subsidy_catch_phrase": "東京都の課題解決につながる製品・サービスの販路開拓を支援します！",
+   "detail": "<p><strong style=\"font-size: 12px; color: rgb(7, 115, 190);\">■　目的</strong></p><p><span style=\"font-size: 12.8px;\">本助成事業は、</span><strong style=\"font-size: 12.8px;\">持続可能で安全な東京の実現に資する防災・減災に関連する製品・サービス、介護現場の負担軽減、高齢者のニーズを満たす製品・サービス、ＤＸ（デジタルトランスフォーメーション）を推進する製品・技術等、都市課題の解決に資する製品・サービス</strong><span style=\"font-size: 12.8px;\">について、販路開拓のために出展する展示会に係る経費等の一部を助成することにより、都内中小企業者等の振興に資することを目的としています。</span></p><p><br></p><p><strong style=\"color: rgb(7, 115, 190); font-size: 12px;\">■　助成対象商品</strong></p><p><span style=\"font-size: 12.8px;\"> 次の①～④のいずれかの分野に該当し、助成事業者自らが企画・製造し、自社製品として単独で販売する権利を有している商品であることが必要です。</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12.8px;\"> ① 『安全・安心』関連製品・サービス</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12.8px;\"> ② 『高齢者・介護・障害者』関連製品・サービス</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12.8px;\"> ③ 『ＤＸ（デジタルトランスフォーメーション）推進』関連製品・サービス</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12.8px;\"> ④ 『暑さ対策』関連製品・サービス</span></p><p><br></p><p><strong style=\"color: rgb(7, 115, 190); font-size: 12px;\">■　助成対象期間</strong></p><p><span style=\"font-size: 12.8px;\">　第１回：令和８年10月１日から令和９年10月31日まで（最長１年１か月）</span></p><p><span style=\"font-size: 12.8px;\">　第２回：令和９年２月１日から令和10年２月29日まで（最長１年１か月）</span></p><p><br></p><p><br></p><p><strong style=\"color: rgb(7, 115, 190); font-size: 12px;\">■　助成限度額・助成率</strong></p><p><strong style=\"color: rgb(7, 115, 190); font-size: 12px;\"> </strong><span style=\"color: rgb(11, 11, 11); font-size: 12px;\">１５０万円・</span><span style=\"color: rgb(68, 68, 68); font-size: 12px;\">助成対象と認められる経費の２／３以内</span></p><p><br></p><p><strong style=\"color: rgb(7, 115, 190); font-size: 12px;\">■　助成対象経費</strong></p><p><strong style=\"color: rgb(0, 0, 0); font-size: 12px;\"> ≪経費区分：販路開拓費≫</strong></p><p><strong style=\"color: rgb(0, 0, 0); font-size: 12px;\"> </strong><span style=\"color: rgb(0, 0, 0); font-size: 12px;\">・</span><span style=\"font-size: 12px;\">展示会等参加費</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12px;\"> 出展小間料（オンライン展示会出展基本料を含む）</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12px;\"> 資材費</span></p><p class=\"ql-indent-1\"><span style=\"font-size: 12px;\"> 輸送費</span></p><p><span style=\"font-size: 12px;\"> ・ＥＣ出店初期登録料 (助成限度額：20万円)</span></p><p><span style=\"font-size: 12px;\"> ・サイト制作・改修費 (助成限度額：20万円)</span></p><p><strong style=\"color: rgb(0, 0, 0); font-size: 12px;\"> ≪経費区分：販売促進費≫ </strong><span style=\"color: rgb(255, 0, 0); font-size: 12px;\">※</span></p><p><span style=\"font-size: 12px; color: rgb(255, 0, 0);\"> </span><span style=\"font-size: 12px;\">・印刷物制作費 (助成限度額：50万円)</span></p><p><span style=\"font-size: 12px;\"> ・動画制作費 (助成限度額：20万円)</span></p><p><span style=\"font-size: 12px;\"> ・広告掲載費 (助成限度額：20万円)</span></p><p><span style=\"color: rgb(255, 13, 0); font-size: 12px;\"> ※≪販売促進費≫のみの申請はできません。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 12px;\">■　その他</strong></p><p><span style=\"font-size: 12.8px;\">    申請には、「申請書別紙」、「申請に必要な書類」が必要です。</span></p><p><span style=\"font-size: 12.8px;\">    下記ＵＲＬ、事業ホームページを参照の上",
+   "use_purpose": "販路拡大・海外展開をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "助成対象と認められる経費の2/3以内（千円未満切捨て）",
+   "subsidy_max_limit": 1500000,
+   "acceptance_start_datetime": "2026-11-10T01:00Z",
+   "acceptance_end_datetime": "2026-11-30T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH",
+   "institution_name": "課題解決型技術開発促進事業（販路拡大助成）"
   },
   {
    "id": "a0WfQ000003CYIjUAO",
@@ -4029,6 +4097,23 @@
    "acceptance_end_datetime": "2027-01-29T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003ZH5uUAG",
    "institution_name": "中小企業デジタル導入促進補助事業"
+  },
+  {
+   "id": "a0WfQ000003dVevUAE",
+   "name": "S-00009912",
+   "title": "GX地域共創補助金2026",
+   "subsidy_catch_phrase": "【応募申請】R8年度GX地域共創補助金（2次公募）",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■事業の概要</strong></p><p>脱炭素電源を活用して付加価値の高いGX関連投資を行い、かつ活用する電源の立地地域に貢献する事業者の設備投資を支援する事業です。製造設備投資型・データセンター設備投資型の2種類があります。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■補助対象・補助率等の支援強度</strong></p><p>補助対象経費は、建物等取得費・設備費・システム整備費です（土地の取得費等は対象外）。補助率は最大1/2（大企業の場合は最大1/3）、補助上限額は申請パターンに応じ最大250億円です。（支援強度の詳細については公募要領を参照のこと）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象となる事業者（応募資格）</strong></p><p>産業要件・脱炭素電源要件を満たす大企業～中小企業で、支援対象となる投資額が10億円以上（大企業は20億円以上）の事業者です。（要件の詳細については公募要領を参照のこと）</p><p><strong style=\"font-size: 16px; color: rgb(255, 0, 0);\">※本事業は代理申請不可です。</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■主な要件</strong></p><p>需要電力の全量を脱炭素電力で賄い、需要電力の50%以上を同一都道府県から調達することを前提としつつ、当該電源の立地地域への貢献度合い・電源との紐づき・電源の種類に応じて、補助率・補助上限額が決まります。（要件の詳細については公募要領を参照のこと）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募申請の流れ（本ページでの受付内容）</strong></p><p>本ページ（Jグランツ）では、応募の意思表示として、申請区分（単独／共同）・類型（製造設備／データセンター）・担当者名・担当者電話番号・担当者メールアドレスのみを受け付けます。具体的な申請情報の入力・様式の提出は、事務局が別途ご案内するシステムにて申請することで申請受付完了となります。（別途ご案内するシステムからのIDのご連絡は申請者メールアドレスに送信します。）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://r8.gx-area-hojo.jp/\" rel=\"noopener noreferrer\" target=\"_blank\">https://r8.gx-area-hojo.jp/</a></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>GX地域共創補助金事務局 問合せフォーム：<a href=\"https://r8.gx-area-hojo.jp/QuestionForm/\" rel=\"noopener noreferrer\" target=\"_blank\">https://r8.gx-area-hojo.jp/QuestionForm/</a></p><p>コールセンター：03-4405-6696・HPに記載の受付時間に準拠</p>",
+   "use_purpose": "新たな事業を行いたい / 設備整備・IT導入をしたい / エコ・SDGs活動支援がほしい",
+   "industry": "製造業 / 情報通信業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "中小企業等 最大1/2／大企業 最大1/3（詳細は公募要領に記載）",
+   "subsidy_max_limit": 25000000000,
+   "acceptance_start_datetime": "2026-11-09T04:00Z",
+   "acceptance_end_datetime": "2026-12-14T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003dVevUAE",
+   "institution_name": "令和8年度 脱炭素電源地域貢献型投資促進事業"
   },
   {
    "id": "a0WfQ000003ePpBUAU",
