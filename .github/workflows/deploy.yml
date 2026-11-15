@@ -1,0 +1,41 @@
+name: deploy-public
+
+# public フォルダの中身を、さくらの www/onanchi/ (= https://onanchi.com/) へアップロードする。
+# public の中を変更して GitHub に送ると、数分で自動的に公開される。
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'public/**'
+      - '.github/workflows/deploy.yml'
+  workflow_dispatch: {}      # 手動実行ボタン用
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-public
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: さくらのサーバーへアップロード(public フォルダ)
+        env:
+          SAKURA_HOST: ${{ secrets.SAKURA_HOST }}
+          SAKURA_USER: ${{ secrets.SAKURA_USER }}
+          SAKURA_SSH_KEY: ${{ secrets.SAKURA_SSH_KEY }}
+        run: |
+          if [ -z "$SAKURA_HOST" ] || [ -z "$SAKURA_USER" ] || [ -z "$SAKURA_SSH_KEY" ]; then
+            echo "Secrets未設定のためアップロードをスキップ"; exit 0
+          fi
+          mkdir -p ~/.ssh && chmod 700 ~/.ssh
+          printf '%s\n' "$SAKURA_SSH_KEY" | tr -d '\r' > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -H "$SAKURA_HOST" >> ~/.ssh/known_hosts 2>/dev/null || echo "ホストに到達できない(SAKURA_HOSTを確認)"
+          SSH="ssh -i ~/.ssh/id_deploy -o IdentitiesOnly=yes -o BatchMode=yes -o ConnectTimeout=20"
+          # --delete は付けない(サーバー側のファイルを消さない)。上書き・追加だけ行う。
+          # .gitkeep(空フォルダをGitに残すための目印)はアップロードしない。
+          rsync -rz --exclude '.gitkeep' -e "$SSH" public/ "$SAKURA_USER@$SAKURA_HOST:www/onanchi/"
+          echo "public フォルダのアップロード完了 → https://onanchi.com/"
