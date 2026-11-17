@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-16T00:14:35.372Z",
+ "fetchedAt": "2026-11-17T03:04:58.737Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -2331,23 +2331,6 @@
    "institution_name": "休廃止鉱山鉱害防止等工事費補助金"
   },
   {
-   "id": "a0WJ200000CDUheMAH",
-   "name": "S-00007197",
-   "title": "令和８年度訪問系介護サービス事業所に対する防犯機器等導入支援補助金",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要　</strong></p><p class=\"ql-indent-1\">介護サービス利用者の居宅を訪問し、排せつ及び食事等の介護並びに調理、洗濯及び掃除等の家事等を提供する者及び介護支援専門員等に対するハラスメント対策として、セキュリティ確保に必要な防犯機器の初度整備に係る経費に対し、補助します。</p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p class=\"ql-indent-1\">都内に所在する別表に定める事業所とする。ただし、国又は地方公共団体が設置する事業所（地方自治法（昭和２２年法律第６７号）第２４４条の２第３項の規定により指定管理者が管理するものを含む。）は除く。</p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p class=\"ql-indent-1\">東京都介護現場カスタマーハラスメント対策強化事業補助金事務局</p>",
-   "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
-   "industry": "医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "1/2",
-   "subsidy_max_limit": 100000,
-   "acceptance_start_datetime": "2026-08-30T15:00Z",
-   "acceptance_end_datetime": "2026-10-16T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDUheMAH",
-   "institution_name": "訪問系介護サービス事業所に対する防犯機器等導入支援補助金"
-  },
-  {
    "id": "a0WfQ000003iibVUAQ",
    "name": "S-00009935",
    "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】",
@@ -3487,23 +3470,6 @@
    "institution_name": "東京都中小企業障害者雇用スタート支援奨励事業"
   },
   {
-   "id": "a0WfQ000003j5GLUAY",
-   "name": "S-00009938",
-   "title": "「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、第3回「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CA2_100511.html  \" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CA2_100511.html  </a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-11-10T01:00Z",
-   "acceptance_end_datetime": "2026-11-17T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY",
-   "institution_name": "P25001_GX 分野のディープテック・スタートアップへの事業開発支援事業"
-  },
-  {
    "id": "a0WJ200000CDeC1MAL",
    "name": "S-00009738",
    "title": "2026年度「ディープテック・スタートアップ支援基金／国際共同研究開発」の公募",
@@ -3759,6 +3725,40 @@
    "institution_name": "0101475 医学技術振興事業"
   },
   {
+   "id": "a0WfQ000003qLZhUAM",
+   "name": "S-00009985",
+   "title": "「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「</span><span style=\"font-size: 16px;\">ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）</span><span style=\"font-size: 16px;\">」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100456.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100456.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-16T01:00Z",
+   "acceptance_end_datetime": "2026-12-16T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qLZhUAM",
+   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
+  },
+  {
+   "id": "a0WfQ000003CYIjUAO",
+   "name": "S-00009829",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100453.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100453.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-10-14T01:00Z",
+   "acceptance_end_datetime": "2026-11-16T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO",
+   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
+  },
+  {
    "id": "a0WJ200000CDY2OMAX",
    "name": "S-00008400",
    "title": "令和8年度職場内障害者サポーター事業",
@@ -3791,23 +3791,6 @@
    "acceptance_end_datetime": "2026-11-30T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY36MAH",
    "institution_name": "課題解決型技術開発促進事業（販路拡大助成）"
-  },
-  {
-   "id": "a0WfQ000003CYIjUAO",
-   "name": "S-00009829",
-   "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100453.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100453.html</a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-10-14T01:00Z",
-   "acceptance_end_datetime": "2026-11-16T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO",
-   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
   },
   {
    "id": "a0WJ200000CDY2TMAX",
@@ -4165,23 +4148,6 @@
    "acceptance_end_datetime": "2026-12-15T08:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003lu8IUAQ",
    "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
-  },
-  {
-   "id": "a0WJ200000CDXkTMAX",
-   "name": "S-00008193",
-   "title": "令和８年度展示会出展助成事業",
-   "subsidy_catch_phrase": "ＢtoＢの展示会への出展費用等を助成します",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"font-size: 14px;\">都内中小企業者</strong><span style=\"font-size: 14px;\">が、販路拡大及び経営基盤の更なる強化を図るために行う</span><strong style=\"font-size: 14px;\">展示会への出展</strong><span style=\"font-size: 14px;\">等に係る経費の一部を助成します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>令和８年度展示会出展助成事業　交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>「令和８年度展示会出展助成事業　募集要項」に定める要件を満たす都内中小企業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>第１回申請受付：令和８年４月１日0：00～４月14日16：00</p><p>以降令和９年１月まで毎月　計10回</p><p>（詳細スケジュールは募集要項をご参照ください）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>(公財)東京都中小企業振興公社　助成課</p><p>TEL：03-3251-7895(受付時間：平日の10:00～12:00・13:00～16:00)</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/support/josei/jigyo/tenjikai/r8/index.html</p>",
-   "use_purpose": "販路拡大・海外展開をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "助成対象と認められる経費の２／３以内",
-   "subsidy_max_limit": 1500000,
-   "acceptance_start_datetime": "2026-09-30T15:00Z",
-   "acceptance_end_datetime": "2026-10-14T07:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX",
-   "institution_name": "令和８年度展示会出展助成事業"
   },
   {
    "id": "a0WJ200000CDap3MAD",
