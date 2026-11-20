@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-15T00:08:03.591Z",
+ "fetchedAt": "2026-11-20T01:51:37.427Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -2331,23 +2331,6 @@
    "institution_name": "休廃止鉱山鉱害防止等工事費補助金"
   },
   {
-   "id": "a0WJ200000CDeUgMAL",
-   "name": "S-00009792",
-   "title": "令和8年度東京都臨床調査個人票電子化等推進事業補助金",
-   "subsidy_catch_phrase": "難病指定医等が勤務する医療機関が行う臨床調査個人票のオンライン化に対応するために、必要な業務システムの改修及びその他環境整備を支援",
-   "detail": "<p><span style=\"color: rgb(0, 111, 173);\">【目的・概要】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;目的&gt;</span>現在国は、医療機関、自治体及び国で共通のデータベースを構築することで、</p><p class=\"ql-indent-1\">小児慢性特定疾病医療費助成及び難病医療費助成の診断書のオンライン</p><p class=\"ql-indent-1\">化を進めている。臨床調査個人票のオンライン化に対応するために必要な</p><p class=\"ql-indent-1\">業務システムの改修及びその他環境整備に係る経費について支援をすることで、</p><p class=\"ql-indent-1\">難病医療費助成事務の効率化を図る。</p><p class=\"ql-indent-1\"> </p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;対象経費&gt;</span>パソコンの購入経費、インターネット回線の敷設工事費等</p><p class=\"ql-indent-1\">          ※詳細については、「交付申請にあたっての留意事項」をお読みください。</p><p class=\"ql-indent-1\"> </p><p class=\"ql-indent-1\"><span style=\"color: rgb(0, 111, 173);\">&lt;基準額及び補助率&gt;</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・基準額：１医療機関当たり10万円</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・補助率：2分の１</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※補助上限額は、１医療機関あたり5万円になります。</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【応募資格】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">・難病の患者に対する医療等に関する法律施行規則第15条第1項第1号に規定する、難病指定医及び同項第2 号に規定する協力難病指定医が勤務する、医療法（昭和23 年法律第205 号）第７条の規定に基づき許可を受けた病院及び診療所、並びに同法第８条の規定に基づき届出をした診療所であって、東京都知事が必要かつ適当であると認めるもの。</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※過去に同補助金の交付を受けた場合は、対象外です。</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※「東京都小児慢性特定疾病医療費意見書オンライン登録システム環境整備事業費補助金」との重複申請は認められません。</span></p><p><strong style=\"color: rgb(0, 111, 173); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【問合せ先】</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">東京都保健医療局保健政策部疾病対策課疾病対策担当</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">電話番号：03-5320-4471</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">※問合わせの際は、下記「手続きの流れについて」「交付</span><span style=\"font-size: 14px;\">申請にあたっての留意事項」</span></p><p class=\"ql-indent-1\"><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">　を必ずご確認いただきますようお願いいたします。</span></p><p class=\"ql-indent-1\"><strong style=\"color: rgb(24, 24, 24); font-size: 14px;\"> </strong></p><p><span style=\"color: rgb(0, 111, 173);\">【参照URL】</span></p><p><span style=\"color: rgb(24, 24, 24); font-size: 14px;\">https://www.hokeniryo.metro.tokyo.lg.jp/kenkou/nanbyo/portal/shiteikikan/kikan-oshirase</span></p>",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "助金の額は、別表に定める基準額と対象経費の実支出額から、寄付金その他の収 入額を控除した額を比較して少ない方の額を補助基本額とし、補助基本額に別表に定める 補助率を乗じて得た額とする。",
-   "subsidy_max_limit": 50000,
-   "acceptance_start_datetime": "2026-09-14T15:00Z",
-   "acceptance_end_datetime": "2026-11-15T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDeUgMAL",
-   "institution_name": "東京都臨床調査個人票電子化等推進事業補助金"
-  },
-  {
    "id": "a0WfQ000003iibVUAQ",
    "name": "S-00009935",
    "title": "小規模事業者持続化補助金＜一般型 災害支援枠（令和８年熊本地震）＞２次公募【商工会議所地区】",
@@ -2909,23 +2892,6 @@
    "institution_name": "テレワークトータルサポート"
   },
   {
-   "id": "a0WJ200000CDaSdMAL",
-   "name": "S-00009303",
-   "title": "令和8年度製品開発着手支援助成事業",
-   "subsidy_catch_phrase": "～チャレンジを応援！～\n新たな製品・技術の開発にあたって必要な技術検討を支援します",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の目的</strong></p><p>都内の中小企業者等が製品・技術開発を実施するにあたり、技術的な課題を検討するために、社外資源を活用して実施する技術検討の経費の一部を助成することにより、都内の中小企業等による新たな製品・技術開発を促進することを目的としています。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成事業の概要</strong></p><p>製品・技術開発を行う都内中小企業者等に対し、開発実施にあたって考えなくてはならない素材や機能、手法の選定等の技術検討に要する経費の一部を助成します。</p><p><br></p><p>（１）助成対象者</p><p>都内中小企業者（会社または個人事業者）、中小企業団体等、都内創業予定者、複数の企業等で構成される中小企業グループ（共同申請）</p><p><br></p><p>（２）助成対象期間</p><p><u>令和9年3月1日～令和10年2月29日まで（最長1年）</u></p><p><br></p><p>（３）助成限度額</p><p><strong><u>100万円（申請下限額10万円）</u></strong></p><p>※助成金の支払いは、助成事業を完了し、公社の検査・審査を経た後となります。</p><p><br></p><p>（４）助成率</p><p><u>助成対象と認められる経費の1/2以内</u>（千円未満は切り捨て）</p><p>技術検討に要する経費（①原材料・副資材費、②委託・外注費　※②の申請必須）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■助成対象事業</strong></p><p>・事業化を視野に入れた<u>研究開発を実施する前の技術検討である</u>こと。</p><p>・他企業・大学・試験研究機関等の<u>社外資源を活用するものである</u>こと。</p><p>・委託・外注費のうち、<u>委託費・外注費・共同研究費のいずれか1つ以上の経費を計上する</u>こと。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■申請書提出期間</strong></p><p><strong><u>令和8年10月28日（水）～令和8年11月18日（水）17時00分</u></strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>本助成事業は製品等の優位性や妥当性を公社が保証するものではありません。</p><p>技術検討は助成対象期間内に完了させなくてはなりません。</p><p>上記に係る詳細やその他助成事業の内容は、「募集要項」をご確認ください。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>公益財団法人東京都中小企業振興公社　企画管理部　助成課</p><p>〒101-0022</p><p>東京都千代区神田練塀町3-3 大東ビル4階</p><p>TEL:03-3251-7894</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/chakushu.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/chakushu.html</a></p>",
-   "use_purpose": "新たな事業を行いたい / 研究開発・実証事業を行いたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "助成対象と認められる経費の１/２以内",
-   "subsidy_max_limit": 1000000,
-   "acceptance_start_datetime": "2026-10-27T15:00Z",
-   "acceptance_end_datetime": "2026-11-18T08:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDaSdMAL",
-   "institution_name": "製品開発着手支援助成事業"
-  },
-  {
    "id": "a0WJ200000CDaTCMA1",
    "name": "S-00009311",
    "title": "令和８年_設備投資_事業化状況報告",
@@ -3009,23 +2975,6 @@
    "acceptance_end_datetime": "2027-01-14T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe4nMAD",
    "institution_name": "中小企業の外国人従業員に対する研修等支援助成金"
-  },
-  {
-   "id": "a0WJ200000CDe6CMAT",
-   "name": "S-00009708",
-   "title": "【京都】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 10.5pt;\">業務改善助成金は、中小企業・小規模事業者の生産性向上を支援し、事業場内で最も低い賃金（事業場内最低賃金）を50円以上引き上げ、生産性向上に資する設備投資等を行った場合に、その設備投資等にかかった費用の一部を助成する制度です。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■注意事項</strong></p><p><strong style=\"font-size: 12.8px;\">○この申請フォームは</strong><strong style=\"font-size: 12.8px; color: rgb(255, 0, 0);\">京都</strong><strong style=\"font-size: 12.8px;\">労働局への申請フォームです。申請先に誤りがないようにご注意お願いいたします。</strong></p><p><br></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに掲載している令和８年度申請分の交付要綱・交付要領や、申請マニュアル等を熟読のうえ、申請してください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○</span><strong style=\"color: rgb(24, 24, 24);\">申請期間は令和８年９月１日から申請事業場の都道府県において適用される地域別最低賃金の発効日の前日又は同年11月30日のいずれか早い日となります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請フォームに必要事項を記入したうえで、作成した交付申請書・添付書類を申請フォームの「申請書類」欄にアップロードしてください。</span></p><p><strong style=\"color: rgb(24, 24, 24);\"> 交付申請の際に書類の添付漏れや記載ミス等が多く見受けられます。申請ボタンをクリックする前に今一度ご確認いただけますと幸いです。</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> また、交付申請後に書類の修正や添付漏れがわかった場合は、申請を行った都道府県労働局雇用環境・均等部（室）に連絡ください。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○故意に申請書に事実異なる記載をした場合や添付書類の偽造などにより、偽りその他不正の行為による申請（不正受給）を行った場合は、</strong></p><p><strong style=\"color: rgb(24, 24, 24);\"> 不正受給額の返還に加え、加算金を支払う義務を負う場合や刑事事件として告発等される場合があります。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(24, 24, 24);\">○提出先は事業場の所在地を管轄する都道府県労働局となります。誤った提出先に申請を行った場合は、当該申請先の労働局において「棄却」処理を行いますので、再度正しい提出先へ申請をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span><strong style=\"color: rgb(24, 24, 24);\">※申請期間内に正しい提出先へ申請いただく必要がありますので、提出先の誤りがないようご注意をお願いします。</strong></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○申請の審査や助成金の支払は事業場所在地を管轄する都道府県労働局で実施します。申請書類等について都道府県労働局から問い合わせがある場合がございますので、ご了承ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○現在、取得財産の処分に係る事前承認手続きなど、一部の手続きは電子申請ができません。これらの手続きは、都道府県労働局に対し、直接行うこととしてください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><span style=\"color: rgb(24, 24, 24);\">○厚生労働省ウェブサイトに、交付要領や申請マニュアル、Q&amp;A、申請書の作成に便利なお役立ちツール等を掲載しています。申請前に、下記参照URLよりご覧ください。</span></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/koyou_roudou/roudoukijun/zigyonushi/shienjigyou/03.html</a></p><p><span style=\"color: rgb(24, 24, 24);\"> </span></p><p><strong style=\"color: rgb(0, 111, 173);\">■交付要綱・各種様式</strong></p><p><a href=\"https://www.mhlw.go.jp/",
-   "use_purpose": "設備整備・IT導入をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
-   "target_area_search": "京都府",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "３／４～４／５",
-   "subsidy_max_limit": 6000000,
-   "acceptance_start_datetime": "2026-08-31T15:00Z",
-   "acceptance_end_datetime": "2026-11-15T14:59Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDe6CMAT",
-   "institution_name": "業務改善助成金"
   },
   {
    "id": "a0WJ200000CDe6YMAT",
@@ -3145,6 +3094,23 @@
    "acceptance_end_datetime": "2026-11-24T04:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rLvpUAE",
    "institution_name": "躍進的な事業推進のための設備投資支援事業"
+  },
+  {
+   "id": "a0WfQ000003rcVFUAY",
+   "name": "S-00009995",
+   "title": "経営力強化に向けた創意工夫チャレンジ促進事業助成金（賃上げ重点コース）【令和8年度第3回】",
+   "subsidy_catch_phrase": "物価高騰などに創意工夫で強みを伸ばし、立ち向かう企業を応援",
+   "detail": "<p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 16px;\">長期化する物価高騰や社会情勢の変化、近年続く賃上げなど、中小企業にとって課題が山積しています。このため、中小企業の創意工夫を活かして、既存事業を深化・発展させる計画を作成した場合に各種支援を展開することで、都内中小事業者の経営基盤を強化することを目的としています</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\">。</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象者</strong></p><p><span style=\"font-size: 16px;\">申請要件を満たす東京都内で事業を行う中小企業者（個人事業主を含む）</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象経費</strong></p><p><span style=\"font-size: 16px;\">既存事業を深化・発展させる計画を作成した場合に、審査で認められた経費</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■助成対象期間</strong></p><p><span style=\"font-size: 16px;\">交付決定日から最大1年間</span><span style=\"font-size: 16px; color: rgb(0, 0, 0);\"> </span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■申請受付期間</strong></p><p><span style=\"font-size: 16px;\">令和8年11月16日(月)9時　～　令和8年12月14日(月)16時</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■交付決定日</strong></p><p><span style=\"font-size: 16px;\">令和9年3月下旬予定</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"font-size: 16px; color: rgb(68, 68, 68);\">東京都中小企業振興公社 </span></p><p><span style=\"font-size: 16px;\">経営力強化に向けた創意工夫チャレンジ促進事業事務局</span></p><p><span style=\"font-size: 16px;\">TEL：03-4405-0707</span></p><p><strong style=\"font-size: 16px; color: rgb(0, 111, 173);\">■参照URL</strong><span style=\"font-size: 16px; color: rgb(14, 15, 15);\">（申請書を以下よりダウンロードできます）</span></p><p><a href=\"https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/juuten/index.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 14px;\">https://www.tokyo-kosha.or.jp/support/josei/jigyo/soui-challenge/juuten/index.html</a></p>",
+   "use_purpose": "新たな事業を行いたい / 販路拡大・海外展開をしたい / 設備整備・IT導入をしたい",
+   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "target_area_search": "茨城県/栃木県/群馬県/埼玉県/千葉県/東京都/神奈川県/山梨県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "助成対象経費の4分の3以内（うち、小規模事業者は5分の4以内） ※賃金引上げ計画を達成できなかった場合、助成率は3分の2以内",
+   "subsidy_max_limit": 6000000,
+   "acceptance_start_datetime": "2026-11-16T00:00Z",
+   "acceptance_end_datetime": "2026-12-14T07:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003rcVFUAY",
+   "institution_name": "経営力強化に向けた創意工夫チャレンジ促進事業(賃上げ重点コース)"
   },
   {
    "id": "a0WJ200000CDXH1MAP",
@@ -3487,23 +3453,6 @@
    "institution_name": "東京都中小企業障害者雇用スタート支援奨励事業"
   },
   {
-   "id": "a0WfQ000003j5GLUAY",
-   "name": "S-00009938",
-   "title": "「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の第3回公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、第3回「GX分野のディープテック・スタートアップへの事業開発支援事業（GX_UPP事業）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CA2_100511.html  \" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CA2_100511.html  </a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-11-10T01:00Z",
-   "acceptance_end_datetime": "2026-11-17T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003j5GLUAY",
-   "institution_name": "P25001_GX 分野のディープテック・スタートアップへの事業開発支援事業"
-  },
-  {
    "id": "a0WJ200000CDeC1MAL",
    "name": "S-00009738",
    "title": "2026年度「ディープテック・スタートアップ支援基金／国際共同研究開発」の公募",
@@ -3759,6 +3708,40 @@
    "institution_name": "0101475 医学技術振興事業"
   },
   {
+   "id": "a0WfQ000003qLZhUAM",
+   "name": "S-00009985",
+   "title": "「ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）」の公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「</span><span style=\"font-size: 16px;\">ポスト５Ｇ情報通信システム基盤強化研究開発事業／記録レス介護実現のための介護特化モデル等に関する研究開発（委託）</span><span style=\"font-size: 16px;\">」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100456.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100456.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-16T01:00Z",
+   "acceptance_end_datetime": "2026-12-16T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003qLZhUAM",
+   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
+  },
+  {
+   "id": "a0WfQ000003CYIjUAO",
+   "name": "S-00009829",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100453.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100453.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-10-14T01:00Z",
+   "acceptance_end_datetime": "2026-11-16T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO",
+   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
+  },
+  {
    "id": "a0WJ200000CDY2OMAX",
    "name": "S-00008400",
    "title": "令和8年度職場内障害者サポーター事業",
@@ -3793,23 +3776,6 @@
    "institution_name": "課題解決型技術開発促進事業（販路拡大助成）"
   },
   {
-   "id": "a0WfQ000003CYIjUAO",
-   "name": "S-00009829",
-   "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）の追加公募",
-   "subsidy_catch_phrase": null,
-   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（g12-2：部素材）」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100453.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100453.html</a></p>",
-   "use_purpose": "研究開発・実証事業を行いたい",
-   "industry": "学術研究、専門・技術サービス業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": null,
-   "subsidy_max_limit": 0,
-   "acceptance_start_datetime": "2026-10-14T01:00Z",
-   "acceptance_end_datetime": "2026-11-16T03:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003CYIjUAO",
-   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
-  },
-  {
    "id": "a0WJ200000CDY2TMAX",
    "name": "S-00008405",
    "title": "既存住宅流通活性化緊急促進事業",
@@ -3842,6 +3808,40 @@
    "acceptance_end_datetime": "2027-01-28T15:00Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDa1RMAT",
    "institution_name": "都型放課後等デイサービス事業"
+  },
+  {
+   "id": "a0WfQ0000047V4oUAE",
+   "name": "S-00010040",
+   "title": "「ナトリウムイオン電池に関する技術（特許）動向調査」の公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「ナトリウムイオン電池に関する技術（特許）動向調査」の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/DA2_100359.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/DA2_100359.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-20T01:00Z",
+   "acceptance_end_datetime": "2026-12-03T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000047V4oUAE",
+   "institution_name": "P26002_革新型蓄電池技術開発・高度解析事業"
+  },
+  {
+   "id": "a0WfQ0000043Od4UAE",
+   "name": "S-00010028",
+   "title": "「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（b-2：人材育成）の追加公募",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><span style=\"font-size: 16px;\">国立研究開発法人新エネルギー・産業技術総合開発機構（NEDO）は、「ポスト5G情報通信システム基盤強化研究開発事業（社会課題解決に向けた量子コンピュータ次世代機開発・実証の加速）」（b-2：人材育成）の実施者を広く一般に公募いたします。本件について受託を希望する方は、NEDO HPをご確認いただき御応募ください。</span></p><p><a href=\"https://www.nedo.go.jp/koubo/CD2_100459.html\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"font-size: 16px;\">https://www.nedo.go.jp/koubo/CD2_100459.html</a></p>",
+   "use_purpose": "研究開発・実証事業を行いたい",
+   "industry": "学術研究、専門・技術サービス業",
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": null,
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-11-20T01:00Z",
+   "acceptance_end_datetime": "2026-12-22T03:00Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ0000043Od4UAE",
+   "institution_name": "ポスト５Ｇ情報通信システム基盤強化研究開発事業"
   },
   {
    "id": "a0WJ200000CDY7KMAX",
@@ -4167,21 +4167,21 @@
    "institution_name": "建築物等のZEB化・省CO2化普及加速事業"
   },
   {
-   "id": "a0WJ200000CDXkTMAX",
-   "name": "S-00008193",
-   "title": "令和８年度展示会出展助成事業",
-   "subsidy_catch_phrase": "ＢtoＢの展示会への出展費用等を助成します",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><strong style=\"font-size: 14px;\">都内中小企業者</strong><span style=\"font-size: 14px;\">が、販路拡大及び経営基盤の更なる強化を図るために行う</span><strong style=\"font-size: 14px;\">展示会への出展</strong><span style=\"font-size: 14px;\">等に係る経費の一部を助成します。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■根拠法令</strong></p><p>令和８年度展示会出展助成事業　交付要綱</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>「令和８年度展示会出展助成事業　募集要項」に定める要件を満たす都内中小企業者</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■備考</strong></p><p>第１回申請受付：令和８年４月１日0：00～４月14日16：00</p><p>以降令和９年１月まで毎月　計10回</p><p>（詳細スケジュールは募集要項をご参照ください）</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>(公財)東京都中小企業振興公社　助成課</p><p>TEL：03-3251-7895(受付時間：平日の10:00～12:00・13:00～16:00)</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p>https://www.tokyo-kosha.or.jp/support/josei/jigyo/tenjikai/r8/index.html</p>",
-   "use_purpose": "販路拡大・海外展開をしたい",
-   "industry": "漁業 / 建設業 / 製造業 / 電気・ガス・熱供給・水道業 / 情報通信業 / 複合サービス事業 / サービス業（他に分類されないもの） / 分類不能の産業 / 農業、林業 / 鉱業、採石業、砂利採取業 / 運輸業、郵便業 / 卸売業、小売業 / 金融業、保険業 / 不動産業、物品賃貸業 / 学術研究、専門・技術サービス業 / 宿泊業、飲食サービス業 / 生活関連サービス業、娯楽業 / 教育、学習支援業 / 医療、福祉",
+   "id": "a0WfQ000003wLYbUAM",
+   "name": "S-00010005",
+   "title": "令和８年度　宿泊事業者向け省力化推進事業補助金",
+   "subsidy_catch_phrase": "宿泊事業者の人手不足解消に向け、先進的・独創的な技術・ノウハウに基づき作成され、優れた省力効果を持つ機器・システム等の情報を宿泊事業者に分かりやすく提供するとともに、当該機器等の導入を支援します。",
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>本補助金は、先進的・独創的な技術・ノウハウに基づき作成され、優れた省力効果を持つ機器・システム等を都内宿泊施設が導入する取組を支援するため、その取組に要する経費の一部を補助することで、都内宿泊施設が省力化機器等を導入することを促進し、人手不足等を解消することを目的とします。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p>都内に旅館業法（昭和23年法律第138号）第３条第１項の許可を受けて、同法第２条第２項又は第３項の営業を行っている施設を運営する宿泊事業者</p><p>※中小企業基本法（昭和38年法律第154号）第２条に定める中小企業者又は産業競争力強化法（平成25年法律第98号）第２条に定める中堅企業者であり、大企業が実質的に経営に参画していないことを要します。</p><p>※詳細は「募集要領」をご参照ください。</p><p><strong style=\"color: rgb(250, 32, 13);\">※下記「条件」の「業種」及び「従業員数の上限」については、「募集要領」をご参照ください。</strong></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■地理条件</strong></p><p>東京都内</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p>東京都 産業労働局 観光部 受入環境課</p><p>事業調整担当</p><p>電話：０３－５０００－７３２４</p><p>問合せ時間　９：００～１７：３０　（※１２：００～１３：００を除く）</p><p>土日祝日、年末年始を除く</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■参照URL</strong></p><p><a href=\"https://www.sangyo-rodo.metro.tokyo.lg.jp/tourism/kakusyu/shoryokuka/\" rel=\"noopener noreferrer\" target=\"_blank\">宿泊事業者向け省力化推進事業|補助金等の各種支援事業|東京都産業労働局</a></p>",
+   "use_purpose": "設備整備・IT導入をしたい",
+   "industry": "宿泊業、飲食サービス業",
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "助成対象と認められる経費の２／３以内",
-   "subsidy_max_limit": 1500000,
-   "acceptance_start_datetime": "2026-09-30T15:00Z",
-   "acceptance_end_datetime": "2026-10-14T07:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDXkTMAX",
-   "institution_name": "令和８年度展示会出展助成事業"
+   "subsidy_rate": "補助上限額と補助対象経費の2/3のうち小さい額",
+   "subsidy_max_limit": 8000000,
+   "acceptance_start_datetime": "2026-11-19T15:00Z",
+   "acceptance_end_datetime": "2026-12-18T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000003wLYbUAM",
+   "institution_name": "令和８年度　宿泊事業者向け省力化推進事業"
   },
   {
    "id": "a0WJ200000CDap3MAD",
