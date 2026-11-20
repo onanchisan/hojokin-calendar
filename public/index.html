@@ -3,34 +3,201 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>onanchi｜AIで運営する情報サイト</title>
-<meta name="description" content="onanchiは、公的機関の公開情報などをAIで整理して届ける情報サイトの運営者です。補助金・助成金の締切カレンダーを公開しています。">
+<title>onanchi｜AIとつくる、小さく役立つものを。</title>
+<meta name="description" content="onanchiは、AIを活用してWebサービス・ゲーム・デジタル商品をつくり、届けている個人運営のサイトです。補助金・助成金の締切カレンダーなどを公開しています。">
 <link rel="canonical" href="https://onanchi.com/">
+<meta name="theme-color" content="#05070a">
+<meta property="og:title" content="onanchi">
+<meta property="og:description" content="AIを活用してWebサービス・ゲーム・デジタル商品をつくり、届けています。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://onanchi.com/">
 <meta name="google-site-verification" content="hoOQAgLT_IipO51M9eReoNeAI8NUjVgGhiAsdDFU0tY">
 <meta name="google-site-verification" content="_ssQcPa7c0FJ3BfJo3wTWGmQkjbIi-kHRf_rgrPsKGs">
-<link rel="stylesheet" href="/portal.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%2305070a'/%3E%3Ccircle cx='16' cy='16' r='9' fill='none' stroke='%235ef0c8' stroke-width='2.5'/%3E%3Ccircle cx='16' cy='16' r='3.5' fill='%235ef0c8'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/site.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2526635208988308" crossorigin="anonymous"></script>
 </head>
 <body>
-<header><div class="w"><strong><a href="/" style="text-decoration:none">onanchi</a></strong><nav><a href="/service/hojokin-calendar/">補助金カレンダー</a><a href="/about.html">運営者情報</a><a href="/privacy.html">プライバシーポリシー</a></nav></div></header>
-<main class="w">
-<h1>onanchi</h1>
-<p class="lead">公的機関が公開している情報を、AIで整理して、見つけやすい形で届けるサイトを運営しています。</p>
 
-<h2>運営しているサービス</h2>
-<div class="card">
-  <h3><a href="/service/hojokin-calendar/">補助金カレンダー</a></h3>
-  <p>公募中の補助金・助成金を、締切の近い順・地域別・業種別に探せる情報サイトです。デジタル庁「Jグランツ」の公開データを、毎朝自動で更新しています。申込みの流れや事業計画書の書き方などの基礎ガイドも掲載しています。</p>
-  <p><a class="btn" href="/service/hojokin-calendar/">補助金カレンダーを見る</a></p>
-</div>
+<!-- ===== ヘッダー ===== -->
+<header class="site-header">
+  <div class="wrap">
+    <a class="logo" href="/"><span class="logo-mark"></span>onanchi</a>
+    <nav class="gnav" aria-label="メインメニュー">
+      <a href="/#news"><span class="mono">01</span>ニュース</a>
+      <a href="/#services"><span class="mono">02</span>サービス</a>
+      <a href="/#policy"><span class="mono">03</span>運営の方針</a>
+      <a href="/about.html"><span class="mono">04</span>運営者情報</a>
+    </nav>
+    <button class="menu-btn" type="button" aria-label="メニューを開く" aria-expanded="false"><span></span><span></span></button>
+  </div>
+</header>
 
-<h2>運営の方針</h2>
-<ul>
-  <li><strong>一次情報へのリンクを明示します。</strong>公的機関の公開情報をもとにし、掲載した制度ごとに公式ページへのリンクと取得日を表示します。</li>
-  <li><strong>AIを使っていることを隠しません。</strong>データの取得・整理・ページ作成は自動化しており、内容の正確性は保証できません。重要な判断の前には、必ず公式の情報をご確認ください。</li>
-  <li><strong>誤りがあれば訂正します。</strong>お気づきの点は、<a href="/about.html">運営者情報</a>の連絡先からお知らせください。</li>
-</ul>
+<main>
+
+<!-- ===== メインビジュアル ===== -->
+<section class="hero">
+  <div class="hero-grid"></div>
+  <div class="hero-glow"></div>
+  <canvas class="hero-canvas" aria-hidden="true"></canvas>
+  <div class="hud tl" aria-hidden="true">PARTICLES <b class="hud-n">0000</b><br>ROT <b class="hud-r">000.0</b>°</div>
+  <div class="wrap">
+    <div>
+      <span class="eyebrow fade-up">ONANCHI — BUILT WITH AI</span>
+      <h1 data-scramble>
+        <span class="reveal-line"><span>AIとつくる、</span></span>
+        <span class="reveal-line"><span><span class="g">小さく役立つもの</span>を。</span></span>
+      </h1>
+      <p class="lead fade-up">onanchi は、AIを活用して Webサービス・ゲーム・デジタル商品をつくり、必要としている人に届けています。</p>
+      <div class="btns fade-up d2">
+        <a class="btn" href="/#services">サービスを見る <span class="arr">→</span></a>
+        <a class="btn ghost" href="/about.html">運営者情報</a>
+      </div>
+    </div>
+  </div>
+  <div class="scroll-cue">SCROLL</div>
+</section>
+
+<!-- ===== 流れる帯 ===== -->
+<div class="marquee" aria-hidden="true"><div class="marquee-track"><span>WEB SERVICES<i>✦</i><em>GAMES</em><i>✦</i>DIGITAL PRODUCTS<i>✦</i><em>BUILT WITH AI</em><i>✦</i></span><span>WEB SERVICES<i>✦</i><em>GAMES</em><i>✦</i>DIGITAL PRODUCTS<i>✦</i><em>BUILT WITH AI</em><i>✦</i></span></div></div>
+
+<!-- ===== ニュース =====
+     新しいお知らせは、いちばん上に <li>…</li> を1つ追加してください。
+     リンクがないお知らせは <a class="row" href="…"> の代わりに <div class="row"> を使います。 -->
+<section class="section" id="news">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div><span class="idx" data-scramble>01 / NEWS</span><h2 data-scramble>ニュース</h2></div>
+    </div>
+    <ul class="news rv" data-delay="100">
+      <li><div class="row"><time datetime="2026-11-20">2026.11.20</time><span class="tag">INFO</span><span class="ttl">onanchi.com のトップページをリニューアルしました。</span><span class="go"></span></div></li>
+    </ul>
+  </div>
+</section>
+
+<div class="wrap"><div class="divider"></div></div>
+
+<!-- ===== サービス =====
+     カードはそれぞれの一覧ページへのリンクです。
+       Webサービス → public/service/index.html
+       ゲーム       → public/games/index.html
+       ショップ     → public/shop/index.html
+     作ったものを追加するときは、各一覧ページにカードを足します。 -->
+<section class="section" id="services">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div><span class="idx" data-scramble>02 / SERVICES</span><h2 data-scramble>サービス</h2></div>
+      <p>これまでにつくったもの、これからつくるもの。</p>
+    </div>
+    <div class="services">
+
+      <a class="svc rv" href="/service/">
+        <div class="svc-top">
+          <div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M2 9h20M6 6.5h.01M9 6.5h.01"/></svg></div>
+          <span class="svc-no">S—01</span>
+        </div>
+        <h3>Webサービス</h3>
+        <p>AIで公開情報を整理した情報サイトや、ブラウザで使えるツール。「補助金カレンダー」などを公開しています。</p>
+        <div class="svc-foot"><span class="status">LIVE</span><span class="open">一覧へ →</span></div>
+      </a>
+
+      <a class="svc v soon rv" href="/games/" data-delay="100">
+        <div class="svc-top">
+          <div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="6" width="20" height="12" rx="4"/><path d="M7 10v4M5 12h4"/><circle cx="16" cy="11" r=".8"/><circle cx="18" cy="13" r=".8"/></svg></div>
+          <span class="svc-no">S—02</span>
+        </div>
+        <h3>ゲーム</h3>
+        <p>ブラウザですぐに遊べる、小さなゲームを制作しています。</p>
+        <div class="svc-foot"><span class="status soon">COMING SOON</span><span class="open">一覧へ →</span></div>
+      </a>
+
+      <a class="svc b soon rv" href="/shop/" data-delay="200">
+        <div class="svc-top">
+          <div class="svc-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 2 3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18M16 10a4 4 0 0 1-8 0"/></svg></div>
+          <span class="svc-no">S—03</span>
+        </div>
+        <h3>ショップ</h3>
+        <p>仕事や暮らしに役立つデジタル商品（テンプレート・ツールなど）を販売する予定です。</p>
+        <div class="svc-foot"><span class="status soon">COMING SOON</span><span class="open">一覧へ →</span></div>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ===== 運営の方針 ===== -->
+<section class="section" id="policy" style="padding-top:2rem">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div><span class="idx" data-scramble>03 / POLICY</span><h2 data-scramble>運営の方針</h2></div>
+    </div>
+    <div class="policy">
+      <div class="policy-item rv">
+        <div class="num">— 01</div>
+        <h3>一次情報へのリンクを明示します</h3>
+        <p>公的機関などの公開情報をもとにしたページでは、出典となる公式ページへのリンクと取得日を表示します。</p>
+      </div>
+      <div class="policy-item rv" data-delay="100">
+        <div class="num">— 02</div>
+        <h3>AIを使っていることを隠しません</h3>
+        <p>データの取得・整理・ページ作成の多くを自動化しています。内容の正確性は保証できないため、重要な判断の前には必ず公式の情報をご確認ください。</p>
+      </div>
+      <div class="policy-item rv" data-delay="200">
+        <div class="num">— 03</div>
+        <h3>誤りがあれば訂正します</h3>
+        <p>お気づきの点は、<a href="/about.html">運営者情報</a>の連絡先からお知らせください。確認のうえ、速やかに訂正します。</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ===== 運営者情報への案内 ===== -->
+<section class="section" style="padding-top:0">
+  <div class="wrap">
+    <div class="about-band rv">
+      <div>
+        <span class="idx">04 / ABOUT</span>
+        <h2>onanchi について</h2>
+        <p>onanchi は個人で運営しています。運営者情報・免責事項・お問い合わせ先はこちらをご覧ください。</p>
+      </div>
+      <a class="btn" href="/about.html">運営者情報を見る <span class="arr">→</span></a>
+    </div>
+  </div>
+</section>
+
 </main>
-<footer><div class="w">&copy; onanchi ／ <a href="/about.html">運営者情報</a> ／ <a href="/privacy.html">プライバシーポリシー</a></div></footer>
+
+<!-- ===== フッター ===== -->
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="f-top">
+      <div>
+        <a class="logo" href="/"><span class="logo-mark"></span>onanchi</a>
+        <p class="desc">AIとつくる、小さく役立つものを。</p>
+      </div>
+      <div class="f-cols">
+        <div>
+          <h4>SERVICES</h4>
+          <ul>
+            <li><a href="/service/">Webサービス</a></li>
+            <li><a href="/games/">ゲーム</a></li>
+            <li><a href="/shop/">ショップ</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>ABOUT</h4>
+          <ul>
+            <li><a href="/about.html">運営者情報</a></li>
+            <li><a href="/privacy.html">プライバシーポリシー</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <p class="f-big" aria-hidden="true">onanchi</p>
+    <div class="copy"><span>&copy; 2026 onanchi</span><span>BUILT WITH AI</span></div>
+  </div>
+</footer>
+
+<script src="/site.js"></script>
 </body>
 </html>
