@@ -106,13 +106,16 @@ img,svg{display:block}
 /* ---- PR動画 ---- */
 .movie{position:relative;margin-top:2.2rem;border:var(--line);border-radius:var(--r);box-shadow:8px 8px 0 var(--ink);overflow:hidden;background:var(--paper);aspect-ratio:16/9}
 .movie video{display:block;width:100%;height:100%;object-fit:cover;background:var(--paper)}
-.movie-play{position:absolute;left:22px;bottom:22px;display:inline-flex;align-items:center;gap:.6em;padding:.9rem 1.6rem .9rem 1.1rem;border:var(--line);border-radius:999px;background:var(--acc);color:#fff;font:inherit;font-weight:900;font-size:1.1rem;box-shadow:var(--shadow);cursor:pointer;transition:transform .2s cubic-bezier(.34,1.56,.64,1),box-shadow .12s ease-out,opacity .25s}
+/* 再生前は表紙に薄い幕をかけ、ボタンを中央に置く（どの幅でも字幕に重ならない見え方にするため） */
+.movie::after{content:"";position:absolute;inset:0;background:rgba(247,247,244,.55);backdrop-filter:blur(2px);-webkit-backdrop-filter:blur(2px);transition:opacity .25s;pointer-events:none}
+.movie.playing::after{opacity:0}
+.movie-play{position:absolute;z-index:1;left:50%;top:50%;transform:translate(-50%,-50%);display:inline-flex;align-items:center;gap:.6em;padding:.9rem 1.6rem .9rem 1.1rem;border:var(--line);border-radius:999px;background:var(--acc);color:#fff;font:inherit;font-weight:900;font-size:1.1rem;box-shadow:var(--shadow);cursor:pointer;transition:transform .2s cubic-bezier(.34,1.56,.64,1),box-shadow .12s ease-out,opacity .25s}
 .movie-play svg{width:1.6em;height:1.6em;background:#fff;color:var(--acc);border-radius:50%;padding:.25em .2em .25em .3em}
 .movie-play small{font-weight:700;font-size:.78rem;opacity:.85}
-.movie-play:hover{transform:scale(1.06)}
-.movie-play:active{transform:scale(.94);box-shadow:1px 1px 0 var(--ink)}
+.movie-play:hover{transform:translate(-50%,-50%) scale(1.06)}
+.movie-play:active{transform:translate(-50%,-50%) scale(.94);box-shadow:1px 1px 0 var(--ink)}
 .movie.playing .movie-play{opacity:0;pointer-events:none}
-@media (max-width:560px){.movie-play{left:10px;top:10px;bottom:auto;font-size:.8rem;padding:.4rem .8rem .4rem .45rem;border-width:2px}.movie-play small{display:none}}
+@media (max-width:560px){.movie-play{font-size:.85rem;padding:.5rem .95rem .5rem .55rem;border-width:2px}.movie-play small{display:none}}
 
 /* ---- 3ステップ ---- */
 .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;margin-top:2.4rem;position:relative}
@@ -239,4 +242,4 @@ img,svg{display:block}
   .band-in{animation:none}
   .btn:hover{transform:none}
 }
-@media (prefers-reduced-transparency:reduce){.mh{background:var(--bg);backdrop-filter:none}}
+@media (prefers-reduced-transparency:reduce){.mh{background:var(--bg);backdrop-filter:none}.movie::after{background:rgba(247,247,244,.7);backdrop-filter:none}}
