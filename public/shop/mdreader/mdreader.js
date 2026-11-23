@@ -191,6 +191,18 @@
     nums.forEach(function (n) { n.textContent = '0'; nio.observe(n); });
   }
 
+  /* ---------- PR動画：大きな再生ボタンを押すと再生し、以降は標準の操作バーで操作 ---------- */
+  var pv = $('#pr-video');
+  if (pv) {
+    var box = pv.parentNode, pb = $('.movie-play', box);
+    pb.addEventListener('click', function () {
+      pv.controls = true;
+      var p = pv.play(); if (p && p.catch) p.catch(function () {});
+    });
+    pv.addEventListener('play', function () { box.classList.add('playing'); pv.controls = true; });
+    pv.addEventListener('ended', function () { box.classList.remove('playing'); });
+  }
+
   /* ---------- SHA-256 のコピー ---------- */
   $$('.copy[data-copy]').forEach(function (b) {
     b.addEventListener('click', function () {
