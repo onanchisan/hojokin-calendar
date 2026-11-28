@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-11-27T03:08:20.553Z",
+ "fetchedAt": "2026-11-28T02:54:16.149Z",
  "items": [
   {
    "id": "a0W2x000005iqyXEAQ",
@@ -1396,23 +1396,6 @@
    "institution_name": "【長野県茅野市】消費喚起イベント事業補助金"
   },
   {
-   "id": "a0WJ200000CDY5GMAX",
-   "name": "S-00008435",
-   "title": "令和７年度補正 ディマンドリスポンスの拡大に向けたIoT化推進事業",
-   "subsidy_catch_phrase": "DR対応IoT化",
-   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">2050年のカーボンニュートラル、2040年のエネルギーミックス達成に向けては、再生可能エネルギー（以下、「再エネ」という。）の最大限の導入・活用が必要不可欠である。2040年の電源構成は再エネ比率が４割～５割程度と設定されており、より一層の再エネ電源導入促進の観点から、需要家側に設置されている分散型エネルギーリソースを活用したディマンドリスポンス（DR）の普及拡大が求められている。こういったDRの担い手として、アグリゲーターの活躍が期待されている。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">このような状況を踏まえ、本事業では、まだDRに活用されていない既存リソースのIoT化を支援し、アグリ ゲーターが外部から遠隔監視・制御等が行えるようにすることで、電力需給ひっ迫時だけでなく再エネ出力 制御対策にも活用し、電力の安定供給及び再エネ設備の更なる導入加速に貢献する。</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■応募資格</strong></p><p><strong style=\"color: rgb(0, 0, 0);\">（DRアグリゲーター）</strong></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">下記①～⑥の要件をすべて満たす事業者を、DRアグリゲーターとして、SIIは登録及び公表をする。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">①日本国内において事業活動を営んでいる法人であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">②補助事業者の事業を確実に遂行するために必要な経営基盤を有し、事業の継続性が認められる者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">③IoT化によって、需要家所有のリソースの状態を監視し、遠隔制御・制御指示等することが可能な者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">④本事業の実施及びその後の各種電力市場等への調整力等の供出に関して、法令、規程、エネルギー・リソース・アグリゲーション・ビジネスに関するサイバーセキュリティガイドライン、その他各種セキュリティガイドライン等に基づいた適切な対策等を実施できる者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">⑤需要家側に新たに導入するIoT化関連機器のうち、通信を行う設備において、JC-STAR★1を取得した機器を使用する者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">⑥経済産業省から補助金等停止措置又は指名停止措置が講じられていない者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">　※その他、公的資金の交付先として社会通念上適切と認められない者からの申請は認めない。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">⑦その他、公募要領P.13に記載するDRアグリゲーターの役割を全て責任をもって遂行できる者であること。</span></p><p><br></p><p><strong>（補助対象事業者）</strong></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">下記①～⑦の要件をすべて満たす事業者を、補助対象事業者（以下「補助事業者」という。）とする。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">①日本国内において事業活動を営んでいる法人であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">② 補助事業により導入する補助対象設備の所有者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\"> ※リース等により補助対象設備を導入する場合は、リース事業者と設備の使用者が共同で申請すること。通常のリース以外又はTPOモデル等での申請をする場合は事前にSIIに確認すること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">③補助事業を確実に遂行するために必要な経営基盤を有し、事業の継続性が認められる者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">④需要家所有の既存のリソースをIoT化し、DR契約をDRアグリゲーターと需要家間で締結ができる者であること。契約期間は少なくとも2028年3月31日まで（以下「DR対応期間」という。）継続すること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">　※DR契約については、公募要領P.13【2‐4.DR契約について】を参照。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">　※リース等により補助対象設備を導入する場合は、リース事業者はDRアグリゲーターと需要家間で補助対象設備を活用したDR契約が締結されることに同意できる者であること。</span></p><p><span style=\"font-size: 12.8px; color: rgb(0, 0, 0);\">⑤④の実施状況等についての報告を国又はSIIが求めた際、DR対応期間中の実施状況をDRアグリゲーターが報告を行うことに同意できる者であること。また、DR対応期間終了後",
-   "use_purpose": "新たな事業を行いたい",
-   "industry": "電気・ガス・熱供給・水道業",
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "subsidy_rate": "1/2以内",
-   "subsidy_max_limit": 20000000,
-   "acceptance_start_datetime": "2026-03-24T04:00Z",
-   "acceptance_end_datetime": "2026-11-27T15:00Z",
-   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDY5GMAX",
-   "institution_name": "令和７年度補正 「再生可能エネルギー導入拡大・分散型エネルギーリソース導入支援等事業費補助金」ディマンドリスポンスの拡大に向けたIoT化推進事業"
-  },
-  {
    "id": "a0WJ200000CDYvXMAX",
    "name": "S-00009147",
    "title": "多摩市ふるさと納税を活用した資金調達支援事業補助金",
@@ -1921,6 +1904,23 @@
    "acceptance_end_datetime": "2026-10-28T14:59Z",
    "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WJ200000CDc0YMAT",
    "institution_name": "令和８年度都市ガス分野の災害対応・レジリエンス強化にかかる支援事業費補助金"
+  },
+  {
+   "id": "a0WfQ000004MP0fUAG",
+   "name": "S-00010079",
+   "title": "東京都生産性向上・職場環境整備等支援事業補助金　消費税仕入控除税額報告",
+   "subsidy_catch_phrase": null,
+   "detail": "<p><strong style=\"color: rgb(0, 111, 173);\">■目的・概要</strong></p><p>　本事業は、人材確保が喫緊の課題となっている中で、限られた人員でより効率的に業務を行う環境の整備費用に相当する金額を、補助金として支給することにより、業務の生産性を向上させ、職員の処遇改善につなげることを目的としている。</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■支給対象医療機関</strong></p><p>令和7年3月31日時点でベースアップ評価料を届け出ている病院、有床診療所（医科・歯科）、無床診療所（医科・歯科）及び訪問看護ステーション</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■対象事業</strong></p><p>令和6年4月1日から令和8年3月31日までの間に、以下の業務効率化や職員の処遇改善を図る場合（いずれか（複数可））に所要の経費に相当する補助金を支給します。</p><p>１　ICT機器等の導入による業務効率化</p><p>２　タスクシフト・シェアによる業務効率化</p><p>３　給付金を活用した更なる賃上げ</p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■支給額の算定方法</strong></p><p><span style=\"color: rgb(0, 0, 0);\">１　病院・有床診療所（医科・歯科）</span></p><p><span style=\"color: rgb(0, 0, 0);\">　　許可病床数×4万円</span></p><p><span style=\"color: rgb(0, 0, 0);\">　　※4床以下の場合は18万円</span></p><p><span style=\"color: rgb(0, 0, 0);\">２　無床診療所（医科・歯科）・訪問看護ステーション</span></p><p><span style=\"color: rgb(0, 0, 0);\">　　1施設　18万円</span></p><p><span style=\"color: rgb(0, 0, 0);\">※いずれの場合も補助率は10分の10</span></p><p><br></p><p><strong style=\"color: rgb(0, 111, 173);\">■問合せ先</strong></p><p><span style=\"color: rgb(0, 0, 0);\">郵送先：〒163-8001　新宿区西新宿二丁目8番1号</span></p><p><span style=\"color: rgb(0, 0, 0);\">東京都保健医療局医療政策部医療人材課人材計画担当　</span></p><p><span style=\"color: rgb(0, 0, 0);\">E-mail：S1150404@section.metro.tokyo.jp</span></p><p>★問い合わせフォーム　<a href=\"https://logoform.jp/form/tmgform/1919990\" rel=\"noopener noreferrer\" target=\"_blank\">https://logoform.jp/form/tmgform/1919990</a></p>",
+   "use_purpose": "雇用・職場環境を改善したい / 設備整備・IT導入をしたい",
+   "industry": "医療、福祉",
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "subsidy_rate": "10分の10",
+   "subsidy_max_limit": 0,
+   "acceptance_start_datetime": "2026-04-01T00:00Z",
+   "acceptance_end_datetime": "2027-05-31T14:59Z",
+   "front_subsidy_detail_page_url": "https://www.jgrants-portal.go.jp/subsidy/a0WfQ000004MP0fUAG",
+   "institution_name": "東京都生産性向上・職場環境整備等支援事業補助金　消費税仕入控除税額報告"
   },
   {
    "id": "a0WJ200000CDXmVMAX",
